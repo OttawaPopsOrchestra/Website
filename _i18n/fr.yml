@@ -1,0 +1,18 @@
+site:
+  name: Orchestre Pop d'Ottawa
+
+header:
+  about: à propos de nous
+  concerts: concerts
+  orchestra: orchestre
+  community: communauté
+  contact: contact
+
+home:
+  mission-title: Notre Mission
+  mission: statement
+  about:
+    one: fdsf
+    two: gfsgdf
+    three: dsa
+    four: fdsf
