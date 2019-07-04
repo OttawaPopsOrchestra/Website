@@ -1,7 +1,8 @@
 site:
   name: Orchestre Pop d'Ottawa
 
-header:
+pages:
+  home: Accueil
   about: à propos de nous
   concerts: concerts
   orchestra: orchestre
@@ -16,3 +17,13 @@ home:
     two: gfsgdf
     three: dsa
     four: fdsf
+
+footer:git
+  profit: The Ottawa Pops Orchestra is a Registered Not-for-Profit Corporation 1017269-3
+  newsletter: Subscribe to our newsletter
+  box-office: Box Office<br>
+    10 am to 8pm daily
+    Telephone - 613-580-2700
+    Toll-free -  1-866-752-5231
+    In Person -  Mon to Sat, 5 pm to 8:30 pm
+    Online -  24/7

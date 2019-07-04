@@ -1,7 +1,8 @@
 site:
   name: Ottawa Pops Orchestra
 
-header:
+pages:
+  home: home
   about: About Us
   concerts: Concerts
   orchestra: Orchestra
@@ -16,3 +17,13 @@ home:
     two: We combine our passions by performing innovative concerts that redefine the modern orchestral experience. We’re made of people just like you, and we love to dress up and share our love for the music we play. Our mission - to foster the next generation of musicians, redefine the orchestral experience, and create a sense of community in the Ottawa-Gatineau Region.
     three: We have humble roots as a school club at the University of Ottawa, starting in 2012 with only a handful of eager musicians. After five years, we split from the university and ventured into the real world, this time with a sixty-person orchestra and a full administrative team.
     four: Our first season in 2017-2018 was a huge success, as we performed for over 3000 people over the course of three series of concerts. In the 2018-2019 season, our performances are hosted exclusively at Meridian Theatres at Centrepointe as we develop educational opportunities in the Ottawa area and bring bigger and better shows to life than ever before.
+
+footer:
+  profit: The Ottawa Pops Orchestra is a Registered Not-for-Profit Corporation 1017269-3
+  newsletter: Subscribe to our newsletter
+  box-office: Box Office
+              10 am to 8pm daily
+              Telephone - 613-580-2700
+              Toll-free -  1-866-752-5231
+              In Person -  Mon to Sat, 5 pm to 8:30 pm
+              Online -  24/7
