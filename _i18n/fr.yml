@@ -18,10 +18,11 @@ home:
     three: dsa
     four: fdsf
 
-footer:git
+footer:
   profit: The Ottawa Pops Orchestra is a Registered Not-for-Profit Corporation 1017269-3
   newsletter: Subscribe to our newsletter
-  box-office: Box Office<br>
+  box-office: |
+    Box Office<br>
     10 am to 8pm daily
     Telephone - 613-580-2700
     Toll-free -  1-866-752-5231
