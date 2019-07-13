@@ -10,6 +10,7 @@ pages:
   contact: contact
 
 home:
+  moreInfo: more information
   mission-title: Our Mission
   mission: The Ottawa Pops Orchestra aims to foster the next generation of musicians, redefine the orchestral experience, and create a sense of community in the Ottawa-Gatineau Region.
   about:
@@ -29,8 +30,65 @@ footer:
       In Person -  Mon to Sat, 5 pm to 8:30 pm
       Online -  24/7
 
+upcoming:
+  title: Upcoming events
+  showAll: show all concerts
+  hmwDate: Nov 8
+  videoDate: march 21
+  broadDate: may 16
+
 about-us:
   title: Learn about the Ottawa Pops Orchestra
   one: The Ottawa Pops Orchestra is a community orchestra dedicated to programming orchestral pops repertoire in order to enrich and inspire the community through accessible, relevant, and passionate performances.
   two: Founded in the spring of 2017 by a collective of young musicians, Ottawa Pops Orchestra (OPO) strives to bridge classical orchestral repertoire with popular music, curating innovative concerts that redefine the orchestral experience for today’s audience. Under the joint direction of Matthew Larkin and Jonathan Dagenais, OPO strives to inspire, engage, and educate the greater Ottawa/Gatineau area.
   three: OPO is proud to announce two new educational initiatives for young musicians and students in the Ottawa-Gatineau Region. We are inviting local schools to some of our dress rehearsals and providing detailed educational resources for those shows to teachers, allowing students to experience a live orchestra in action. This season, we are also proud to offer the Orchestral Development Bursary, which provides the opportunity for young, talented musicians to refine their skill and gain professional orchestral experience with OPO.
+
+concerts:
+  readMore: read more
+  cancelled: This concert has been cancelled
+  eventPassed: THIS EVENT HAS PASSED
+  buyTickets: buy tickets
+  download: DOWNLOAD THE PROGRAM
+  meridian: Tickets sold through the Meridian Theatres at Centrepointe Box Office.
+
+  lang:
+    title: Language of the Event
+    value: French and English
+  age:
+    title: Suggested Age
+    value: All Ages
+
+  Disney:
+    title: "Disney in Concert: Around the World"
+    description: Experience the magic of Disney like never before; live with full symphonic orchestra and video projection! Ottawa Pops Orchestra presents the original classics from the movies we love, including The Little Mermaid, Pocahontas, Mary Poppins, Beauty and the Beast, Frozen, Aladdin, Mulan, Pirates of the Caribbean, and The Lion King. Join us for a concert filled with soaring melodies and tales as old as time, a true delight for the entire family!
+    concert1:
+      date: May 17, 2019
+      time: 7:30PM
+    concert2:
+      date: May 18, 2019
+      time: 7:30PM
+
+  SATS:
+    title: Storytime at the Symphony
+
+  StarWars:
+    title: The Music of Star Wars
+    concert1:
+      date: December 21, 2018
+      time: 7:30PM
+    concert2:
+      date: December 22, 2018
+      time: 7:30PM
+    concert3:
+      date: December 23, 2018
+      time: 2:30PM
+
+  ToT:
+    title: Trick or Toccata
+    concert1:
+      date: October 23, 2018
+      time: 7:30PM
+
+
+
+

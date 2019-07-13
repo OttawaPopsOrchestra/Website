@@ -12,12 +12,11 @@ permalink: /
                 <div class="carousel-item active">
                     <img id="SWcarousel-img" class="d-block w-100" src="/assets/img/concerts-single/2019-2020/HMWBanner.png" alt="HMW">
                     <div class="carousel-caption ">
-                        <a id="SWcarousel" onmouseenter="grey(this.id)" onmouseout="unGrey(this.id)" href="Disney.html" class="btn btn-maroon">More Information</a>
+                        <a id="SWcarousel" onmouseenter="grey(this.id)" onmouseout="unGrey(this.id)" href="Disney.html" class="btn btn-maroon">{% t home.moreInfo %}</a>
                     </div>
                 </div>
             </div>
         </div>
-
         <div id="carouselExampleControls-mobile" class="carousel slide carousel-mobile" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -31,7 +30,7 @@ permalink: /
                 <p data-aos="fade-left" data-aos-duration="1000" data-aos-delay="500">{% t home.mission %}</p>
             </div>
         </div>
-
+        {% include upcoming.html %}
         <!-- SM and About Us -->
         <div class="row">
             <div class="col-md-5 offset-md-1">

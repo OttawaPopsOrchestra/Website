@@ -10,6 +10,7 @@ pages:
   contact: contact
 
 home:
+  moreInfo: plus d'information
   mission-title: Notre Mission
   mission: statement
   about:
@@ -29,8 +30,62 @@ footer:
     In Person -  Mon to Sat, 5 pm to 8:30 pm
     Online -  24/7
 
+upcoming:
+  title: Upcoming events
+  showAll: show all concerts
+  hmwDate: le 8 nov
+  videoDate: le 21 mars
+  broadDate: le 16 mai
+
 about-us:
   title: title
   one: jfdksl
   two: fjdsklfjds
   three: fjdsklfj
+
+concerts:
+  readMore: lire plus
+  cancelled: cancelled
+  eventPassed: passed
+  buyTickets: buy
+  download: download
+  meridian: meridian
+
+  lang:
+    title: Langue de l'événement
+    value: Français et anglais
+  age:
+    title: Âge suggéré
+    value: Tous ages
+
+  Disney:
+    title: "Disney en Concert: Autour du Mond"
+    description: Vivez la magie de Disney comme vous ne l’avez jamais fait auparavant ; en direct avec un orchestre symphonique et une projection vidéo ! L’Orchestre Pop d’Ottawa présente des bandes-son originales de films bien-aimés, y compris, La Petite Sirène, Pocahontas, Mary Poppins, La Belle et la Bête, La Reine des neiges, Aladdin, Mulan, Pirates des Caraïbes et Le Roi Lion. Nous vous invitons à ce concert comblé de mélodies sensationnelles et d’anciennes légendes, une soirée captivante pour toute la famille !
+    concert1:
+      date: le 17 mai 2019
+      time: 19:30h
+    concert2:
+      date: le 18 mai 2019
+      time: 19:30h
+
+  SATS:
+    title: Contes à la Symphonie
+
+  StarWars:
+    title: La Musique de Star Wars
+    concert1:
+      date: le 21 décembre 2018
+      time: 19:30h
+    concert2:
+      date: le 22 décembre 2018
+      time: 19:30h
+    concert3:
+      date: le 23 décembre 2018
+      time: 14:30h
+
+  ToT:
+    title: Trick or Toccata
+    concert1:
+      date: le 23 octobre 2018
+      time: 19:30h
+
