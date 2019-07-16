@@ -22,13 +22,13 @@ home:
 footer:
   profit: The Ottawa Pops Orchestra is a Registered Not-for-Profit Corporation 1017269-3
   newsletter: Subscribe to our newsletter
-  box-office: |
-    Box Office<br>
-    10 am to 8pm daily
-    Telephone - 613-580-2700
-    Toll-free -  1-866-752-5231
-    In Person -  Mon to Sat, 5 pm to 8:30 pm
-    Online -  24/7
+  box-office:
+    title: Billetterie
+    time: 10 h à 20 h tous les jours
+    phone: "Téléphone : 613-580-2700"
+    toll: "Sans frais : 1-866 752-5231 "
+    person: "En personne : lundi au Samedi, 17 h à 20 h 30"
+    online: "En ligne : 24/7"
 
 upcoming:
   title: Upcoming events
@@ -66,6 +66,7 @@ concerts:
     title: Billets
     value: Les billets sont disponibles en ligne ou à la billetterie des Théâtres Meridian à Centrepointe
     price: Les billets varient entre 27,00$ - 62,00$, prix pour étudiants et pour enfants disponible
+    priceVGS: Les billets varient entre 25,75$ - 50,75$, prix pour étudiants et pour enfants disponible
 
   programNotes: Program Notes
   programOrder: Program Order
@@ -128,9 +129,11 @@ concerts:
     concert1:
       date: le 21 mars 2020
       time: 19:30h
+    description: "Nous lançons l’appel à tous les mages et guerriers : la chance d’embarquer dans votre domaine préféré est arrivée avec La Symphonie de jeux vidéo ! L’aventure débute à 18 h 30 le 21 mars 2020. Revivez l’extase de Final Fantasy, The Legend of Zelda, Call of Duty, Dragon Age, Undertale, et encore plus, qui seront dirigés par le chef d’orchestre de l’Orchestre de Jeux Vidéo de Montréal et de l’Orchestre Pop d’Ottawa, Jonathan Dagenais ! Témoignez de la splendeur d’un orchestre complet EN DIRECT, accompagné d’une projection cinématique. "
 
   broadway:
     title: Pops sur Broadway!
     concert1:
       date: le 16 mai 2020
       time: 14:30h
+    description: Mettez vos chaussures de danse et qu’on monte le son, le meilleur de Broadway vient à Ottawa au printemps 2020! L’Orchestre Pops d’Ottawa vous invite à “Pops sur Broadway!”, qui se tiendra au Théâtres Meridian @ Centrepointe le 16 mai 2020. Nous promettons une soirée pleine de rires, de triomphes et de mélodies dansantes qui plairont à toute la famille! Venez écouter vos chansons favorites des spectacles comme Evita, Les Misérables, Wicked, West Side Story, et encore plus, présentées par un orchestre symphonique et d’excellents chanteurs !

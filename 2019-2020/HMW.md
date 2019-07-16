@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Disney
+title: Harry's Musical World
 permalink: /hmw.html #change here if we want prettier link!!
 ---
 
