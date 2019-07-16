@@ -52,7 +52,7 @@ permalink: /popsonbroadway.html #change here if we want prettier link!!
                 <div class="col-md">
                   <p>
                     {% t concerts.tickets.value %} <br>
-                    {% t concerts.tickets.price %} <br>
+                    {% t concerts.tickets.priceVGS %} <br>
                 </p>
                 </div>
               </div>

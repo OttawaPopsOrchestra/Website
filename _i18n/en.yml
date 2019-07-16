@@ -43,6 +43,31 @@ about-us:
   two: Founded in the spring of 2017 by a collective of young musicians, Ottawa Pops Orchestra (OPO) strives to bridge classical orchestral repertoire with popular music, curating innovative concerts that redefine the orchestral experience for today’s audience. Under the joint direction of Matthew Larkin and Jonathan Dagenais, OPO strives to inspire, engage, and educate the greater Ottawa/Gatineau area.
   three: OPO is proud to announce two new educational initiatives for young musicians and students in the Ottawa-Gatineau Region. We are inviting local schools to some of our dress rehearsals and providing detailed educational resources for those shows to teachers, allowing students to experience a live orchestra in action. This season, we are also proud to offer the Orchestral Development Bursary, which provides the opportunity for young, talented musicians to refine their skill and gain professional orchestral experience with OPO.
 
+season:
+  title: Season Tickets
+  subtitle: Subscribers are some of our favourite people!
+  p1: The 2019-20 season is here, and when you choose to subscribe you receive subscriber only-benefits. We reward subscriber loyalty with the best prices we offer all year long in addition to first right of refusal on keeping your seats every year, plus 15% off extra tickets for friends and family, and early access to single tickets and special event tickets.
+  p2: "All 3 Shows: Save up to 27% regular ticket price"
+  p3: Are you ready to try something fun?
+  get: Get your season tickets!
+
+  savings:
+    title: See the savings
+    p1: When we say season ticket holders get the best deal, we mean it. See how the ticket price* changes for someone who waits to buy their tickets.
+
+  more:
+    title: Season Tickets Get You More
+    best: The best prices we offer, period
+    percent: 15% off any and all extra tickets for friends or family on all shows
+    refusal: First right of refusal to keep your seats every year, or first-in-line to request a new location
+    events: Early access pre-sale for special events
+
+  map: Seat Map and Pricing
+  hst: "*HST not included in posted price"
+  renew:
+    title: How Seating For Renewing Your Season Tickets Works
+    p1: Season subscribers always have first right of refusal to keep your seats until the season ticket renewal deadline in May. At that time, any unrenewed/unclaimed seats are released, and we begin processing location change requests.
+
 concerts:
   readMore: read more
   cancelled: This concert has been cancelled

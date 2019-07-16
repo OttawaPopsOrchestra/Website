@@ -43,6 +43,31 @@ about-us:
   two: fjdsklfjds
   three: fjdsklfj
 
+season:
+  title: Billets de saison
+  subtitle: Nos abonnés sont parmi nos personnes préférées
+  p1: La saison 2019-20 est arrivée et plein d’avantage vous attendent lorsque vous vous abonnez. Nous récompensons la loyauté d’abonnement avec les meilleurs coûts que nous offrons au cours de l’année, en plus du premier droit de refus pour conserver vos sièges à toutes les années. Il y a aussi le rabais de 15% sur des billets supplémentaires pour vos amis et votre famille, et l’occasion de vous procurer en avance des billets simples et pour les événements spéciaux.
+  p2: "Les 3 spectacles : Épargnez jusqu’à 27% du prix régulier "
+  p3: Êtes-vous prêts à vous amuser ?
+  get: Obtenez vos billets de saison !
+
+  savings:
+    title: Faites des économies
+    p1: Quand nous vous disons que les abonnés pour la saison ont les meilleurs prix*, c’est la vérité. Voyez comment les coûts changent pour ceux qui attendent avant d’acheter leurs billets.
+
+  more:
+    title: Les billets de saison vous rapportent plus
+    best: Les meilleurs prix que nous avons à offrir
+    percent: Rabais de 15% sur tous les billets supplémentaires pour vos amis et votre famille pour tous les spectacles
+    refusal: Premier droit de refus pour conserver vos sièges chaque année, ou premier droit de faire une requête pour changer vos sièges
+    events: Accès de prévente pour les événements spéciaux
+
+  map: Plan de salle et prix
+  hst: "*TVH n’est pas comprise dans les prix "
+  renew:
+    title: Renouveler vos billets de saison
+    p1: Les abonnés de saison réservent toujours le premier droit de refus pour conserver leurs sièges jusqu’à l’échéance de renouvellement en mai. Par la suite, tous les sièges non réclamés seront disponibles pour les requêtes de changement de sièges.
+
 concerts:
   readMore: lire plus
   cancelled: cancelled
