@@ -23,12 +23,12 @@ footer:
   profit: The Ottawa Pops Orchestra is a Registered Not-for-Profit Corporation 1017269-3
   newsletter: Subscribe to our newsletter
   box-office: |
-      Box Office
-      10 am to 8pm daily
-      Telephone - 613-580-2700
-      Toll-free -  1-866-752-5231
-      In Person -  Mon to Sat, 5 pm to 8:30 pm
-      Online -  24/7
+    Box Office
+    10 am to 8pm daily
+    Telephone - 613-580-2700
+    Toll-free -  1-866-752-5231
+    In Person -  Mon to Sat, 5 pm to 8:30 pm
+    Online -  24/7
 
 upcoming:
   title: Upcoming events
@@ -50,6 +50,26 @@ concerts:
   buyTickets: buy tickets
   download: DOWNLOAD THE PROGRAM
   meridian: Tickets sold through the Meridian Theatres at Centrepointe Box Office.
+  seasonSub: Season subscriptions
+  ssOnSale: on sale
+  may17: May 17th!
+  stOnSale: Single tickets
+  june26: June 26th!
+
+  meridian-loc:
+    title: Meridian @ Centerpointe Theatres
+    address: 101 Centrepointe Dr
+    city: Nepean, ON K2G 5K7
+    phone: "Phone: 613-580-2700"
+
+  tickets:
+    title: Tickets
+    value: Tickets can be purchased online or in person at the Meridian @ Centrepointe Box Office!
+    price: Prices range from $27.00 - $62.00, student and child pricing available
+
+  programNotes: Program Notes
+  programOrder: Program Order
+  teachersGuide: Teacher Study Guide
 
   lang:
     title: Language of the Event
@@ -70,6 +90,8 @@ concerts:
 
   SATS:
     title: Storytime at the Symphony
+    description: Due to unforeseen complications, the Ottawa Pops Orchestra is regretfully cancelling Storytime at the Symphony, originally scheduled for Saturday March 23, 2019 at 2:30pm, for the 2018-19 season. Full refunds will be issued to anyone who has already purchased tickets to this performance.
+    refund: To claim your refund, please contact the Meridian Theatres at Centrepointe box office at 613-580-2700 or toll-free at 1-866-752-5231.
 
   StarWars:
     title: The Music of Star Wars
@@ -82,13 +104,35 @@ concerts:
     concert3:
       date: December 23, 2018
       time: 2:30PM
+    description:
+      This December, Ottawa Pops Orchestra (OPO) channels the Force to bring you three epic evenings filled with the music of Star Wars. Join us as OPO celebrates the musical legacy of John Williams and his contributions to one of the most enduring
+      film franchises of all time with a program that will excite new and old fans alike! Program suitable for all ages - families with young children encouraged to attend!
 
   ToT:
     title: Trick or Toccata
     concert1:
       date: October 23, 2018
       time: 7:30PM
+    description: The Ottawa Pops Orchestra (OPO) returns to Meridian Theatres at Centrepointe on October 23rd, 2018 for an evening concert dedicated to the musical giants of horror, on and off the silver screen. Featuring a performance of one of the most fear-inspiring works of all time, Bach-Stokowski’s Toccata and Fugue in D minor, as well as Mussorgsky’s frantic musical nightmare “Night on Bald Mountain”, OPO pays tribute to universally recognized classical scores that conjure the darkest of our cinematic memories. Program suitable for all ages - families with young children are encouraged to attend.
 
+  HMW:
+    title: Harry's Musical World
+    concert1:
+      date: November 8, 2019
+      time: 7:30PM
+    concert2:
+      date: November 9, 2019
+      time: 2:30PM
+    description: Muggles and wizards alike, goblins, hippogriffs, and every creature in between are invited to an enchanting performance of “Harry’s Musical World”, presented by the Ottawa Pops Orchestra! Following staggering success in May 2018 with two sold out performances, the Ottawa Pops Orchestra is delighted to relive the magic of the Wizarding World all over again with its beloved audiences.
 
+  VGS:
+    title: Video Game Symphone
+    concert1:
+      date: March 21, 2020
+      time: 7:30PM
 
-
+  broadway:
+    title: Pops, On Broadway!
+    concert1:
+      date: May 16, 2020
+      time: 2:30PM

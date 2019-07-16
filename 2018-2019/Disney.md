@@ -2,7 +2,6 @@
 layout: default
 title: Disney
 permalink: /2018-2019/Disney/
-
 ---
 
 <div class="content main container-fluid">

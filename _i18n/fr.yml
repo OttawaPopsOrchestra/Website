@@ -50,6 +50,26 @@ concerts:
   buyTickets: buy
   download: download
   meridian: meridian
+  seasonSub: Season subscriptions
+  ssOnSale: on sale
+  may17: le 17 mai!
+  stOnSale: Single tickets
+  june26: le 26 juin!
+
+  meridian-loc:
+    title: Théâtres Meridian @ Centrepointe
+    address: 101, promenade Centrepointe
+    city: Ottawa (Ontario) K2G 5K7
+    phone: "Téléphone : 613-580-2700"
+
+  tickets:
+    title: Billets
+    value: Les billets sont disponibles en ligne ou à la billetterie des Théâtres Meridian à Centrepointe
+    price: Les billets varient entre 27,00$ - 62,00$, prix pour étudiants et pour enfants disponible
+
+  programNotes: Program Notes
+  programOrder: Program Order
+  teachersGuide: Teacher Study Guide
 
   lang:
     title: Langue de l'événement
@@ -70,6 +90,8 @@ concerts:
 
   SATS:
     title: Contes à la Symphonie
+    description: cancel
+    refund: refund
 
   StarWars:
     title: La Musique de Star Wars
@@ -82,10 +104,33 @@ concerts:
     concert3:
       date: le 23 décembre 2018
       time: 14:30h
+    description: star wars
 
   ToT:
     title: Trick or Toccata
     concert1:
       date: le 23 octobre 2018
       time: 19:30h
+    description: The Ottawa Pops Orchestra (OPO) returns to Meridian Theatres at Centrepointe on October 23rd, 2018 for an evening concert dedicated to the musical giants of horror, on and off the silver screen. Featuring a performance of one of the most fear-inspiring works of all time, Bach-Stokowski’s Toccata and Fugue in D minor, as well as Mussorgsky’s frantic musical nightmare “Night on Bald Mountain”, OPO pays tribute to universally recognized classical scores that conjure the darkest of our cinematic memories. Program suitable for all ages - families with young children are encouraged to attend.
 
+  HMW:
+    title: Le Monde Musical de Harry
+    concert1:
+      date: le 8 novembre 2019
+      time: 19:30h
+    concert2:
+      date: le 9 novembre 2019
+      time: 14:30h
+    description: Sorciers et sorcières, gobelins, hippogriffes, et toute autre créature fantastique sont cordialement invités à prendre part à une prestation symphonique du « Monde Magique de Harry », présenté par l’Orchestre Pop d’Ottawa. Suite à un succès fulgurant en mai 2018, avec des salles complètes pour chaque soir et une matinée supplémentaire pour accommoder la demande populaire, il fait un grand plaisir à l’OPO de ramener la magie du monde sorcier à Ottawa.
+
+  VGS:
+    title: Symphonie de jeux vidéo
+    concert1:
+      date: le 21 mars 2020
+      time: 19:30h
+
+  broadway:
+    title: Pops sur Broadway!
+    concert1:
+      date: le 16 mai 2020
+      time: 14:30h
