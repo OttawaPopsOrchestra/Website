@@ -68,6 +68,33 @@ season:
     title: Renouveler vos billets de saison
     p1: Les abonnés de saison réservent toujours le premier droit de refus pour conserver leurs sièges jusqu’à l’échéance de renouvellement en mai. Par la suite, tous les sièges non réclamés seront disponibles pour les requêtes de changement de sièges.
 
+matinees:
+  header: LA MATINÉE SCOLAIRE
+  title: DÉTAILS SUR LA MATINÉE SCOLAIRE
+  button: Toutes les matinÉes scolaries de la saison 2018-2019 ont passÉ
+  gr4-6: "Élèves de la 4e à la 6e année : 3,50 $ plus TVH"
+  gr7-12: "Élèves de la 7e à la 12e année : 5,00 $ plus TVH"
+  p1: Un(e) membre de notre équipe fera un suivi dans les 5 jours ouvrables afin de confirmer votre commande et vous envoyer une facture.
+
+  adults:
+    title: ADULTES
+    value: Un billet sera fourni gratuitement pour un adulte accompagnant 10 élèves inscrits. L’entrée est gratuite pour les éducateurs spécialisés. Des accompagnateurs supplémentaires pourront assister à la discrétion de l’OPO et auront à payer les frais d’élèves de 5,00 $ plus TVH.
+
+  payment:
+    title: DÉTAILS DE PAIEMENT
+    value: Paiement complet est requis avant le délai de paiement (environ une semaine avant le concert). Les virements électroniques ou les chèques à l’ordre de l’Orchestre Pop d’Ottawa seront acceptés. L’Orchestre Pop d’Ottawa se réserve le droit d’annuler une commande soumise sans avoir reçu le paiement avant le délai de paiement.
+
+  seating:
+    title: SIÈGES
+    value: Les ouvreurs dirigeront les groupes vers les sièges assignés par section. À la place des billets, vous recevrez une lettre d’admission par courriel suite au paiement complet.
+
+  study:
+    title: GUIDE DE PRÉPARATION POUR LES ENSEIGNANTS
+    p1: Un guide d’étude à consulter avant le concert visant la préparation de vos élèves pour cette expérience orchestrale est disponible par téléchargement en anglais ou en français. Ce guide vous fournira des liens au curriculum ontarien, de l’information sur le programme, les musiciens et l’étiquette de concert.
+    p2: Si vous avez des questions au sujet de votre commande, veuillez appeler ou envoyer un courriel à Mathieu Roy, directeur artistique, au
+    hst: TVH sera ajoutée à la facture. Le paiement complet est requis avant le délai de paiement.
+    p3: Lorsque nous recevrons votre commande de billets, nous calculerons le coût et le nombre de billets d’accompagnateurs gratuits selon les billets d’élèves à payer. Par la suite, nous vous ferons parvenir une facture.
+
 concerts:
   readMore: lire plus
   cancelled: cancelled

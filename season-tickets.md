@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Season Tickets
+namespace: season-tickets
 permalink: /season-tickets/
 ---
 
