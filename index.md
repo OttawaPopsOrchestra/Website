@@ -35,16 +35,16 @@ permalink: /
         <div class="row">
             <div class="col-md-5 offset-md-1">
                 <div class="row">
-                    <div class="col about-us-main" data-aos="fade-in" data-aos-duration="1000" style="margin-top: 50vh">{% t home.about.one %}</div>
+                    <div class="col about-us-main" data-aos="fade-in" data-aos-duration="1000">{% t home.about.one %}</div>
                 </div>
                 <div class="row">
-                    <div class="col about-us-main" data-aos="fade-in" data-aos-duration="1000" style="margin-top: 50vh">{% t home.about.two %}</div>
+                    <div class="col about-us-main" data-aos="fade-in" data-aos-duration="1000">{% t home.about.two %}</div>
                 </div>
                 <div class="row">
-                    <div class="col about-us-main" data-aos="fade-in" data-aos-duration="1000" style="margin-top: 50vh">{% t home.about.three %}</div>
+                    <div class="col about-us-main" data-aos="fade-in" data-aos-duration="1000">{% t home.about.three %}</div>
                 </div>
                 <div class="row">
-                    <div class="col about-us-main" data-aos="fade-in" data-aos-duration="1000" style="margin-top: 50vh">{% t home.about.four %}</div>
+                    <div class="col about-us-main" data-aos="fade-in" data-aos-duration="1000">{% t home.about.four %}</div>
                 </div>
             </div>
             <div class="col-md-5 offset-md-1" id="curator-feed"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>

@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #curator-feed {
   width: 100%;
-  margin: 0 auto;
+  margin: 50vh auto 0 auto;
 }
 
 .instagram-feed {
@@ -878,7 +878,11 @@ a:hover {
     font-size: 20px;
     text-align: center;
     margin: 5px;
-    padding-bottom: 5px;
+    padding-bottom: 48px;
+  }
+
+  .about-us-main {
+    margin-top: 10vh;
   }
 
   .social-media-feed {

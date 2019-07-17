@@ -95,6 +95,47 @@ matinees:
     hst: TVH sera ajoutée à la facture. Le paiement complet est requis avant le délai de paiement.
     p3: Lorsque nous recevrons votre commande de billets, nous calculerons le coût et le nombre de billets d’accompagnateurs gratuits selon les billets d’élèves à payer. Par la suite, nous vous ferons parvenir une facture.
 
+auditions:
+  title: Auditions
+  p1: Applicants are accepted into the orchestra based on their audition performance. There is no minimum age requirement for participation in the OPO.
+  p2: Auditions for oboes, violins, violas and cellos are ongoing for remainder of the season.
+  p3: The audition will consist of a scale, 2 contrasting pieces and a sight reading. Applicants should select two contrasting pieces that demonstrate their playing level and technical facility. Applicants are asked to arrive 10-15 minutes before their scheduled time and to bring extra copies of their sheet music for the audition panel. All scales are to be played at BPM=60 (minimum) unless otherwise specified, in 16th notes ascending and descending (8 to a bow for strings).
+  violin:
+    title: Violin, Cello, Flute/Piccolo
+    value: D major 3 octaves.
+  viola:
+    title: Viola
+    value: G major 3 octaves.
+  oboe:
+    title: Oboe/English Horn
+    value: E-flat major 2 octaves.
+  clarinet:
+    title: Clarinet/Bass Clarinet
+    value: F major 3 octaves.
+  brass:
+    title: Brass, Bassoon, & Bass
+    value: any 2 octave scale.
+  percussion:
+    title: Percussion (on the Xylophone)
+    value: Bb major 2 octaves and a third (Bb to D), alternating sticks starting on the left hand. BPM=80.
+  harp:
+    title: Harp
+    value: Any 3 octaves HT, BPM+80.
+  piano:
+    title: Piano
+    value: Ab major parallel motion scale 4 octaves HT, BPM=104. F# minor tonic four note chord broken alternate-note pattern 2 octaves (ending with I-IV-164-V-I chord progression) HT, BPM=80.
+  membership:
+    title: Membership Information
+    p: All applicants will be informed of the outcome of their audition. The OPO concert season runs from September to mid-May, with weekly rehearsals occurring on Sunday evenings from 6pm to 9pm in room 109 of Perez Hall, 610 Cumberland
+      St. Applicants are asked to ensure they can fully commit to this schedule; members may not miss more than one rehearsal per concert. Applicants must be available for all concerts of the season (December 21, December 22, December 23,
+      March 23, May 17, May 18), including dress rehearsals. All members must re-audition each season.
+    get: Get the Rehearsal Schedule
+  registration:
+    title: Audition Registration
+    p1: We are currently accepting applications for oboe, violin, viola and cello.
+    p2: Send an email to
+    p3: to request an audition.
+
 concerts:
   readMore: lire plus
   cancelled: cancelled
