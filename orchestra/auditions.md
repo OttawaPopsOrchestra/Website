@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Auditions
+title: auditions
 permalink: /auditions/
 
 ---
@@ -11,8 +11,44 @@ permalink: /auditions/
           <div class="col">
             <h1>{% t auditions.title %}</h1>
             <p>{% t auditions.p1 %}</p>
+            <div class="center">
+              <a id="audition-reg-web" href="#audition-reg" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a>
+              <a id="audition-reg-mobile" href="https://docs.google.com/forms/d/e/1FAIpQLScdT5pkOrHJoy5CQCtg096rid4OGPWdKgW2d7QON5qAm8g5Gg/viewform?usp=sf_link" target="_blank" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a>
+            </div>            
             <p>{% t auditions.p2 %}</p>
             <p>{% t auditions.p3 %}</p>
+            <p>{% t auditions.p4 %}</p>
+            
+            <div style="margin-top: 20px; width: 100%;" class="accordion" id="accordionExample">
+              <div class="card">
+                <div class="card-header" id="headingOne">
+                  <h6>
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                      {% t auditions.percussionists.title %} <i class="fas fa-caret-down"></i>
+                    </button>
+                  </h6>
+                </div>
+
+                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                  <div class="card-body">
+                    <p>{% t auditions.percussionists.p1 %}</p>
+                    <p>{% t auditions.percussionists.p2 %}</p>
+                    <p>{% t auditions.percussionists.p3 %}</p>
+
+                    <h6>{% t auditions.percussionists.live %}</h6>
+                    <ul>
+                      <li>Deagan 1558 2.5 Octave Glockenspiel  </li>
+                      <li>Musser 4.0 Octave Xylophone </li>
+                      <li>Yamaha 4.3 Octave Acoustalon Marimba</li>
+                      <li>Fibes 14x4 Maple Shell Single Ply with die cast rims</li>
+                      <li>{% t auditions.percussionists.timp %}</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <br><p>{% t auditions.p5 %}</p>
             <ul>
               <li><strong><em>{% t auditions.violin.title %}:</em></strong> {% t auditions.violin.value %}</li>
               <li><strong><em>{% t auditions.viola.title %}:</em></strong> {% t auditions.viola.value %}</li>
@@ -23,12 +59,21 @@ permalink: /auditions/
               <li><strong><em>{% t auditions.harp.title %}:</em></strong> {% t auditions.harp.value %}</li>
               <li><strong><em>{% t auditions.piano.title %}:</em></strong> {% t auditions.piano.value %}</li>
             </ul>
+            
+            <br><h1>{% t auditions.results.title %}</h1>
+            <p>{% t auditions.results.p %}</p>
+            
             <br><h1>{% t auditions.membership.title %}</h1>
-            <p>{% t auditions.membership.p %}</p>
-            <p class="center">{% t auditions.membership.get %} <a href="Music of Starwars REHEARSAL SCHEDULE and Concert Order OPO.pdf" target="_blank">here</a>.</p>
-            <br><h1>{% t auditions.registration.title %}</h1>
-            <p class="center">{% t auditions.registration.p1 %}</p>
-            <p class="center">{% t auditions.registration.p2 %} <a href="mailto:auditions@ottawapopsorchestra.ca">auditions@ottawapopsorchestra.ca</a> {% t auditions.registration.p3 %}</p>
+            <p>{% t auditions.membership.p1 %}</p>
+            <p>{% t auditions.membership.p2 %}</p>
+            
+            <a href="Ottawa%20Pops%20Orchestra%20Musician%20Policy%20updated%20July%202019.pdf" target="_blank">Ottawa Pops Orchestra Musician Policy</a>
+            <br><a href="Orchestral%20Development%20Bursary.pdf" target="_blank">Orchestral Development Bursary</a><br>
+            
+            <div  id="audition-reg" style="margin-top: 20px;" class="center">
+              <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScdT5pkOrHJoy5CQCtg096rid4OGPWdKgW2d7QON5qAm8g5Gg/viewform?embedded=true" width="640" height="2520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+            </div>
+
           </div>
         </div>
       </div>

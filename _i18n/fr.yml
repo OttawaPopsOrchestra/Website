@@ -96,45 +96,53 @@ matinees:
     p3: Lorsque nous recevrons votre commande de billets, nous calculerons le coût et le nombre de billets d’accompagnateurs gratuits selon les billets d’élèves à payer. Par la suite, nous vous ferons parvenir une facture.
 
 auditions:
+  regHere: Inscrivez-vous
   title: Auditions
-  p1: Applicants are accepted into the orchestra based on their audition performance. There is no minimum age requirement for participation in the OPO.
-  p2: Auditions for oboes, violins, violas and cellos are ongoing for remainder of the season.
-  p3: The audition will consist of a scale, 2 contrasting pieces and a sight reading. Applicants should select two contrasting pieces that demonstrate their playing level and technical facility. Applicants are asked to arrive 10-15 minutes before their scheduled time and to bring extra copies of their sheet music for the audition panel. All scales are to be played at BPM=60 (minimum) unless otherwise specified, in 16th notes ascending and descending (8 to a bow for strings).
+  p1: Les auditions pour la saison 2019-2020 auront lieu les 14 et 15 septembre 2019 dans la salle 109 du pavillon Perez, 610, rue Cumberland.
+  p2: Les candidats seront acceptés selon leur prestation durant l’audition. Il n’y a aucun âge minimal pour participer dans l’OPO.
+  p3: L’audition consiste d’une gamme, 2 pièces contrastantes, une lecture à première vue (sur la caisse claire pour percussion) et une entrevue informelle. Les candidats devraient sélectionner deux pièces contrastantes qui démontrent leurs habiletés et leur facilité technique. La durée totale des pièces ne devrait dépasser 12 minutes. Les candidats sont priés d’arriver 10-15 minutes avant l’heure prévue pour l’audition et d’apporter 2 copies supplémentaires de leurs partitions pour les membres du panel. Il est possible que les juges vous interrompent durant vos pièces. Ne vous inquiétez pas, cela indique que l’extrait joué était suffisant et qu’ils souhaiteraient poursuivre à la prochaine étape de l’audition.
+  p4: Les candidats préparant une audition pour la doublure d’instruments devraient préparer 1 pièce supplémentaire pour chacune des doublures. Des extraits orchestraux sont acceptables.
+
+  percussionists:
+    title: Percussionists
+    p1: Les percussionnistes doivent préparer un extrait à la caisse claire et au maillet au minimum. Les candidats peuvent préparer des pièces supplémentaires pour d’autres instruments s’ils le souhaitent, pourvu que la durée totale de prestation ne dépasse 12 minutes.
+    p2: L’OPO ne fournira aucun bâton ni maillet pour l’audition.
+    p3: Les candidats peuvent apporter leur propre caisse claire à l’audition
+    live: Instruments fournis pour l’audition en personne
+    timp: Ensemble de 4 timbales Ludwig (23 po, 26 po, 29 po, 32 po)
+
+  p5: Toutes les gammes doivent être jouées à 60 PPM (minimum) à moins d’indication contraire, en doubles croches ascendantes et descendantes (8 notes par coup d’archet pour les cordes).
   violin:
-    title: Violin, Cello, Flute/Piccolo
-    value: D major 3 octaves.
+    title: Violon, violoncelle, flûte/piccolo
+    value: ré majeur de 2 octaves.
   viola:
-    title: Viola
-    value: G major 3 octaves.
+    title: Alto
+    value: sol majeur de 3 octaves.
   oboe:
-    title: Oboe/English Horn
-    value: E-flat major 2 octaves.
+    title: Hautbois/cor anglais
+    value: mi bémol majeur de 2 octaves.
   clarinet:
-    title: Clarinet/Bass Clarinet
-    value: F major 3 octaves.
+    title: Clarinette/clarinette-basse
+    value: mi majeur de 3 octaves.
   brass:
-    title: Brass, Bassoon, & Bass
-    value: any 2 octave scale.
+    title: Cuivres, basson et contrebasse
+    value: gamme de 2 octaves de votre choix.
   percussion:
-    title: Percussion (on the Xylophone)
-    value: Bb major 2 octaves and a third (Bb to D), alternating sticks starting on the left hand. BPM=80.
+    title: Percussion (au xylophone)
+    value: si bémol majeur de 2 octaves et un troisième (si bémol à ré), alternation de bâtons à partir de la main gauche. 80 PPM.
   harp:
-    title: Harp
-    value: Any 3 octaves HT, BPM+80.
+    title: Harpe
+    value: 3 octaves de votre choix ME, 80+PPM.
   piano:
     title: Piano
-    value: Ab major parallel motion scale 4 octaves HT, BPM=104. F# minor tonic four note chord broken alternate-note pattern 2 octaves (ending with I-IV-164-V-I chord progression) HT, BPM=80.
+    value:  sol mineur mélodique à motion parallèle de 4 octaves, 104 PPM. Accord brisé à 4 notes si majeur tonique avec alternation des notes de 2 octaves (finissant avec la progression d’accord I-IV-164-V-I) ME, 80 PPM.
+  results:
+    title: RÉSULTATS D’AUDITION
+    p: Tous les candidats seront informés des résultats des auditions. Il est possible que les musiciens acceptés seront appelés à jouer pour tout ou quelques-uns des concerts. Tous les candidats seront avisés de quelle classe de musiciens à laquelle ils appartiennent et si la Bourse de développement orchestral leur a été décernée.
   membership:
-    title: Membership Information
-    p: All applicants will be informed of the outcome of their audition. The OPO concert season runs from September to mid-May, with weekly rehearsals occurring on Sunday evenings from 6pm to 9pm in room 109 of Perez Hall, 610 Cumberland
-      St. Applicants are asked to ensure they can fully commit to this schedule; members may not miss more than one rehearsal per concert. Applicants must be available for all concerts of the season (December 21, December 22, December 23,
-      March 23, May 17, May 18), including dress rehearsals. All members must re-audition each season.
-    get: Get the Rehearsal Schedule
-  registration:
-    title: Audition Registration
-    p1: We are currently accepting applications for oboe, violin, viola and cello.
-    p2: Send an email to
-    p3: to request an audition.
+    title: INFORMATION DE MEMBRIÉTÉ
+    p1: L’OPO se qualifie d’orchestre semi-professionnel comprenant un mélange de musiciens communautaires et professionnels. La saison de l’OPO se déroule de septembre à mi-mai avec des répétitions hebdomadaires les dimanches soirs de 18 h à 21 h (avec certaines répétitions par section les vendredis de 18 h 30 à 21 h 30) dans la salle 109 du pavillon Perez, 610, rue Cumberland. Les candidats sont demandés d’assister à toutes les répétitions à l’horaire pour la période de répétitions à laquelle ils participent. Les musiciens acceptés ne peuvent rater plus qu’une répétition par période de concert. Les répétitions générales sont obligatoires, sans exception. Les candidats devraient être disponibles pour tous les concerts de la saison (8 et 9 novembre 2019, 20 et 21 mars 2020, 15 et 16 mai 2020) et devraient spécifier à l’audition s’il y a un conflit d’horaire avec les répétitions générales ou les concerts.
+    p2: Tous les membres doivent repasser en audition à chaque saison.
 
 concerts:
   readMore: lire plus

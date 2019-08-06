@@ -114,8 +114,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .upcoming {
-  background-color: white;
+  background-color: lightgrey;
   padding: 15px 15px 50px;
+  margin: 0 15px;
 }
 
 .overlay:hover {
@@ -128,9 +129,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .upcoming h4 {
+  color: black;
+  text-align: center;
+}
+
+.upcoming p {
   text-transform: uppercase;
-  background-color: #920503;
-  color: white;
 }
 
 .upcoming h2 {
@@ -145,6 +149,11 @@ h1, h2, h3, h4, h5, h6 {
 .upcoming strong {
   background-color: #920503;
   color: white;
+}
+
+.upcoming .card {
+  width: 22rem;
+  height: auto;"
 }
 
 .social-media-feed {
@@ -456,6 +465,10 @@ a:hover {
 
 .auditions a {
   color: #920503;
+}
+
+#audition-reg-mobile {
+  display: none;
 }
 
 .center {
@@ -802,11 +815,11 @@ a:hover {
 
   .concert {
     padding: 10px;
-    margin: 1px;
+    margin: 0 0 20px;
   }
 
   .btn-maroon {
-    height: 40px;
+    height: 47px;
   }
 
   .ticket, .ticket-link {
@@ -890,30 +903,47 @@ a:hover {
   }
 
   .upcoming {
-    padding: 0px;
+    padding: 10px;
     margin: 10px 0px;
-  }
-
-  .upcoming img{
-    max-width: 60vw;
+    background: none;
+    color: white;
   }
 
   .upcoming h4 {
-    text-transform: uppercase;
-    background-color: #920503;
-    color: white;
+    color: black;
     text-align: center;
+  }
+
+  .upcoming .card-text {
+    color: #920503 !important;
+    font-size: 1.3rem !important;
+    font-weight: 900 !important;
   }
 
   .upcoming h2 {
     text-transform: uppercase;
     font-size: 26px;
     margin: 0 auto;
+    text-align: center;
   }
 
   .upcoming a {
     font-size: 15px;
     font-weight: 400;
+  }
+
+  #showAll {
+    text-align: center !important;
+  }
+
+  .upcoming .card {
+    width: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  #curator-feed {
+    margin-top: 60px;
   }
 
   .matinee-info {
@@ -933,15 +963,23 @@ a:hover {
     margin: 0px;
   }
 
-  .parallax {
-     background-image:none;
+  #audition-reg-web {
+    display: none;
+  }
+
+  #audition-reg-mobile {
+    display: block;
+  }
+
+  #audition-reg {
+    display: none;
   }
 
   .about-us-main {
     font-size: 20px;
-    margin-top: 10vh;
+    margin: 10vh 30px 0px;
     background-color: hsla(0, 0%, 0%, 0.9);
-    padding: 20px;
+    padding: 25px;
   }
 
   .season-intro h4 {

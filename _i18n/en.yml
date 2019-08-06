@@ -96,10 +96,21 @@ matinees:
     p3: Once we receive your ticket order request we will calculate the cost, and the number of free adult chaperone tickets versus student tickets to be paid, and send you an invoice.
 
 auditions:
+  regHere: Register Here
   title: Auditions
-  p1: Applicants are accepted into the orchestra based on their audition performance. There is no minimum age requirement for participation in the OPO.
-  p2: Auditions for oboes, violins, violas and cellos are ongoing for remainder of the season.
-  p3: The audition will consist of a scale, 2 contrasting pieces and a sight reading. Applicants should select two contrasting pieces that demonstrate their playing level and technical facility. Applicants are asked to arrive 10-15 minutes before their scheduled time and to bring extra copies of their sheet music for the audition panel. All scales are to be played at BPM=60 (minimum) unless otherwise specified, in 16th notes ascending and descending (8 to a bow for strings).
+  p1: 2019-2020 Season Auditions will be held Saturday September 14 and Sunday September 15 2019 in room 109 of Perez Hall, 610 Cumberland St.
+  p2: Applicants are accepted into the orchestra based on their audition performance. There is no minimum age requirement for participation in the OPO.
+  p3: The audition will consist of a scale, 2 contrasting pieces, sight reading (on snare drum for percussion), and a short informal interview. Applicants should select two contrasting pieces that demonstrate their playing level and technical facility. The total playing time of excerpts should not exceed 12 minutes. Applicants are asked to arrive 10-15 minutes before their scheduled time and to bring 2 extra copies of their sheet music for the audition panel.  It is possible that the examiners will stop you in the middle of a piece. Don’t worry, this just means they have heard enough and would like to move on to the next portion of the audition.
+  p4: Applicants auditioning for doubling instrument positions should prepare 1 additional piece for each doubling instrument. Orchestral excerpts are acceptable.
+  percussionists:
+    title: Percussionists
+    p1: Percussionist must prepare a snare drum and a mallet excerpt at minimum. Applicants may prepare additional pieces on one or more instruments if they wish so long as the total playing time does not exceed 12 minutes.
+    p2: The OPO will not provide any sticks or mallets at the audition. Live audition candidates must provide their own sticks and mallets.
+    p3: Live audition candidates may bring their own snare drum to the audition
+    live: Instruments Provided for Live Audition
+    timp: Set of 4 Ludwig Timpani (23’’, 26’’, 29’’, 32’’)
+
+  p5: Applicants auditioning for doubling instrument positions should prepare 1 additional piece for each doubling instrument. Orchestral excerpts are acceptable.
   violin:
     title: Violin, Cello, Flute/Piccolo
     value: D major 3 octaves.
@@ -124,17 +135,13 @@ auditions:
   piano:
     title: Piano
     value: Ab major parallel motion scale 4 octaves HT, BPM=104. F# minor tonic four note chord broken alternate-note pattern 2 octaves (ending with I-IV-164-V-I chord progression) HT, BPM=80.
+  results:
+    title: Audition Results
+    p: All applicants will be informed of the outcome of their audition. It is possible that successful musicians be called for all, or some concerts. All applicants will be made aware of which class of musicians they belong to as well as if they have been selected for the Orchestral Development Bursary or any other form of remuneration.
   membership:
     title: Membership Information
-    p: All applicants will be informed of the outcome of their audition. The OPO concert season runs from September to mid-May, with weekly rehearsals occurring on Sunday evenings from 6pm to 9pm in room 109 of Perez Hall, 610 Cumberland
-      St. Applicants are asked to ensure they can fully commit to this schedule; members may not miss more than one rehearsal per concert. Applicants must be available for all concerts of the season (December 21, December 22, December 23,
-      March 23, May 17, May 18), including dress rehearsals. All members must re-audition each season.
-    get: Get the Rehearsal Schedule
-  registration:
-    title: Audition Registration
-    p1: We are currently accepting applications for oboe, violin, viola and cello.
-    p2: Send an email to
-    p3: to request an audition.
+    p1: The OPO is classified as a semi professional orchestra consisting of a mixture of community and professional musicians. The OPO concert season runs from September to mid-May, with weekly rehearsals occurring on Sunday evenings from 6pm to 9pm (with occasional sectionals Fridays 6:30pm to 9:30pm) in room 109 of Perez Hall, 610 Cumberland St. Applicants are asked to ensure they can fully commit to the concert schedule for which they are participating. Accepted musicians may not miss more than one rehearsal per concert period. Dress rehearsals are mandatory, no exceptions. Applicants should be available for all concerts of the season (November 8-9 2019, March 20-21 2020, May 15-16 2020) and should indicate at the audition if they have a scheduling conflict with dress rehearsals or concerts.
+    p2: All members must re-audition each season for placement.
 
 concerts:
   readMore: read more
@@ -220,7 +227,7 @@ concerts:
     description: Muggles and wizards alike, goblins, hippogriffs, and every creature in between are invited to an enchanting performance of “Harry’s Musical World”, presented by the Ottawa Pops Orchestra! Following staggering success in May 2018 with two sold out performances, the Ottawa Pops Orchestra is delighted to relive the magic of the Wizarding World all over again with its beloved audiences.
 
   VGS:
-    title: Video Game Symphone
+    title: Video Game Symphony
     concert1:
       date: March 21, 2020
       time: 7:30PM
