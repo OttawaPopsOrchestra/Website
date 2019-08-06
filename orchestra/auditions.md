@@ -67,8 +67,8 @@ permalink: /auditions/
             <p>{% t auditions.membership.p1 %}</p>
             <p>{% t auditions.membership.p2 %}</p>
             
-            <a href="Ottawa%20Pops%20Orchestra%20Musician%20Policy%20updated%20July%202019.pdf" target="_blank">Ottawa Pops Orchestra Musician Policy</a>
-            <br><a href="Orchestral%20Development%20Bursary.pdf" target="_blank">Orchestral Development Bursary</a><br>
+            <a href="/assets/pdf/Ottawa%20Pops%20Orchestra%20Musician%20Policy%20updated%20July%202019.pdf" target="_blank">Ottawa Pops Orchestra Musician Policy</a>
+            <br><a href="/assets/pdf/Orchestral%20Development%20Bursary.pdf" target="_blank">Orchestral Development Bursary</a><br>
             
             <div  id="audition-reg" style="margin-top: 20px;" class="center">
               <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScdT5pkOrHJoy5CQCtg096rid4OGPWdKgW2d7QON5qAm8g5Gg/viewform?embedded=true" width="640" height="2520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

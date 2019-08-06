@@ -12,12 +12,12 @@ pages:
 home:
   moreInfo: plus d'information
   mission-title: Notre Mission
-  mission: statement
+  mission: The Ottawa Pops Orchestra aims to foster the next generation of musicians, redefine the orchestral experience, and create a sense of community in the Ottawa-Gatineau Region.
   about:
-    one: fdsf
-    two: gfsgdf
-    three: dsa
-    four: fdsf
+    one: We are a young, semi-professional orchestra dedicated to performing accessible and relevant music. The “Pops” in our name is short for “popular” as the music we play is sourced from current popular culture, telling stories from once upon a time in galaxies far, far away. That said, we also like to keep one foot in the world of classical music – its traditions, its rich history, and especially its romance.
+    two: We combine our passions by performing innovative concerts that redefine the modern orchestral experience. We’re made of people just like you, and we love to dress up and share our love for the music we play. Our mission - to foster the next generation of musicians, redefine the orchestral experience, and create a sense of community in the Ottawa-Gatineau Region.
+    three: We have humble roots as a school club at the University of Ottawa, starting in 2012 with only a handful of eager musicians. After five years, we split from the university and ventured into the real world, this time with a sixty-person orchestra and a full administrative team.
+    four: Our first season in 2017-2018 was a huge success, as we performed for over 3000 people over the course of three series of concerts. In the 2018-2019 season, our performances are hosted exclusively at Meridian Theatres at Centrepointe as we develop educational opportunities in the Ottawa area and bring bigger and better shows to life than ever before.
 
 footer:
   profit: The Ottawa Pops Orchestra is a Registered Not-for-Profit Corporation 1017269-3
@@ -38,10 +38,10 @@ upcoming:
   broadDate: le 16 mai
 
 about-us:
-  title: title
-  one: jfdksl
-  two: fjdsklfjds
-  three: fjdsklfj
+  title: Learn about the Ottawa Pops Orchestra
+  one: The Ottawa Pops Orchestra is a community orchestra dedicated to programming orchestral pops repertoire in order to enrich and inspire the community through accessible, relevant, and passionate performances.
+  two: L’Orchestre Pop d’Ottawa (OPO) fut fondé au printemps de 2017 par un ensemble de jeunes musiciens. Leur mission est d’enrichir et d’inspirer la communauté en interprétant de la musique orchestrale qui dépasse les normes classiques et qui redéfinit l’expérience orchestrale pour le public d’aujourd’hui. Sous la direction de Matthew Larkin et de Jonathan Dagenais, l’OPO s’efforce d’inspirer, d’engager et d’éduquer la communauté d’Ottawa-Gatineau.
+  three: L’OPO est fier de mettre sur pied deux nouvelles initiatives pour les jeunes musiciens et élèves de la région d’Ottawa-Gatineau. D’abord, nous invitions des écoles de la communauté à quelques-unes de nos répétitions générales en fournissant aux enseignants des ressources pédagogiques détaillées et reliées aux concerts, permettant aux élèves de témoigner du fonctionnement d’un orchestre. De plus, nous sommes fiers de présenter la Bourse de développement orchestral qui encourage certains jeunes musiciens, choisit par un panel d’audition, à perfectionner leurs habiletés musicales et acquérir de l’expérience orchestrale professionnelle avec l’OPO.
 
 season:
   title: Billets de saison
@@ -143,6 +143,15 @@ auditions:
     title: INFORMATION DE MEMBRIÉTÉ
     p1: L’OPO se qualifie d’orchestre semi-professionnel comprenant un mélange de musiciens communautaires et professionnels. La saison de l’OPO se déroule de septembre à mi-mai avec des répétitions hebdomadaires les dimanches soirs de 18 h à 21 h (avec certaines répétitions par section les vendredis de 18 h 30 à 21 h 30) dans la salle 109 du pavillon Perez, 610, rue Cumberland. Les candidats sont demandés d’assister à toutes les répétitions à l’horaire pour la période de répétitions à laquelle ils participent. Les musiciens acceptés ne peuvent rater plus qu’une répétition par période de concert. Les répétitions générales sont obligatoires, sans exception. Les candidats devraient être disponibles pour tous les concerts de la saison (8 et 9 novembre 2019, 20 et 21 mars 2020, 15 et 16 mai 2020) et devraient spécifier à l’audition s’il y a un conflit d’horaire avec les répétitions générales ou les concerts.
     p2: Tous les membres doivent repasser en audition à chaque saison.
+
+conductors:
+  jonathan:
+    p1: Jonathan Dagenais est titulaire d’une maîtrise en direction d’orchestre de l’Université McGill et d’un baccalauréat en techniques d'écriture de l'Université de Montréal.
+    p2: Enseignant aux niveaux collégial, universitaire et secondaire (direction, composition, écriture et formation auditive), M. Dagenais poursuit également une carrière de compositeur et arrangeur pour orchestre à vents. Ses œuvres ont été interprétées à plusieurs reprises par des ensembles universitaires et secondaires canadiens, elles figurent sur plusieurs enregistrements professionnels et certaines d’entre elles se retrouvent au répertoire des œuvres imposées de plusieurs festivals de musique nord-américains. Ses compositions sont présentement éditées et publiées à travers le monde aux Éditions Alfred Publishing, Eighth Note Publications et Hafabra Music.
+    p3: Jonathan Dagenais possède une carrière de direction très active. Depuis sa fondation en 2005, il est directeur musical et artistique de l’Orchestre à Vents Non Identifié (OVNI), une harmonie de concert montréalaise qu’il a co-fondé et qui est dédiée à l’écoute collective, au travail de sonorité orchestrale, à la sensibilité d'interprétation et à l’humour. En 2010 et 2017, il a été nommé directeur du McGill Wind Orchestra (Orchestre à Vents de l'Université McGill) et il été chef invité à l’Orchestre Symphonique Pop de Montréal (OSPM) en 2012. Il dirige également le Cercle Philharmonique de Saint-Jean-sur-Richelieu depuis septembre 2012. Depuis septembre 2015, il est directeur musical et artistique de l’Orchestre de Jeux Vidéos (OJV), une formation montréalaise qui se consacre à l’interprétation de la musique tirée de bandes sonores de jeux vidéo. Étant lui-même, depuis longtemps, un grand fan de jeux vidéo et de la musique de ceux-ci, ce « mariage artistique » fut des plus naturels. Finalement, depuis 2019, il est le chef d’orchestre principal pour  le Ottawa Pops Orchestra.
+    p4: M. Dagenais siège régulièrement en tant que juge-évaluateur et/ou clinicien dans plus de 25 festivals et compétitions musicales à travers l’Amérique du Nord. Depuis 2017, il est d’ailleurs le directeur artistique du MusicFest Québec. Il est également engagé annuellement comme chef d’orchestre lors de sessions estivales dans certains camps musicaux canadiens et comme chef invité pour plusieurs ensembles honorifiques canadiens. Il a été sélectionné comme chef d’orchestre de l’édition 2013 de l’Harmonie Nationale des Jeunes du Canada, soit la plus prestigieuse harmonie honorifique au pays. Il est également chef d’orchestre partenaire et formateur en pédagogie musicale pour la compagnie Twigg Musique au Québec et Artiste Maître Éducateur pour la compagnie Yamaha Canada.
+    p5: M. Dagenais est présentement professeur invité à l’Université McGill.
+    site: Site Web officiel de Jonathan Dagenais
 
 concerts:
   readMore: lire plus

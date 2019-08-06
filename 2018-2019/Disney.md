@@ -13,7 +13,7 @@ permalink: /2018-2019/Disney/
             <div class="row">
               <div class="col-md-8">
                 <h5 class="concert-title">{% t concerts.Disney.title %}</h5>
-                <a href="DICProgram.html" class="btn btn-outline-maroon" target="_blank">{% t concerts.download %}</a>
+                <a href="/assets/pdf/DIC%20Program%20(Links).pdf" class="btn btn-outline-maroon" target="_blank">{% t concerts.download %}</a>
               </div>
     <!--              <div class="col-md">-->
     <!--                <a href="https://ev7.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0517N&linkID=centrepointe&shopperContext=&caller=&appCode=" class="btn btn-maroon btn-block" target="_blank">BUY TICKETS</a>-->
