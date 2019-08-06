@@ -113,17 +113,17 @@
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a href="#" class="nav-link">orchestre</a>
-                    <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="auditions.html">Auditions</a>
-                        <a class="dropdown-item" href="conductors.html">Conductors</a>
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">orchestre</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="/fr/Auditions/">Auditions</a>
+                        <a class="dropdown-item" href="/fr/conductors/">Conductors</a>
                         <!-- <a class="dropdown-item" href="musicians.html">Musicians</a> -->
                     </div>
                 </li>
 
                 <li class="nav-item dropdown">
                     <div class="btn-group">
-                        <a href="#" class="nav-link">communauté</a>
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">communauté</a>
                     </div>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="/fr/student-matinees/">LA MATINÉE SCOLAIRE</a>
@@ -151,7 +151,7 @@
             <div class="row">
               <div class="col-md-8">
                 <h5 class="concert-title">Disney en Concert: Autour du Mond</h5>
-                <a href="DICProgram.html" class="btn btn-outline-maroon" target="_blank">download</a>
+                <a href="/assets/pdf/DIC%20Program%20(Links).pdf" class="btn btn-outline-maroon" target="_blank">download</a>
               </div>
     <!--              <div class="col-md">-->
     <!--                <a href="https://ev7.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0517N&linkID=centrepointe&shopperContext=&caller=&appCode=" class="btn btn-maroon btn-block" target="_blank">BUY TICKETS</a>-->
@@ -202,32 +202,41 @@
     <div class="col-md-8">
         <h2>Upcoming events</h2>
     </div>
-    <div class="col-md-4 text-right">
+    <div id="showAll" class="col-md-4 text-right">
         <a href="concerts-2020.html" class="btn btn-outline-maroon show-all">show all concerts <i class="fas fa-calendar-alt fa-fw"></i></a>
     </div>
-    <div class="col-sm-4">
+    <div class="col-md-4 col-sm">
         <a href="hmw.html" target="_blank">
-            <div class="thumbnail center">
-                <h4><span class="label label-info">le 8 nov <i class="fas fa-caret-right"></i> 9</span></h4>
-                <img class="img-responsive" alt="a" src="/assets/img/concerts-full/2019-2020/HMW2Detail.png" />
+            <div class="card">
+                <img class="card-img-top" src="/assets/img/concerts-full/2019-2020/HMW2Detail.png" />
+                <div class="card-body center">
+                    <h4 class="card-title">Le Monde Musical de Harry</h4>
+                    <p class="card-text">le 8 nov <i class="fas fa-caret-right"></i> 9</p>
+                </div>
             </div>
         </a>
     </div>
 
     <div class="col-sm-4 center">
         <a href="videogamesymphony.html" target="_blank">
-            <div class="thumbnail">
-                <h4><span class="label label-info">le 21 mars</span></h4>
-                <img class="img-responsive" alt="a" src="/assets/img/concerts-full/2019-2020/VGSDetail.jpeg" />
+            <div class="card">
+                <img class="card-img-top" src="/assets/img/concerts-full/2019-2020/VGSDetail.jpeg" />
+                <div class="card-body center">
+                    <h4 class="card-title">Symphonie de jeux vidéo</h4>
+                    <p class="card-text" style="color: #920503;">le 21 mars</p>
+                </div>
             </div>
         </a>
     </div>
 
     <div class="col-sm-4">
         <a href="popsonbroadway.html" target="_blank">
-            <div class="thumbnail center">
-                <h4><span class="label label-info">le 16 mai</span></h4>
-                <img class="img-responsive" alt="a" src="/assets/img/concerts-full/2019-2020/BroadwayDetail.png" />
+            <div class="card">
+                <img class="card-img-top" src="/assets/img/concerts-full/2019-2020/BroadwayDetail.png" />
+                <div class="card-body center">
+                    <h4 class="card-title">Pops sur Broadway!</h4>
+                    <p class="card-text" style="color: #920503;">le 16 mai</p>
+                </div>
             </div>
         </a>
     </div>
