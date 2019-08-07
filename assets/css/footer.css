@@ -31,7 +31,8 @@ footer {
 }
 
 #footer-logo-full {
-  height: 100px;
+  height: 80px;
+  margin-top: 50px;
 }
 
 #footer-logo-sm {
@@ -39,7 +40,6 @@ footer {
 }
 
 .social {
-  padding-right: 30px;
   margin: 0 auto;
   color: white;
   align-items: center;
@@ -60,6 +60,10 @@ footer {
 
 .footer-hr {
   border: 1px solid white;
+}
+
+.footer-hr-mobile {
+  display: none;
 }
 
 .newsletter {
@@ -99,7 +103,7 @@ footer {
 
 #subscribe {
   font-size: 18px;
-  margin-left: 50px;
+  margin-bottom: 20px;
 }
 
 #subscribe i {
@@ -120,7 +124,6 @@ footer {
   }
 
   .social {
-    padding-right: 10px;
     height: 10px;
   }
 
@@ -129,7 +132,7 @@ footer {
   }
 
   .pages a {
-    font-size: 12px;
+    font-size: 16px;
   }
 
   .modal-header, .modal-body {
@@ -152,5 +155,19 @@ footer {
 
   #newsletter-form {
     max-width: 85vw;
+  }
+
+  .footer-hr {
+    display: none;
+  }
+
+  .footer-hr-mobile {
+    display: block;
+    border: 1px solid white;
+  }
+  
+  #box_office {
+    text-align: left;
+    padding-left: 20px;
   }
 }
