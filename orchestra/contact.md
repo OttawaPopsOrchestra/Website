@@ -46,9 +46,9 @@ permalink: /contact/
            <p>{% t footer.box-office.time %}</p>
            <p>{% t footer.box-office.phone %}</p>
            <p>{% t footer.box-office.toll %}</p>
+           <p>{% t footer.box-office.person %}</p>
+           <p>{% t footer.box-office.online %}</p>
          </div>
        </div>
-       <p>{% t footer.box-office.person %}</p>
-       <p>{% t footer.box-office.online %}</p>
      </div>    
 </div>
