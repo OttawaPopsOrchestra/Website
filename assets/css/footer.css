@@ -165,4 +165,9 @@ footer {
     display: block;
     border: 1px solid white;
   }
+  
+  #box_office {
+    text-align: left;
+    padding-left: 20px;
+  }
 }
