@@ -45,7 +45,7 @@ permalink: /2018-2019/ToT/
           </div>
           <p>{% t concerts.ToT.description %}</p>
         </div>
+        <hr>{% include upcoming.html %}
       </div>
-      <div id="upcoming" style="margin-bottom: 5px !important"></div>
     </div>
 </div>

@@ -75,6 +75,6 @@ permalink: /videogamesymphony.html #change here if we want prettier link!!
             <p>{% t concerts.VGS.description %}</p>
             <iframe src="https://open.spotify.com/embed/playlist/1xlIORmvzJLwbRRgsm46gv" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>
         </div>
-        <hr>{% include upcoming.html %}
     </div>
+     <hr>{% include upcoming.html %}
 </div>
