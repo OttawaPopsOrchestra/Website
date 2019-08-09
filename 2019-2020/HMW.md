@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Harry's Musical World
-permalink: /hmw.html #change here if we want prettier link!!
+permalink: /2019-2020/hmw/
 ---
 
 <div class="content main container-fluid">
@@ -83,8 +83,8 @@ permalink: /hmw.html #change here if we want prettier link!!
                 <div class="col-md-4">
                   {% t concerts.age.value %}<br><br> </div>
                 </div>
+                <p>{% t concerts.HMW.description %}</p>
               </div>
-              <p>{% t concerts.HMW.description %}</p>
             <iframe src="https://open.spotify.com/embed/playlist/1F7ddq9YrPRv71Znwovcdk" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>
             </div>
           </div>

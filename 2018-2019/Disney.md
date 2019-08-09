@@ -55,8 +55,8 @@ permalink: /2018-2019/Disney/
                 <div class="col-md-4">
                   {% t concerts.age.value %}<br><br> </div>
                 </div>
+                <p>{% t concerts.Disney.description %}</p>
               </div>
-              <p>{% t concerts.Disney.description %}</p>
               <iframe src="https://open.spotify.com/embed/user/gc288ipmhh2500t2510g767lt/playlist/4PUZIDCh6rRIWQcgoMS5le" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>
             </div>
           </div>

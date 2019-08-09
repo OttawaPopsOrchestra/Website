@@ -158,15 +158,16 @@ conductors:
   matthew: Il occupa le rôle de directeur musical de l’église St-Matthew et la cathédrale Christ Church. De plus, il fut le directeur musical de la Chorale anglicane, la Société chorale d’Ottawa et la Chorale de chambre Euphonia. Il collabora fréquemment avec des ensembles instrumentaux comme soliste et chef d’orchestre invité. Il fut organiste, entre autres, avec l’ensemble Gabrieli Consort, l’Orchestre du Centre national des Arts, l’Orchestre symphonique d’Ottawa, l’Orchestre symphonique de Victoria, le Theatre of Early Music et l’Orchestre symphonique de Toronto. Membre du Collège royal canadien des organistes, ses concerts se firent entendre à travers le Canada, les États-Unis, le Royaume-Uni, la France, l’Italie et la Chine. Actuellement, il est le directeur musical de l’église St-Thomas à Toronto et il est le directeur artistique fondateur du Caelis Academy Ensemble à Ottawa. Matthew est représenté par Domoney Artists Management.
 
 contact:
+  artistic: Directeur artistique
   val: Pour des questions générales, commentaires ou suggestions, veuillez contacter notre bureau administratif à
 
 concerts:
   readMore: En lire plus
-  cancelled: Annulé
+  cancelled: Ce concert est annulé
   eventPassed: Cet événement a déjà eu lieu
-  buyTickets: buy
-  download: download
-  meridian: meridian
+  buyTickets: Achetez vos billets
+  download: TÉLÉCHARGEZ LE PROGRAMME
+  meridian: Billets vendus à la billetterie des Théâtres Meridian à Centrepointe
   seasonSub: Pour abonnés
   ssOnSale: en vente
   may17: le 17 mai!

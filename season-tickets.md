@@ -6,10 +6,10 @@ permalink: /season-tickets/
 ---
 
 <div class="content main season-tickets container-fluid">
-    <a href="https://www.eventbrite.ca/e/2019-2020-season-tickets-billets-de-saison-2019-2020-tickets-60169009126" target="_blank"><img src="/assets/img/season-tickets/seasonBanner.png" width="100%" /></a>
+    <a href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetPackageInfo?packageCode=GS%3ACP%3A%3A19OPO%3A&linkID=centrepointe&shopperContext=&caller=&appCode=" target="_blank"><img src="/assets/img/season-tickets/seasonBanner.png" width="100%" /></a>
     <div class="row season-intro">
         <div class="col col-padding">
-            <a href="https://www.eventbrite.ca/e/2019-2020-season-tickets-billets-de-saison-2019-2020-tickets-60169009126" target="_blank">
+            <a href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetPackageInfo?packageCode=GS%3ACP%3A%3A19OPO%3A&linkID=centrepointe&shopperContext=&caller=&appCode=" target="_blank">
             <h4 style="padding: 10px;" class="concert-title">{% t season.title %}</h4></a>
             <h6>{% t season.subtitle %}</h6>
             <p>{% t season.p1 %}</p>
@@ -21,7 +21,7 @@ permalink: /season-tickets/
             <h3>{% t season.p3 %} </h3>
         </div>
         <div class="col-md" id="ticket-button">
-            <a  href="https://www.eventbrite.ca/e/2019-2020-season-tickets-billets-de-saison-2019-2020-tickets-60169009126" class="btn btn-outline-maroon btn-block">{% t season.get %}</a>
+            <a  href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetPackageInfo?packageCode=GS%3ACP%3A%3A19OPO%3A&linkID=centrepointe&shopperContext=&caller=&appCode=" class="btn btn-outline-maroon btn-block">{% t season.get %}</a>
         </div>
         </div>
         <div class="row">

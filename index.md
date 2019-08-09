@@ -30,7 +30,7 @@ permalink: /
                 <p data-aos="fade-left" data-aos-duration="1000" data-aos-delay="500">{% t home.mission %}</p>
             </div>
         </div>
-        <div style="margin: 0 35px; background-color: lightgrey;">
+        <div class="upcoming-home">
             {% include upcoming.html %}
         </div>
         <!-- SM and About Us -->

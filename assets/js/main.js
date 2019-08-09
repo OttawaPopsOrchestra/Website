@@ -9,14 +9,14 @@ window.onscroll = () => {
   if(this.scrollY <= 120) {
     nav.removeClass("transparent").addClass('grey');
     $('#mission').hide();
-    $('#logo').show();
+    $('#logo').css("height", "100px");
   }
   else{
     if(document.location.href.includes("about-us.html")) {
       nav.removeClass('grey').addClass("transparent");
       $('#mission').show();
     }
-    $('#logo').hide();
+    $('#logo').css("height", "50px");
   }
 };
 

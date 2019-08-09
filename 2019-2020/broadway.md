@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pops, On Broadway!
-permalink: /popsonbroadway.html #change here if we want prettier link!!
+permalink: /2019-2020/popsonbroadway/
 ---
 
 <div class="content main container-fluid">
@@ -14,7 +14,7 @@ permalink: /popsonbroadway.html #change here if we want prettier link!!
             <div class="row">
               <div class="col-md-8">
                 <a href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" target="_blank">
-                  <h5 class="concert-title">Pops, On Broadway! </h5>
+                  <h5 class="concert-title">{% t concerts.broadway.title %} </h5>
                 </a>
               </div>
                 <div class="col-md">
@@ -71,8 +71,8 @@ permalink: /popsonbroadway.html #change here if we want prettier link!!
                 <div class="col-md-4">
                   {% t concerts.age.value %}<br><br> </div>
                 </div>
+                <p>{% t concerts.broadway.description %}</p>
               </div>
-              <p>{% t concerts.broadway.description %}</p>
                 <iframe src="https://open.spotify.com/embed/playlist/4EBL0jzb36rCwR1EFXT7kq" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>
             </div>
           </div>

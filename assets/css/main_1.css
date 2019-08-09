@@ -114,7 +114,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .upcoming {
-  padding: 15px 15px 50px;
+  padding: 15px 25px 50px;
+}
+
+.upcoming-home {
+  margin: 0 35px;
+  background-color: lightgrey;
 }
 
 .overlay:hover {
@@ -933,11 +938,17 @@ a:hover {
     font-size: 26px;
     margin: 0 auto;
     text-align: center;
+    color: black;
   }
 
   .upcoming a {
     font-size: 15px;
     font-weight: 400;
+  }
+
+  .upcoming-home {
+    margin: 0 auto;
+    background-color: transparent;
   }
 
   #showAll {

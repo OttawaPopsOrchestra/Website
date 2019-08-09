@@ -58,7 +58,7 @@ permalink: /2018-2019/StarWars/
                 <div class="col-md-4">
                    {% t concerts.age.value %}<br><br>
                 </div>
-              <p>{% t concerts.StarWars.description %}</p>
+                <!-- <p>{% t concerts.StarWars.description %}</p> -->
                 <iframe src="https://open.spotify.com/embed/user/gc288ipmhh2500t2510g767lt/playlist/4n3vlxFGfMH8mtozCKEsIY" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>
                 <!-- 
                 <div style="margin-top: 20px" class="accordion" id="accordionExample">
@@ -182,7 +182,7 @@ permalink: /2018-2019/StarWars/
                 </div> -->
               </div>
             </div>
+            <hr>{% include upcoming.html %}
           </div>
-          <hr>{% include upcoming.html %}
         </div>
 </div>
