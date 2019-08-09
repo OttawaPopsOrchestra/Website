@@ -12,7 +12,7 @@ permalink: /
                 <div class="carousel-item active">
                     <img id="SWcarousel-img" class="d-block w-100" src="/assets/img/concerts-single/2019-2020/HMWBanner.png" alt="HMW">
                     <div class="carousel-caption ">
-                        <a id="SWcarousel" onmouseenter="grey(this.id)" onmouseout="unGrey(this.id)" href="Disney.html" class="btn btn-maroon">{% t home.moreInfo %}</a>
+                        <a id="SWcarousel" onmouseenter="grey(this.id)" onmouseout="unGrey(this.id)" href="{{ site.baseurl }}/2019-2020/hmw/" class="btn btn-maroon">{% t home.moreInfo %}</a>
                     </div>
                 </div>
             </div>
