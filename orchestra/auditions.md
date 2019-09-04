@@ -48,6 +48,48 @@ permalink: /auditions/
               </div>
             </div>
             
+            <div style="margin-top: 20px; width: 100%;" class="accordion" id="accordionExample2">
+                  <div class="card">
+                    <div class="card-header" id="headingOne-2">
+                      <h6>
+                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne-2" aria-expanded="true" aria-controls="collapseOne">
+                          {% t auditions.master.title %} <i class="fas fa-caret-down"></i>
+                        </button>
+                      </h6>
+                    </div>
+    
+                    <div id="collapseOne-2" class="collapse" aria-labelledby="headingOne-2" data-parent="#accordionExample2">
+                      <div class="card-body">
+                        <p>{% t auditions.master.p1 %}</p>
+                        
+                        <h5><strong>{% t auditions.master.reqs.title %}</strong></h5>
+                        <p>{% t auditions.master.reqs.p1 %}</p>
+                        
+                        <div style="margin-left: 20px;">                            
+                            <h5><strong>{% t auditions.master.reqs.scales.title %}</strong></h5>
+                            <p>{% t auditions.master.reqs.scales.val %}</p>
+                            
+                            <h5><strong>{% t auditions.master.reqs.excerpts.title %}</strong></h5>
+                            <ul>
+                              <li>{% t auditions.master.reqs.excerpts.val1 %}</li>
+                              <li>{% t auditions.master.reqs.excerpts.val2 %}</li>
+                            </ul>
+                            
+                            <h5><strong>{% t auditions.master.reqs.pieces.title %}</strong></h5>
+                            <p>{% t auditions.master.reqs.pieces.val %}</p>
+                        </div>                        
+                        
+                        <h5><strong>{% t auditions.master.comp.title %}</strong></h5>
+                        <p>{% t auditions.master.comp.val %}</p>
+                        
+                        <h5><strong>{% t auditions.master.details.title %}</strong></h5>
+                        <p>{% t auditions.master.details.val %}</p>                        
+                        
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            
             <br><p>{% t auditions.p5 %}</p>
             <ul>
               <li><strong><em>{% t auditions.violin.title %}:</em></strong> {% t auditions.violin.value %}</li>

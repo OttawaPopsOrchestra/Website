@@ -99,11 +99,15 @@
     </div>
 
     <div class="row justify-content-center pages-row">
-        <div class="col-md-2 text-center pages"><a href="index.html">{% t pages.home %}</a></div>
-        <div class="col-md-2 text-center pages"><a href="about-us.html">{% t pages.about %}</a></div>
-        <div class="col-md-2 text-center pages"><a href="concerts.html">{% t pages.concerts %}</a></div>
-        <div class="col-md-2 text-center pages"><a href="conductors.html">{% t pages.orchestra %}</a></div>
+        {% if site.lang == "fr" %}
+            <div class="col-md-2 text-center pages"><a href="{{ site.baseurl_root }}/{{site.lang}}">{% t pages.home %}</a></div>
+        {% else %}
+            <div class="col-md-2 text-center pages"><a href="/">{% t pages.home %}</a></div>
+        {% endif %}
+        <div class="col-md-2 text-center pages"><a href="{{ site.baseurl }}/about">{% t pages.about %}</a></div>
+        <div class="col-md-2 text-center pages"><a href="{{ site.baseurl }}/2019-2020/">{% t pages.concerts %}</a></div>
+        <div class="col-md-2 text-center pages"><a href="{{ site.baseurl }}/conductors/">{% t pages.orchestra %}</a></div>
         <!-- <div class="col-md-2 text-center pages"><a href="news.html">News & Media</a></div> -->
-        <div class="col-md-2 text-center pages"><a href="contact.html">{% t pages.contact %}</a></div>
+        <div class="col-md-2 text-center pages"><a href="{{ site.baseurl }}/contact/">{% t pages.contact %}</a></div>
     </div>
 </footer>

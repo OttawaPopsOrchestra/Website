@@ -111,6 +111,29 @@ auditions:
     live: Instruments fournis pour l’audition en personne
     timp: Ensemble de 4 timbales Ludwig (23 po, 26 po, 29 po, 32 po)
 
+  master:
+    title: CONCERTMASTER AUDITIONS
+    p1: Applicants wishing to be considered for Concertmaster for the Ottawa Pops Orchestra 2018-2019 season should prepare a video audition and send a Youtube link, sheet music, and CV to auditions@ottawapopsorchestra.ca by no later than September 10th 2019 17:00 EST.
+    reqs:
+      title: Audition Requirements
+      p1: All scales are to be played at BPM=60 (minimum), in 16th notes ascending and descending 8 to a bow.
+      scales:
+        title: Scales
+        val: D-Major 3 octaves
+      excerpts:
+        title: Excerpts
+        val1: Strauss - Don Juan, Op. 20, m. 1-62.
+        val2: "Mendelsohn - Midsummer Night’s Dream: Overture, mm 6-81."
+      pieces:
+        title: Pieces
+        val: 2 contrasting pieces not exceeding 10 minutes of combined playing time.
+    comp:
+      title: Compensation
+      val: The successful candidate will receive a compensation of $150.00 (ONE HUNDRED AND FIFTY) CDN for each eligible service. Eligible services include all dress rehearsals and performances. All other rehearsals are not eligible for compensation.
+    details:
+      title: Details
+      val: The successful candidate will be notified by no later than September 12th, 2019 17:00 EST via email or phone. The successful candidate is invited to participate on the audition panel for regular auditions on September 14th and 15th 2019 from 10:00-18:00. The concertmaster is expected to attend all regular prescheduled rehearsals, lead all sectionals and prepare bowings in advance. The Concertmaster will serve as figurehead for the ensemble and will receive priority right of refusal for any functions outside of the regular season.
+
   p5: Toutes les gammes doivent être jouées à 60 PPM (minimum) à moins d’indication contraire, en doubles croches ascendantes et descendantes (8 notes par coup d’archet pour les cordes).
   violin:
     title: Violon, violoncelle, flûte/piccolo
