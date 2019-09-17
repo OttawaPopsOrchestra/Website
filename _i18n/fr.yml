@@ -112,27 +112,27 @@ auditions:
     timp: Ensemble de 4 timbales Ludwig (23 po, 26 po, 29 po, 32 po)
 
   master:
-    title: CONCERTMASTER AUDITIONS
-    p1: Applicants wishing to be considered for Concertmaster for the Ottawa Pops Orchestra 2018-2019 season should prepare a video audition and send a Youtube link, sheet music, and CV to auditions@ottawapopsorchestra.ca by no later than September 10th 2019 17:00 EST.
+    title: AUDITIONS DE PREMIER VIOLON
+    p1: Les candidats qui souhaitent devenir le premier violon de l’Orchestre Pop d’Ottawa pour la saison 2019-2020 devront preparer une audition enregistrée par vidéo et envoyer un lien Youtube, les partitions et un CV à auditions@ottawapopsorchestra.ca avant le 10 septembre 2019 à 17 h (heure de l’Est).
     reqs:
-      title: Audition Requirements
-      p1: All scales are to be played at BPM=60 (minimum), in 16th notes ascending and descending 8 to a bow.
+      title: Critères d’audition
+      p1: Toutes les gammes doivent être jouées à 60 PPM (minimum), en double-croches ascendantes et descendantes avec 8 notes par coup d’archet.
       scales:
-        title: Scales
-        val: D-Major 3 octaves
+        title: Gamme
+        val: ré majeur 3 octaves
       excerpts:
-        title: Excerpts
-        val1: Strauss - Don Juan, Op. 20, m. 1-62.
-        val2: "Mendelsohn - Midsummer Night’s Dream: Overture, mm 6-81."
+        title: Extraits
+        val1: Strauss – Don Juan, op. 20, mesures 1-62
+        val2: "Mendelsohn – Midsummer Night’s Dream : Ouverture, mesures 6-81"
       pieces:
-        title: Pieces
-        val: 2 contrasting pieces not exceeding 10 minutes of combined playing time.
+        title: Pièces
+        val: 2 pièces contrastées sans dépasser une durée totale de 10 minutes
     comp:
-      title: Compensation
-      val: The successful candidate will receive a compensation of $150.00 (ONE HUNDRED AND FIFTY) CDN for each eligible service. Eligible services include all dress rehearsals and performances. All other rehearsals are not eligible for compensation.
+      title: Rémunération
+      val: Le/la candidat.e recevra une rémunération de 150,00$ (CENT CINQUANTE) pour chaque service éligible, y comprises toutes les répétitions générales et les prestations. Toutes les autres répétitions ne sont pas sujettes à compensation.
     details:
-      title: Details
-      val: The successful candidate will be notified by no later than September 12th, 2019 17:00 EST via email or phone. The successful candidate is invited to participate on the audition panel for regular auditions on September 14th and 15th 2019 from 10:00-18:00. The concertmaster is expected to attend all regular prescheduled rehearsals, lead all sectionals and prepare bowings in advance. The Concertmaster will serve as figurehead for the ensemble and will receive priority right of refusal for any functions outside of the regular season.
+      title: Détails
+      val: Le/la candidat.e choisi.e sera contacté.e avant 17 h (heure de l’Est) le 12 septembre 2019 par courriel ou par téléphone. Cette personne sera invitée à participer au panel d’audition pour les auditions générales les 14 et 15 septembre 2019 de 10 h à 18 h. Le premier violon est prié d’assister à toutes les répétitions prévues à l’horaire, de diriger les répétitions en section et de préparer les coup d’archet en avance. Le premier violon sera à la tête de l’ensemble et recevra le premier droit de refus pour toute fonction supplémentaire de la saison régulière.
 
   p5: Toutes les gammes doivent être jouées à 60 PPM (minimum) à moins d’indication contraire, en doubles croches ascendantes et descendantes (8 notes par coup d’archet pour les cordes).
   violin:
