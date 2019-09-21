@@ -41,7 +41,7 @@ permalink: /2019-2020/hmw/
                     <i class="far fa-calendar-alt"></i> {% t concerts.HMW.concert2.date %}
                   </div>
                   <div class="col-md-4">
-                    <i class="far fa-clock"></i> {% t concerts.HMW.concert1.time %}<br><br>
+                    <i class="far fa-clock"></i> {% t concerts.HMW.concert2.time %}<br><br>
                   </div>
                 </div>
               </a>
