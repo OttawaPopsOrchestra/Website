@@ -6,7 +6,7 @@ permalink: /2019-2020/hmw/
 
 <div class="content main container-fluid">
     <a href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT1108N&linkID=centrepointe&shopperContext=&caller=&appCode=" target="_blank">
-        <img src="/assets/img/concerts-single/2019-2020/HMWBanner.png" width="100%" />
+        <img src="/assets/img/concerts-single/2019-2020/HMWBanner.png" title="{% t concerts.HMW.title %}" alt="{% t concerts.HMW.title %}" width="100%" />
       </a>
       <div class="concert-single">
         <div class="row">
