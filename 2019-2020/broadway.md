@@ -5,7 +5,7 @@ permalink: /2019-2020/popsonbroadway/
 ---
 
 <div class="content main container-fluid">
-     <a href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" target="_blank">
+     <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" target="_blank">
         <img src="/assets/img/concerts-single/2019-2020/POBBanner.png" title="{% t concerts.broadway.title %}" alt="{% t concerts.broadway.title %}" width="100%" />
       </a>
       <div class="concert-single">
@@ -13,17 +13,17 @@ permalink: /2019-2020/popsonbroadway/
           <div class="col-md concert-info">
             <div class="row">
               <div class="col-md-8">
-                <a href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" target="_blank">
+                <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" target="_blank">
                   <h5 class="concert-title">{% t concerts.broadway.title %} </h5>
                 </a>
               </div>
                 <div class="col-md">
-                    <a href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" class="btn btn-maroon btn-block" target="_blank">{% t concerts.buyTickets %}</a>
+                    <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" class="btn btn-maroon btn-block" target="_blank">{% t concerts.buyTickets %}</a>
                     <p style="padding-top:10px">{% t concerts.meridian %}</p>
                 </div>
             </div>
             <div class="concert-description">
-              <a class="ticket-link" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" target="_blank">
+              <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=');" class="ticket-link" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" target="_blank">
                 <div class="row">
                   <div class="col-md-4">
                     <i class="far fa-calendar-alt"></i> {% t concerts.broadway.concert1.date %}
