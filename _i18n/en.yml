@@ -71,7 +71,8 @@ season:
 matinees:
   header: Student Matinees
   title: Student Matinee Details
-  button: All student matinee events for the 2018-2019 season have passed
+  button: "Upcoming: Harry’s Music World Student Matinee November 8th @ 12:30pm."
+  click: To register your class, please fill out this form
   gr4-6: "Students Grade 4-6: $3.50 plus HST"
   gr7-12: "Students Grade 7-12: $5.00 plus HST"
   p1: Someone from our team will follow up within 5 business days to confirm your order and issue an invoice.
@@ -82,7 +83,7 @@ matinees:
 
   payment:
     title: PAYMENT DETAILS
-    value: Full payment is required by the payment deadline (approximately 1 week before the performance). Payment can be made by electronic transfer or cheque made out to Ottawa Pops Orchestra. The Ottawa Pops Orchestra reserves the right to cancel any orders submitted but not paid for by the payment deadline.
+    value: Full payment is required the day before the matinee. Payment can be made by electronic transfer or cheque made out to Ottawa Pops Orchestra. The Ottawa Pops Orchestra reserves the right to cancel any orders submitted but not paid for by the payment deadline.
 
   seating:
     title: SEATING
@@ -92,6 +93,7 @@ matinees:
     title: TEACHER STUDY GUIDE
     p1: A pre-concert study guide to help you prepare your students for this concert-going experience is available for download in both English and French. This guide will provide you with curriculum links, information about the concert program, the performers, and performance etiquette.
     p2: If you have any questions about your order, please call or email Mathieu Roy, Artistic Director at
+    p2_b: or Lyndsay Tran, Artistic Administrator at
     hst: HST will be added to your invoice. Full payment will be due by deadline date.
     p3: Once we receive your ticket order request we will calculate the cost, and the number of free adult chaperone tickets versus student tickets to be paid, and send you an invoice.
 

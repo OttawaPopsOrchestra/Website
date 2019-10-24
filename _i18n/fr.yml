@@ -71,7 +71,8 @@ season:
 matinees:
   header: LA MATINÉE SCOLAIRE
   title: DÉTAILS SUR LA MATINÉE SCOLAIRE
-  button: Toutes les matinÉes scolaries de la saison 2018-2019 ont passÉ
+  button: "A venir: Matinée scolaire du Monde Musical de Harry Potter le 8 novembre à 12h30"
+  click: Pour enregistrer votre classe, veuillez completer ce formulaire ici
   gr4-6: "Élèves de la 4e à la 6e année : 3,50 $ plus TVH"
   gr7-12: "Élèves de la 7e à la 12e année : 5,00 $ plus TVH"
   p1: Un(e) membre de notre équipe fera un suivi dans les 5 jours ouvrables afin de confirmer votre commande et vous envoyer une facture.
@@ -82,7 +83,7 @@ matinees:
 
   payment:
     title: DÉTAILS DE PAIEMENT
-    value: Paiement complet est requis avant le délai de paiement (environ une semaine avant le concert). Les virements électroniques ou les chèques à l’ordre de l’Orchestre Pop d’Ottawa seront acceptés. L’Orchestre Pop d’Ottawa se réserve le droit d’annuler une commande soumise sans avoir reçu le paiement avant le délai de paiement.
+    value: Le paiement complet est requis un jour avant la matinée. Les virements électroniques ou les chèques à l’ordre de l’Orchestre Pop d’Ottawa seront acceptés. L’Orchestre Pop d’Ottawa se réserve le droit d’annuler une commande soumise sans avoir reçu le paiement avant le délai de paiement.
 
   seating:
     title: SIÈGES
@@ -92,6 +93,7 @@ matinees:
     title: GUIDE DE PRÉPARATION POUR LES ENSEIGNANTS
     p1: Un guide d’étude à consulter avant le concert visant la préparation de vos élèves pour cette expérience orchestrale est disponible par téléchargement en anglais ou en français. Ce guide vous fournira des liens au curriculum ontarien, de l’information sur le programme, les musiciens et l’étiquette de concert.
     p2: Si vous avez des questions au sujet de votre commande, veuillez appeler ou envoyer un courriel à Mathieu Roy, directeur artistique, au
+    p2_b: ou Lyndsay Tran, administratrice artistique, à
     hst: TVH sera ajoutée à la facture. Le paiement complet est requis avant le délai de paiement.
     p3: Lorsque nous recevrons votre commande de billets, nous calculerons le coût et le nombre de billets d’accompagnateurs gratuits selon les billets d’élèves à payer. Par la suite, nous vous ferons parvenir une facture.
 
@@ -158,7 +160,7 @@ auditions:
     value: 3 octaves de votre choix ME, 80+PPM.
   piano:
     title: Piano
-    value:  sol mineur mélodique à motion parallèle de 4 octaves, 104 PPM. Accord brisé à 4 notes si majeur tonique avec alternation des notes de 2 octaves (finissant avec la progression d’accord I-IV-164-V-I) ME, 80 PPM.
+    value: sol mineur mélodique à motion parallèle de 4 octaves, 104 PPM. Accord brisé à 4 notes si majeur tonique avec alternation des notes de 2 octaves (finissant avec la progression d’accord I-IV-164-V-I) ME, 80 PPM.
   results:
     title: RÉSULTATS D’AUDITION
     p: Tous les candidats seront informés des résultats des auditions. Il est possible que les musiciens acceptés seront appelés à jouer pour tout ou quelques-uns des concerts. Tous les candidats seront avisés de quelle classe de musiciens à laquelle ils appartiennent et si la Bourse de développement orchestral leur a été décernée.
