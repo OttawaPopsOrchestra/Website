@@ -26,8 +26,8 @@ permalink: /auditions/
             <!-- <p>{% t auditions.p1 %}</p>
             <div class="center">
               <a id="audition-reg-web" href="#audition-reg" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a>
-              <a id="audition-reg-mobile" href="https://docs.google.com/forms/d/e/1FAIpQLScdT5pkOrHJoy5CQCtg096rid4OGPWdKgW2d7QON5qAm8g5Gg/viewform?usp=sf_link" target="_blank" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a> -->
-            </div>            
+              <a id="audition-reg-mobile" href="https://docs.google.com/forms/d/e/1FAIpQLScdT5pkOrHJoy5CQCtg096rid4OGPWdKgW2d7QON5qAm8g5Gg/viewform?usp=sf_link" target="_blank" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a> 
+            </div> -->           
             <p>{% t auditions.p2 %}</p>
             <p>{% t auditions.p3 %}</p>
             <p>{% t auditions.p4 %}</p>
@@ -133,3 +133,4 @@ permalink: /auditions/
           </div>
         </div>
       </div>
+    </div>
