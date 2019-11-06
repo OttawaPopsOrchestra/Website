@@ -98,6 +98,17 @@ matinees:
     p3: Once we receive your ticket order request we will calculate the cost, and the number of free adult chaperone tickets versus student tickets to be paid, and send you an invoice.
 
 auditions:
+  cancel:
+    p1: Regular auditions for the 2019-2020 season have closed.
+    p2: "We are still accepting auditions on the following instruments:"
+    violin: Violin
+    viola: Viola
+    cello: Cello
+    doubleBass: Double Bass
+    auxClarinet: Auxiliary clarinet (Bb, Eb, Bass)
+    percussion: Percussion
+    request_1: Please email
+    request_2: to request an audition.
   regHere: Register Here
   title: Auditions
   p1: 2019-2020 Season Auditions will be held Saturday September 14 and Sunday September 15 2019 in room 109 of Perez Hall, 610 Cumberland St.

@@ -98,6 +98,17 @@ matinees:
     p3: Lorsque nous recevrons votre commande de billets, nous calculerons le coût et le nombre de billets d’accompagnateurs gratuits selon les billets d’élèves à payer. Par la suite, nous vous ferons parvenir une facture.
 
 auditions:
+  cancel:
+    p1: Les auditions générales pour la saison 2019-2020 sont terminées.
+    p2: "Nous acceptons encore des auditions pour les instruments suivants :"
+    violin: Violon
+    viola: Alto
+    cello: Violoncelle
+    doubleBass: Contrebasse
+    auxClarinet: Clarinette (si bémol, mi bémol, basse)
+    percussion: Percussion
+    request_1: Veuillez envoyer un courriel à
+    request_2: pour faire passer une audition.
   regHere: Inscrivez-vous
   title: Auditions
   p1: Les auditions pour la saison 2019-2020 auront lieu les 14 et 15 septembre 2019 dans la salle 109 du pavillon Perez, 610, rue Cumberland.
@@ -196,7 +207,7 @@ concerts:
   seasonSub: Pour abonnés
   ssOnSale: en vente
   may17: le 17 mai!
-  stOnSale: Billets simple
+  stOnSale: Billets simples
   june26: le 26 juin!
 
   meridian-loc:
@@ -227,10 +238,10 @@ concerts:
     description: Vivez la magie de Disney comme vous ne l’avez jamais fait auparavant ; en direct avec un orchestre symphonique et une projection vidéo ! L’Orchestre Pop d’Ottawa présente des bandes-son originales de films bien-aimés, y compris, La Petite Sirène, Pocahontas, Mary Poppins, La Belle et la Bête, La Reine des neiges, Aladdin, Mulan, Pirates des Caraïbes et Le Roi Lion. Nous vous invitons à ce concert comblé de mélodies sensationnelles et d’anciennes légendes, une soirée captivante pour toute la famille !
     concert1:
       date: le 17 mai 2019
-      time: 19:30h
+      time: 19 h 30
     concert2:
       date: le 18 mai 2019
-      time: 19:30h
+      time: 19 h 30
 
   SATS:
     title: Contes à la Symphonie
@@ -241,42 +252,42 @@ concerts:
     title: La Musique de Star Wars
     concert1:
       date: le 21 décembre 2018
-      time: 19:30h
+      time: 19 h 30
     concert2:
       date: le 22 décembre 2018
-      time: 19:30h
+      time: 19 h 30
     concert3:
       date: le 23 décembre 2018
-      time: 14:30h
+      time: 14 h 30
     description: star wars
 
   ToT:
     title: Trick or Toccata
     concert1:
       date: le 23 octobre 2018
-      time: 19:30h
+      time: 19 h 30
     description: The Ottawa Pops Orchestra (OPO) returns to Meridian Theatres at Centrepointe on October 23rd, 2018 for an evening concert dedicated to the musical giants of horror, on and off the silver screen. Featuring a performance of one of the most fear-inspiring works of all time, Bach-Stokowski’s Toccata and Fugue in D minor, as well as Mussorgsky’s frantic musical nightmare “Night on Bald Mountain”, OPO pays tribute to universally recognized classical scores that conjure the darkest of our cinematic memories. Program suitable for all ages - families with young children are encouraged to attend.
 
   HMW:
     title: Le Monde Musical de Harry
     concert1:
       date: le 8 novembre 2019
-      time: 19:30h
+      time: 19 h 30
     concert2:
       date: le 9 novembre 2019
-      time: 14:30h
+      time: 14 h 30
     description: Sorciers et sorcières, gobelins, hippogriffes, et toute autre créature fantastique sont cordialement invités à prendre part à une prestation symphonique du « Monde Magique de Harry », présenté par l’Orchestre Pop d’Ottawa. Suite à un succès fulgurant en mai 2018, avec des salles complètes pour chaque soir et une matinée supplémentaire pour accommoder la demande populaire, il fait un grand plaisir à l’OPO de ramener la magie du monde sorcier à Ottawa.
 
   VGS:
     title: Symphonie de jeux vidéo
     concert1:
       date: le 21 mars 2020
-      time: 19:30h
+      time: 19 h 30
     description: "Nous lançons l’appel à tous les mages et guerriers : la chance d’embarquer dans votre domaine préféré est arrivée avec La Symphonie de jeux vidéo ! L’aventure débute à 18 h 30 le 21 mars 2020. Revivez l’extase de Final Fantasy, The Legend of Zelda, Call of Duty, Dragon Age, Undertale, et encore plus, qui seront dirigés par le chef d’orchestre de l’Orchestre de Jeux Vidéo de Montréal et de l’Orchestre Pop d’Ottawa, Jonathan Dagenais ! Témoignez de la splendeur d’un orchestre complet EN DIRECT, accompagné d’une projection cinématique. "
 
   broadway:
     title: Pops sur Broadway!
     concert1:
       date: le 16 mai 2020
-      time: 14:30h
+      time: 14 h 30
     description: Mettez vos chaussures de danse et qu’on monte le son, le meilleur de Broadway vient à Ottawa au printemps 2020! L’Orchestre Pops d’Ottawa vous invite à “Pops sur Broadway!”, qui se tiendra au Théâtres Meridian @ Centrepointe le 16 mai 2020. Nous promettons une soirée pleine de rires, de triomphes et de mélodies dansantes qui plairont à toute la famille! Venez écouter vos chansons favorites des spectacles comme Evita, Les Misérables, Wicked, West Side Story, et encore plus, présentées par un orchestre symphonique et d’excellents chanteurs !
