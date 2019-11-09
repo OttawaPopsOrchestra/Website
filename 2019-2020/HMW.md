@@ -16,6 +16,7 @@ permalink: /2019-2020/hmw/
                 <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT1108N&linkID=centrepointe&shopperContext=&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT1108N&linkID=centrepointe&shopperContext=&caller=&appCode=" target="_blank">
                   <h5 class="concert-title">{% t concerts.HMW.title %}</h5>
                 </a>
+              <a class="btn" href="/HMWProgram.pdf" style="font-size: large;font-weight: 700;border: 2px solid #920503;color: #920503;padding: 0.9em;margin: 0/8em 0em;border-radius: 25px;text-align: center;box-shadow: 10px 10px 8px grey;">HARRY'S MUSICAL WORLD PROGRAM</a>
               </div>
               <div class="col-md">
                 <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT1108N&linkID=centrepointe&shopperContext=&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT1108N&linkID=centrepointe&shopperContext=&caller=&appCode=" class="btn btn-maroon btn-block" target="_blank">
