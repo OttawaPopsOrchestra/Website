@@ -71,7 +71,7 @@ season:
 matinees:
   header: Student Matinees
   title: Student Matinee Details
-  button: "Upcoming: Harry’s Music World Student Matinee November 8th @ 12:30pm."
+  button: "Pops on Broadway! Student Matinee May 15th @ 12:30pm."
   click: To register your class, please fill out this form
   gr4-6: "Students Grade 4-6: $3.50 plus HST"
   gr7-12: "Students Grade 7-12: $5.00 plus HST"
@@ -283,7 +283,7 @@ concerts:
     concert1:
       date: March 21, 2020
       time: 7:30PM
-    description: "Calling all mages and warriors: the chance to step into your favourite realm has arrived, with the Video Game Symphony! Adventure calls at 7:30 PM on March 21st 2020. Relive the thrill of Final Fantasy, The Legend of Zelda, Call of Duty, Dragon Age, Undertale, and more with the conductor of the Montreal Video Game Orchestra and OPO favourite, Jonathan Dagenais! Experience the magnificence of a full LIVE orchestra accompanied by a cinematic video projection."
+    description: "Calling all mages and warriors: the chance to step into your favourite realm has arrived, with the Video Game Symphony! Adventure calls at 7:30 PM on March 21st 2020. Relive the thrill of some of the best video games with the conductor of the Montreal Video Game Orchestra and OPO favourite, Jonathan Dagenais! Experience the magnificence of a full LIVE orchestra accompanied by a cinematic video projection."
 
   broadway:
     title: Pops, On Broadway!

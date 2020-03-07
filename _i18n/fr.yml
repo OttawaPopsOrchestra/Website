@@ -71,7 +71,7 @@ season:
 matinees:
   header: LA MATINÉE SCOLAIRE
   title: DÉTAILS SUR LA MATINÉE SCOLAIRE
-  button: "A venir: Matinée scolaire du Monde Musical de Harry Potter le 8 novembre à 12h30"
+  button: "Matinée scolaire de Pops sur Broadway! le 15 mai à 12h30"
   click: Pour enregistrer votre classe, veuillez completer ce formulaire ici
   gr4-6: "Élèves de la 4e à la 6e année : 3,50 $ plus TVH"
   gr7-12: "Élèves de la 7e à la 12e année : 5,00 $ plus TVH"
@@ -283,7 +283,7 @@ concerts:
     concert1:
       date: le 21 mars 2020
       time: 19 h 30
-    description: "Nous lançons l’appel à tous les mages et guerriers : la chance d’embarquer dans votre domaine préféré est arrivée avec La Symphonie de jeux vidéo ! L’aventure débute à 18 h 30 le 21 mars 2020. Revivez l’extase de Final Fantasy, The Legend of Zelda, Call of Duty, Dragon Age, Undertale, et encore plus, qui seront dirigés par le chef d’orchestre de l’Orchestre de Jeux Vidéo de Montréal et de l’Orchestre Pop d’Ottawa, Jonathan Dagenais ! Témoignez de la splendeur d’un orchestre complet EN DIRECT, accompagné d’une projection cinématique. "
+    description: "Nous lançons l’appel à tous les mages et guerriers : la chance d’embarquer dans votre domaine préféré est arrivée avec La Symphonie de jeux vidéo ! L’aventure débute à 18 h 30 le 21 mars 2020. Revivez la musique des meilleurs jeux, de grands classiques au nouveaux arrivés. Tous seront dirigés par le chef d’orchestre de l’Orchestre de Jeux Vidéo de Montréal et de l’Orchestre Pop d’Ottawa, Jonathan Dagenais ! Témoignez de la splendeur d’un orchestre complet EN DIRECT, accompagné d’une projection cinématique."
 
   broadway:
     title: Pops sur Broadway!
