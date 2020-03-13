@@ -5,25 +5,25 @@ permalink: /2019-2020/videogamesymphony/
 ---
 
 <div class="content main container-fluid">
-   <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext" target="_blank">
+   <!-- <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext" target="_blank"> -->
     <img src="/assets/img/concerts-single/2019-2020/VGSBanner.jpeg" title="{% t concerts.VGS.title %}" alt="{% t concerts.VGS.title %}" width="100%" />
-    </a>
+    <!-- </a> -->
     <div class="concert-single">
     <div class="row">
         <div class="col-md concert-info">
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-12">
             <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext" target="_blank">
-                <h5 class="concert-title">{% t concerts.VGS.title %}</h5>
+                <h5 class="concert-title">{% t concerts.VGS.title %} - {% t concerts.VGS.postponed %}</h5>
             </a>
             </div>
-            <div class="col-md">
-                <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext" class="btn btn-maroon btn-block" target="_blank">{% t concerts.buyTickets %}</a>
-                <p style="padding-top:10px">{% t concerts.meridian %}</p>
-            </div>
+            <!-- <div class="col-md">
+                <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext" class="btn btn-maroon btn-block" target="_blank">{% t concerts.buyTickets %}</a> -->
+                <!-- <p style="padding-top:10px">{% t concerts.meridian %}</p> -->
+            <!-- </div> -->
         </div>
         <div class="concert-description">
-            <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext');" class="ticket-link" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext" target="_blank">
+            <!-- <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext');" class="ticket-link" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext" target="_blank">
             <div class="row">
                 <div class="col-md-4">
                 <i class="far fa-calendar-alt"></i> {% t concerts.VGS.concert1.date %}
@@ -32,7 +32,27 @@ permalink: /2019-2020/videogamesymphony/
                 <i class="far fa-clock"></i> {% t concerts.VGS.concert1.time %}<br>
                 </div>
             </div>
-            </a>
+            </a> -->
+            <div class="row">
+                <!-- <div class="col-md-4 bold">
+                  {% t concerts.lang.title %}:
+                </div>
+                <div class="col-md-4">
+                  {% t concerts.lang.value %}
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-4 bold">
+                  {% t concerts.age.title %}:
+                </div>
+                <div class="col-md-4">
+                  {% t concerts.age.value %}<br><br> </div> -->
+                <!-- </div> -->
+     <div class="col">
+                <h4>{% t concerts.VGS.refund %}</h4>
+                <p>{% t concerts.VGS.description %}</p>
+     </div>
+            </div>
             <div class="row">
             <div class="col-md-4">
                 <i class="fas fa-map-marker-alt"></i> {% t concerts.meridian-loc.title %}
@@ -45,7 +65,7 @@ permalink: /2019-2020/videogamesymphony/
                 </p>
             </div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
             <div class="col-md-4 bold">
                 {% t concerts.tickets.title %}
             </div>
@@ -55,24 +75,7 @@ permalink: /2019-2020/videogamesymphony/
                     {% t concerts.tickets.priceVGS %}<br>
                 </p>
             </div>
-            </div>
-            <div class="row">
-                <div class="col-md-4 bold">
-                  {% t concerts.lang.title %}:
-                </div>
-                <div class="col-md-4">
-                  {% t concerts.lang.value %}
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-md-4 bold">
-                  {% t concerts.age.title %}:
-                </div>
-                <div class="col-md-4">
-                  {% t concerts.age.value %}<br><br> </div>
-                </div>
-                <p>{% t concerts.VGS.description %}</p>
-            </div>
+            </div> -->
             <iframe src="https://open.spotify.com/embed/playlist/1xlIORmvzJLwbRRgsm46gv" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>
         </div>
     </div>

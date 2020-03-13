@@ -283,7 +283,16 @@ concerts:
     concert1:
       date: le 21 mars 2020
       time: 19 h 30
-    description: "Nous lançons l’appel à tous les mages et guerriers : la chance d’embarquer dans votre domaine préféré est arrivée avec La Symphonie de jeux vidéo ! L’aventure débute à 18 h 30 le 21 mars 2020. Revivez la musique des meilleurs jeux, de grands classiques au nouveaux arrivés. Tous seront dirigés par le chef d’orchestre de l’Orchestre de Jeux Vidéo de Montréal et de l’Orchestre Pop d’Ottawa, Jonathan Dagenais ! Témoignez de la splendeur d’un orchestre complet EN DIRECT, accompagné d’une projection cinématique."
+    postponed:  remise aux 15 et 16 mai 2020 
+    refund: Message concernant les remboursements et échanges
+    description: "Dès maintenant, les personnes ayant acheté des billets pour le concert du 21 mars auront leurs billets
+transférés à la nouvelle date de spectacle, soit celle du samedi 16 mai 2020. Soyez rassurés que la
+situation sera prise en charge. Nous vous prions alors de retenir vos billets et ils seront valides pour la
+performance du 16 mai. Ceux et celles qui souhaitent réclamer un remboursement ou un échange de
+billets pour une autre date de concert peuvent contacter directement la billetterie des Théâtres
+Meridian. Soyez avisés que le volume d’appels est très élevé et que la durée d’un appel risque d’être
+prolongée."
+    # description: Nous lançons l’appel à tous les mages et guerriers : la chance d’embarquer dans votre domaine préféré est arrivée avec La Symphonie de jeux vidéo ! L’aventure débute à 18 h 30 le 21 mars 2020. Revivez la musique des meilleurs jeux, de grands classiques au nouveaux arrivés. Tous seront dirigés par le chef d’orchestre de l’Orchestre de Jeux Vidéo de Montréal et de l’Orchestre Pop d’Ottawa, Jonathan Dagenais ! Témoignez de la splendeur d’un orchestre complet EN DIRECT, accompagné d’une projection cinématique."
 
   broadway:
     title: Pops sur Broadway!

@@ -283,7 +283,10 @@ concerts:
     concert1:
       date: March 21, 2020
       time: 7:30PM
-    description: "Calling all mages and warriors: the chance to step into your favourite realm has arrived, with the Video Game Symphony! Adventure calls at 7:30 PM on March 21st 2020. Relive the thrill of some of the best video games with the conductor of the Montreal Video Game Orchestra and OPO favourite, Jonathan Dagenais! Experience the magnificence of a full LIVE orchestra accompanied by a cinematic video projection."
+    postponed: Postponed to May 15-16 2020
+    refund: Message Regarding Refunds and Exchanges
+    description: "At this time, all ticket holders will have their tickets transferred to the Saturday May 16th performance. Rest assured that all ticket buyers will be taken care of. Please hold on to your tickets as at this time, all ticket holders to the March 21st event will have their tickets transferred to the Saturday May 16th performance. Ticket holders who would like to request a performance date change or a refund may do so by contacting the Meridian Theatres Box Office directly. Please be aware that call volumes are heavy and that you may experience prolonged wait times."
+    # description: "Calling all mages and warriors: the chance to step into your favourite realm has arrived, with the Video Game Symphony! Adventure calls at 7:30 PM on March 21st 2020. Relive the thrill of some of the best video games with the conductor of the Montreal Video Game Orchestra and OPO favourite, Jonathan Dagenais! Experience the magnificence of a full LIVE orchestra accompanied by a cinematic video projection."
 
   broadway:
     title: Pops, On Broadway!
