@@ -34,8 +34,8 @@ upcoming:
   title: Upcoming events
   showAll: show all concerts
   hmwDate: Nov 8
-  videoDate: march 21
-  broadDate: may 16
+  videoDate: october 9
+  broadDate: november 14
 
 about-us:
   title: Learn about the Ottawa Pops Orchestra
@@ -44,6 +44,7 @@ about-us:
   three: OPO is proud to announce two new educational initiatives for young musicians and students in the Ottawa-Gatineau Region. We are inviting local schools to some of our dress rehearsals and providing detailed educational resources for those shows to teachers, allowing students to experience a live orchestra in action. This season, we are also proud to offer the Orchestral Development Bursary, which provides the opportunity for young, talented musicians to refine their skill and gain professional orchestral experience with OPO.
 
 season:
+  covid: Due to the COVID-19 pandemic, we have decided to postpone the 2020-21 season announcement to a later time. More information to come.
   title: Season Tickets
   subtitle: Subscribers are some of our favourite people!
   p1: The 2019-20 season is here, and when you choose to subscribe you receive subscriber only-benefits. We reward subscriber loyalty with the best prices we offer all year long in addition to first right of refusal on keeping your seats every year, plus 15% off extra tickets for friends and family, and early access to single tickets and special event tickets.
@@ -71,7 +72,7 @@ season:
 matinees:
   header: Student Matinees
   title: Student Matinee Details
-  button: "Pops on Broadway! Student Matinee May 15th @ 12:30pm."
+  button: "Video Game Symphony Student Matinee October 9th 2020, 12:30-1:30PM."
   click: To register your class, please fill out this form
   gr4-6: "Students Grade 4-6: $3.50 plus HST"
   gr7-12: "Students Grade 7-12: $5.00 plus HST"
@@ -93,7 +94,6 @@ matinees:
     title: TEACHER STUDY GUIDE
     p1: A pre-concert study guide to help you prepare your students for this concert-going experience is available for download in both English and French. This guide will provide you with curriculum links, information about the concert program, the performers, and performance etiquette.
     p2: If you have any questions about your order, please call or email Mathieu Roy, Artistic Director at
-    p2_b: or Lyndsay Tran, Artistic Administrator at
     hst: HST will be added to your invoice. Full payment will be due by deadline date.
     p3: Once we receive your ticket order request we will calculate the cost, and the number of free adult chaperone tickets versus student tickets to be paid, and send you an invoice.
 
@@ -281,16 +281,19 @@ concerts:
   VGS:
     title: Video Game Symphony
     concert1:
-      date: March 21, 2020
+      date: October 9, 2020
       time: 7:30PM
-    postponed: Postponed to May 15-16 2020
+    postponed: Postponed to October 9, 2020
     refund: Message Regarding Refunds and Exchanges
-    description: "At this time, all ticket holders will have their tickets transferred to the Saturday May 16th performance. Rest assured that all ticket buyers will be taken care of. Please hold on to your tickets as at this time, all ticket holders to the March 21st event will have their tickets transferred to the Saturday May 16th performance. Ticket holders who would like to request a performance date change or a refund may do so by contacting the Meridian Theatres Box Office directly. Please be aware that call volumes are heavy and that you may experience prolonged wait times."
+    description: "At this time, please hold on to your tickets as all ticket holders will have their tickets transferred to the new performance dates. Ticket holders who are not able attend the new performance dates may request a refund by contacting the Meridian Theatres Box Office directly. Please be aware that city employees are working from home and that the phone lines are closed. Please contact box office manager Nicolas Alain via email at Nicolas.alain@ottawa.ca with your refund or exchange requests.  "
     # description: "Calling all mages and warriors: the chance to step into your favourite realm has arrived, with the Video Game Symphony! Adventure calls at 7:30 PM on March 21st 2020. Relive the thrill of some of the best video games with the conductor of the Montreal Video Game Orchestra and OPO favourite, Jonathan Dagenais! Experience the magnificence of a full LIVE orchestra accompanied by a cinematic video projection."
 
   broadway:
     title: Pops, On Broadway!
     concert1:
-      date: May 16, 2020
-      time: 2:30PM
-    description: Put on your dancing shoes and cue the lights, Broadway’s best is coming to Ottawa! The Ottawa Pops Orchestra invites you to “Pops, On Broadway!” taking place at the Meridian @ Centrepointe Theatres on May 16th 2020. Prepare for an evening of laughter, triumph, and soft-shoeing swing that’s guaranteed to have you and your whole family smiling and dancing! You will love hearing your favourite music from shows like Evita, Les Misérables, Wicked, West Side Story, and much more in beautiful arrangements performed by a live symphony orchestra and fine vocal soloists!
+      date: November 14, 2020
+      time: 7:30PM
+    postponed: Postponed to November 14, 2020
+    refund: Message Regarding Refunds and Exchanges
+    description: "At this time, please hold on to your tickets as all ticket holders will have their tickets transferred to the new performance dates. Ticket holders who are not able attend the new performance dates may request a refund by contacting the Meridian Theatres Box Office directly. Please be aware that city employees are working from home and that the phone lines are closed. Please contact box office manager Nicolas Alain via email at Nicolas.alain@ottawa.ca with your refund or exchange requests.  "
+    description2: Put on your dancing shoes and cue the lights, Broadway’s best is coming to Ottawa! The Ottawa Pops Orchestra invites you to “Pops, On Broadway!” taking place at the Meridian @ Centrepointe Theatres on May 16th 2020. Prepare for an evening of laughter, triumph, and soft-shoeing swing that’s guaranteed to have you and your whole family smiling and dancing! You will love hearing your favourite music from shows like Evita, Les Misérables, Wicked, West Side Story, and much more in beautiful arrangements performed by a live symphony orchestra and fine vocal soloists!

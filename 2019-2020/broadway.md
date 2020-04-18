@@ -14,7 +14,7 @@ permalink: /2019-2020/popsonbroadway/
             <div class="row">
               <div class="col-md-8">
                 <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" target="_blank">
-                  <h5 class="concert-title">{% t concerts.broadway.title %} </h5>
+                  <h5 class="concert-title">{% t concerts.broadway.title %}  - {% t concerts.broadway.postponed %} </h5>
                 </a>
               </div>
                 <div class="col-md">
@@ -71,6 +71,8 @@ permalink: /2019-2020/popsonbroadway/
                 <div class="col-md-4">
                   {% t concerts.age.value %}<br><br> </div>
                 </div>
+                <p>{% t concerts.broadway.description2 %}</p>
+                <h4>{% t concerts.VGS.refund %}</h4>
                 <p>{% t concerts.broadway.description %}</p>
               </div>
                 <iframe src="https://open.spotify.com/embed/playlist/4EBL0jzb36rCwR1EFXT7kq" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>

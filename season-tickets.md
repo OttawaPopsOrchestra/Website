@@ -6,7 +6,11 @@ permalink: /season-tickets/
 ---
 
 <div class="content main season-tickets container-fluid">
-    <a href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetPackageInfo?packageCode=GS%3ACP%3A%3A19OPO%3A&linkID=centrepointe&shopperContext=&caller=&appCode=" target="_blank"><img src="/assets/img/season-tickets/seasonBanner.png" width="100%" /></a>
+            <div class="row seating-renewal">
+            <div class="col col-padding">
+                <h2>{% t season.covid %}</h2>
+            </div>
+    <!-- <a href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetPackageInfo?packageCode=GS%3ACP%3A%3A19OPO%3A&linkID=centrepointe&shopperContext=&caller=&appCode=" target="_blank"><img src="/assets/img/season-tickets/seasonBanner.png" width="100%" /></a>
     <div class="row season-intro">
         <div class="col col-padding">
             <a href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetPackageInfo?packageCode=GS%3ACP%3A%3A19OPO%3A&linkID=centrepointe&shopperContext=&caller=&appCode=" target="_blank">
@@ -15,15 +19,15 @@ permalink: /season-tickets/
             <p>{% t season.p1 %}</p>
             <p><u><b>{% t season.p2 %} </b></u></p>
         </div>
-        </div>
-        <div class="row season-intro">
+        </div> -->
+        <!-- <div class="row season-intro">
         <div class="col-md-8 fun-col">
             <h3>{% t season.p3 %} </h3>
         </div>
         <div class="col-md" id="ticket-button">
             <a  href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetPackageInfo?packageCode=GS%3ACP%3A%3A19OPO%3A&linkID=centrepointe&shopperContext=&caller=&appCode=" class="btn btn-outline-maroon btn-block">{% t season.get %}</a>
         </div>
-        </div>
+        </div> -->
         <div class="row">
             <div class="savings col-lg-7 center col-padding">
                 <h4>{% t season.savings.title %}</h4>
@@ -54,7 +58,7 @@ permalink: /season-tickets/
                 </div>
             </div>
             </div>
-            <div class="row seating">
+            <!-- <div class="row seating">
             <div class="col col-padding">
                 <h4>{% t season.map %}</h4>
                 <div class="row">
@@ -66,8 +70,8 @@ permalink: /season-tickets/
                     <p><br>{% t season.hst %}</p>
                 </div>
                 </div>
-            </div>
-            </div>
+            </div> 
+            </div>-->
             <div class="row seating-renewal">
             <div class="col col-padding">
                 <h4>{% t season.renew.title %}</h4>

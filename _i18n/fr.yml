@@ -34,8 +34,8 @@ upcoming:
   title: Événements à venir
   showAll: Tous les concerts
   hmwDate: le 8 nov
-  videoDate: le 21 mars
-  broadDate: le 16 mai
+  videoDate: le 9 octobre
+  broadDate: le 14 novembre
 
 about-us:
   title: Apprenez davantage sur l’Orchestre Pop d’Ottawa
@@ -44,6 +44,7 @@ about-us:
   three: L’OPO est fier de mettre sur pied deux nouvelles initiatives pour les jeunes musiciens et élèves de la région d’Ottawa-Gatineau. D’abord, nous invitions des écoles de la communauté à quelques-unes de nos répétitions générales en fournissant aux enseignants des ressources pédagogiques détaillées et reliées aux concerts, permettant aux élèves de témoigner du fonctionnement d’un orchestre. De plus, nous sommes fiers de présenter la Bourse de développement orchestral qui encourage certains jeunes musiciens, choisit par un panel d’audition, à perfectionner leurs habiletés musicales et acquérir de l’expérience orchestrale professionnelle avec l’OPO.
 
 season:
+  covid: En raison de la pandémie du COVID-19, nous avons décidé de reporter à une date ultérieure l'annonce de la saison 2020-21. Plus d'informations à venir.
   title: Billets de saison
   subtitle: Nos abonnés sont parmi nos personnes préférées
   p1: La saison 2019-20 est arrivée et plein d’avantage vous attendent lorsque vous vous abonnez. Nous récompensons la loyauté d’abonnement avec les meilleurs coûts que nous offrons au cours de l’année, en plus du premier droit de refus pour conserver vos sièges à toutes les années. Il y a aussi le rabais de 15% sur des billets supplémentaires pour vos amis et votre famille, et l’occasion de vous procurer en avance des billets simples et pour les événements spéciaux.
@@ -71,7 +72,7 @@ season:
 matinees:
   header: LA MATINÉE SCOLAIRE
   title: DÉTAILS SUR LA MATINÉE SCOLAIRE
-  button: "Matinée scolaire de Pops sur Broadway! le 15 mai à 12h30"
+  button: "Matinée scolaire de Symphonie de jeux vidéo le 9 octobre 2020, 12h30-13h30"
   click: Pour enregistrer votre classe, veuillez completer ce formulaire ici
   gr4-6: "Élèves de la 4e à la 6e année : 3,50 $ plus TVH"
   gr7-12: "Élèves de la 7e à la 12e année : 5,00 $ plus TVH"
@@ -93,7 +94,6 @@ matinees:
     title: GUIDE DE PRÉPARATION POUR LES ENSEIGNANTS
     p1: Un guide d’étude à consulter avant le concert visant la préparation de vos élèves pour cette expérience orchestrale est disponible par téléchargement en anglais ou en français. Ce guide vous fournira des liens au curriculum ontarien, de l’information sur le programme, les musiciens et l’étiquette de concert.
     p2: Si vous avez des questions au sujet de votre commande, veuillez appeler ou envoyer un courriel à Mathieu Roy, directeur artistique, au
-    p2_b: ou Lyndsay Tran, administratrice artistique, à
     hst: TVH sera ajoutée à la facture. Le paiement complet est requis avant le délai de paiement.
     p3: Lorsque nous recevrons votre commande de billets, nous calculerons le coût et le nombre de billets d’accompagnateurs gratuits selon les billets d’élèves à payer. Par la suite, nous vous ferons parvenir une facture.
 
@@ -281,22 +281,19 @@ concerts:
   VGS:
     title: Symphonie de jeux vidéo
     concert1:
-      date: le 21 mars 2020
+      date: le 9 octobre 2020
       time: 19 h 30
-    postponed:  Remise aux 15 et 16 mai 2020 
+    postponed: Remise au 9 octobre 2020
     refund: Message concernant les remboursements et échanges
-    description: "Dès maintenant, les personnes ayant acheté des billets pour le concert du 21 mars auront leurs billets
-transférés à la nouvelle date de spectacle, soit celle du samedi 16 mai 2020. Soyez rassurés que la
-situation sera prise en charge. Nous vous prions alors de retenir vos billets et ils seront valides pour la
-performance du 16 mai. Ceux et celles qui souhaitent réclamer un remboursement ou un échange de
-billets pour une autre date de concert peuvent contacter directement la billetterie des Théâtres
-Meridian. Soyez avisés que le volume d’appels est très élevé et que la durée d’un appel risque d’être
-prolongée."
+    description: "Veuillez conserver vos billets puisque tous les détenteurs de billets verront leurs billets transférés aux nouvelles dates de représentations. Les détenteurs de billets qui ne peuvent pas assister aux nouvelles dates de représentations peuvent demander un remboursement en contactant directement la billetterie des Théâtres Meridian. Sachez que les employés municipaux travaillent à domicile et que les lignes téléphoniques sont fermées. Veuillez contacter le responsable de la billetterie, Nicolas Alain, par e-mail à l'adresse Nicolas.alain@ottawa.ca, en joignant vos demandes de remboursement ou d'échange.   "
     # description: Nous lançons l’appel à tous les mages et guerriers : la chance d’embarquer dans votre domaine préféré est arrivée avec La Symphonie de jeux vidéo ! L’aventure débute à 18 h 30 le 21 mars 2020. Revivez la musique des meilleurs jeux, de grands classiques au nouveaux arrivés. Tous seront dirigés par le chef d’orchestre de l’Orchestre de Jeux Vidéo de Montréal et de l’Orchestre Pop d’Ottawa, Jonathan Dagenais ! Témoignez de la splendeur d’un orchestre complet EN DIRECT, accompagné d’une projection cinématique."
 
   broadway:
     title: Pops sur Broadway!
     concert1:
-      date: le 16 mai 2020
+      date: le 14 novembre 2020
       time: 14 h 30
-    description: Mettez vos chaussures de danse et qu’on monte le son, le meilleur de Broadway vient à Ottawa au printemps 2020! L’Orchestre Pops d’Ottawa vous invite à “Pops sur Broadway!”, qui se tiendra au Théâtres Meridian @ Centrepointe le 16 mai 2020. Nous promettons une soirée pleine de rires, de triomphes et de mélodies dansantes qui plairont à toute la famille! Venez écouter vos chansons favorites des spectacles comme Evita, Les Misérables, Wicked, West Side Story, et encore plus, présentées par un orchestre symphonique et d’excellents chanteurs !
+    postponed: Remise au le 14 novembre 2020
+    refund: Message concernant les remboursements et échanges
+    description: "Veuillez conserver vos billets puisque tous les détenteurs de billets verront leurs billets transférés aux nouvelles dates de représentations. Les détenteurs de billets qui ne peuvent pas assister aux nouvelles dates de représentations peuvent demander un remboursement en contactant directement la billetterie des Théâtres Meridian. Sachez que les employés municipaux travaillent à domicile et que les lignes téléphoniques sont fermées. Veuillez contacter le responsable de la billetterie, Nicolas Alain, par e-mail à l'adresse Nicolas.alain@ottawa.ca, en joignant vos demandes de remboursement ou d'échange.   "
+    description2: Mettez vos chaussures de danse et qu’on monte le son, le meilleur de Broadway vient à Ottawa au printemps 2020! L’Orchestre Pops d’Ottawa vous invite à “Pops sur Broadway!”, qui se tiendra au Théâtres Meridian @ Centrepointe le 16 mai 2020. Nous promettons une soirée pleine de rires, de triomphes et de mélodies dansantes qui plairont à toute la famille! Venez écouter vos chansons favorites des spectacles comme Evita, Les Misérables, Wicked, West Side Story, et encore plus, présentées par un orchestre symphonique et d’excellents chanteurs !

@@ -2,7 +2,6 @@
 layout: default
 title: About Us
 permalink: /about/
-
 ---
 
 <div class="main-about content container-fluid">
@@ -11,7 +10,7 @@ permalink: /about/
             <p class="about-us-title" data-aos="fade-in" data-aos-duration="2000">{% t about-us.title %}</p>
             <p class="about-us-content">{% t about-us.one %}</p>
             <p class="about-us-content">{% t about-us.two %}</p>
-            <p id="about-us-last" class="about-us-content">{% t about-us.two %}</p>
+            <p id="about-us-last" class="about-us-content">{% t about-us.three %}</p>
         </div>
     </div>
 </div>

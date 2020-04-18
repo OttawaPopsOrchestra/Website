@@ -30,9 +30,7 @@ permalink: /student-matinees/
             <h5><u>{% t matinees.study.title %}</u></h5>
             <p>{% t matinees.study.p1 %}</p>
             <p>{% t matinees.study.p2 %}<strong> 613 793-3998,
-                <a href="mailto:mathieu.roy@ottawapopsorchestra.ca">mathieu.roy@ottawapopsorchestra.ca</a></strong>
-                {% t matinees.study.p2_b %}<strong>
-                <a href="mailto:lyndsay.tran@ottawapopsorchestra.ca">lyndsay.tran@ottawapopsorchestra.ca</a></strong>.
+                <a href="mailto:mathieu.roy@ottawapopsorchestra.ca">mathieu.roy@ottawapopsorchestra.ca</a></strong>.
             </p>
             <p><strong>{% t matinees.study.hst %}</strong></p>
             <p>{% t matinees.study.p3 %}</p>
