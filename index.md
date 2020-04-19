@@ -10,17 +10,19 @@ permalink: /
 <div id="carouselExampleControls" class="carousel slide carousel-computer" data-ride="carousel">
 <div class="carousel-inner">
 <div class="carousel-item active">
-<img id="SWcarousel-img" class="d-block w-100" src="/assets/img/concerts-single/2019-2020/VGSBanner.jpeg" alt="VGS">
-<div class="carousel-caption ">
+<img id="SWcarousel-img" class="d-block w-100" src="/assets/img/OPO_website_banner.jpg" alt="Banner">
+<!-- <div class="carousel-caption ">
 <a id="SWcarousel" onmouseenter="grey(this.id)" onmouseout="unGrey(this.id)" href="{{ site.baseurl }}/2019-2020/videogamesymphony/" class="btn btn-maroon">{% t home.moreInfo %}</a>
-</div>
+</div> -->
 </div>
 </div>
 </div>
 <div id="carouselExampleControls-mobile" class="carousel slide carousel-mobile" data-ride="carousel">
 <div class="carousel-inner">
 <div class="carousel-item active">
-<a href="{{ site.baseurl }}/2019-2020/videogamesymphony/"><img id="SWcarousel-img-mobile" class="d-block w-100" src="/assets/img/concerts-full/2019-2020/VGSDetail.jpeg" alt="VGS"></a>
+<!-- <a href="{{ site.baseurl }}/2019-2020/videogamesymphony/"> -->
+<img id="SWcarousel-img-mobile" class="d-block w-100" src="/assets/img/OPO_website_banner.jpg" alt="Banner">
+<!-- </a> -->
 </div>
 </div>
 </div>
