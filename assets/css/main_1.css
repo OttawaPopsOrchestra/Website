@@ -224,8 +224,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #920503;
 }
 
-.matinee-info a {
-  color: #920503;
+.matinee-info a:hover {
+ font-size: large !important;
+ background-color: #920503;
+ color: white; 
+ border: none; 
 }
 
 .matinee-info #reserve{
@@ -970,6 +973,14 @@ a:hover {
     margin: 20px 0px;
     font-size: 18px;
   }
+
+  .matinee-info a {
+    height: 72px !important;
+   }
+
+  .matinee-info a:hover {
+    font-size: initial !important;
+   }
 
   .auditions {
     font-size: 20px;
