@@ -97,6 +97,21 @@ matinees:
     hst: TVH sera ajoutée à la facture. Le paiement complet est requis avant le délai de paiement.
     p3: Lorsque nous recevrons votre commande de billets, nous calculerons le coût et le nombre de billets d’accompagnateurs gratuits selon les billets d’élèves à payer. Par la suite, nous vous ferons parvenir une facture.
 
+stories:
+  header: "Stories"
+  description: "Story Description blurb jfdksljfsdkljfsdklfjksdljfkl"
+  written: "Écrit par: "
+  published: "Publié: "
+  listen: "Ecoutez"
+  story1:
+    title: "Story Title"
+    author: "Firstname Lastname"
+    date: "le 8 juin 2020"
+    article1: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan nunc sit amet justo pretium consectetur. Nullam id dignissim enim. Sed sodales finibus nunc eleifend bibendum. Duis posuere in massa ut posuere. Praesent vehicula est a turpis consectetur gravida. Nullam et diam pharetra, molestie ante a, commodo nibh. In purus dolor, tristique non efficitur eu, euismod at purus. Quisque pulvinar nibh pretium dignissim dignissim. Integer neque odio, euismod tempus neque vel, luctus commodo sem."
+    article2: "Aenean molestie imperdiet volutpat. Curabitur tincidunt viverra finibus. Cras ac dolor sit amet nisl tempor lacinia. Curabitur sed ligula finibus, accumsan tortor vel, blandit mauris. Sed ullamcorper arcu nec metus interdum, nec posuere quam sollicitudin. Donec gravida tortor arcu, nec facilisis lorem porta eu. Nullam feugiat sit amet sem eget facilisis. Integer at efficitur purus. Nullam accumsan, mi at vehicula malesuada, turpis ante viverra turpis, non placerat mauris odio eu felis. Nulla id turpis justo. Vivamus ultrices commodo turpis. Praesent blandit, odio molestie elementum auctor, orci magna maximus felis, eu consequat quam enim mattis nibh. Quisque lorem tortor, placerat in luctus vel, laoreet ultrices nunc. Duis sed leo felis. Quisque viverra eros quis mi varius vestibulum a quis metus."
+    article3: "Nam nec vestibulum ex. Aliquam et rutrum lectus. Nunc ac augue quis ante imperdiet aliquam. Nullam placerat vel metus ac lobortis. Sed quis lacinia nunc. Duis volutpat elementum augue, eget eleifend sem vehicula sed. Ut iaculis, eros eu pharetra porta, metus massa ultricies enim, et imperdiet ex sapien at tellus. Maecenas nisl nibh, laoreet quis lobortis vel, congue vitae ante. Suspendisse nibh libero, ornare eu convallis id, semper at justo. Donec massa lacus, semper non convallis a, euismod non lacus. Ut bibendum luctus ullamcorper. Cras dapibus sed dui nec vestibulum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam ut purus pellentesque, vehicula risus eget, finibus nulla."
+    article4: "Nullam a sapien eros. Nam consectetur eros aliquam metus finibus, sit amet tincidunt neque egestas. Mauris varius dolor sapien, tempor feugiat elit finibus in. Phasellus vestibulum consequat lorem sit amet commodo. Sed sed sapien fringilla, suscipit enim egestas, ultricies lacus. Aliquam ut justo iaculis, consectetur leo id, efficitur tortor. Etiam quis commodo purus. Ut placerat justo at bibendum imperdiet. Curabitur volutpat pellentesque vehicula. Mauris ipsum lectus, eleifend vitae viverra sed, ullamcorper non mi. In eu mollis nisi, ac volutpat nisl. Duis dapibus at turpis eu lacinia."
+
 auditions:
   cancel:
     p1: Les auditions générales pour la saison 2019-2020 sont terminées.
