@@ -42,7 +42,7 @@ permalink: /stories/story1/
           <p>{% t stories.story1.article4 %}</p>
         </div>
        <div id="listen" style="padding-bottom: 5em;">
-            <iframe src="https://open.spotify.com/embed/playlist/4EBL0jzb36rCwR1EFXT7kq" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>
+            <iframe src="https://open.spotify.com/embed/playlist/6wXiN6S4626e3hdcMOb0fx" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>
         </div>
         <hr>{% include upcoming.html %}
       </div>
