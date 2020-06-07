@@ -1148,4 +1148,40 @@ a:hover {
   .savings h4, .seating h4 {
     font-size: 24px;
   }
+
+  .stories {
+    padding: 1em; 
+    text-align: center; 
+  }
+  
+  .stories-header {
+    padding-bottom: 3em; 
+  }
+
+  
+  .stories-row > * img {
+    margin: 0 auto;
+    display: block;
+  }
+  
+  .stories-row > * .concert-info {
+    padding-left: 0em; 
+  }
+  
+  .story-single-content {
+    width: 100%; 
+  }
+  
+  .story-single-title {
+    padding-top: 1em; 
+    font-size: 28px;
+  }
+  
+  .story-description {
+    font-size: 16px; 
+  }
+  
+  .story-description > h5 {
+    padding-top: 1em; 
+  }
 }
