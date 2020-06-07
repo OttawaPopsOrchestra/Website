@@ -98,19 +98,30 @@ matinees:
     p3: Once we receive your ticket order request we will calculate the cost, and the number of free adult chaperone tickets versus student tickets to be paid, and send you an invoice.
 
 stories:
-  header: "Stories"
-  description: "Story Description blurb jfdksljfsdkljfsdklfjksdljfkl"
+  header: "OPO Stories"
+  description: "Music inspires stories and we want to help tell them. Each week, we’ll be sharing a unique playlist and story chosen by diverse members of our community and we invite you to listen and read along! "
   written: "Written By: "
   published: "Published On: "
   listen: "Listen"
   story1:
-    title: "Story Title"
-    author: "Firstname Lastname"
+    title: "The Ottawa Pops Orchestra Presents Stories Through Music Series "
+    author: "Ottawa Pops Orchestra"
     date: "June 8 2020"
-    article1: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan nunc sit amet justo pretium consectetur. Nullam id dignissim enim. Sed sodales finibus nunc eleifend bibendum. Duis posuere in massa ut posuere. Praesent vehicula est a turpis consectetur gravida. Nullam et diam pharetra, molestie ante a, commodo nibh. In purus dolor, tristique non efficitur eu, euismod at purus. Quisque pulvinar nibh pretium dignissim dignissim. Integer neque odio, euismod tempus neque vel, luctus commodo sem."
-    article2: "Aenean molestie imperdiet volutpat. Curabitur tincidunt viverra finibus. Cras ac dolor sit amet nisl tempor lacinia. Curabitur sed ligula finibus, accumsan tortor vel, blandit mauris. Sed ullamcorper arcu nec metus interdum, nec posuere quam sollicitudin. Donec gravida tortor arcu, nec facilisis lorem porta eu. Nullam feugiat sit amet sem eget facilisis. Integer at efficitur purus. Nullam accumsan, mi at vehicula malesuada, turpis ante viverra turpis, non placerat mauris odio eu felis. Nulla id turpis justo. Vivamus ultrices commodo turpis. Praesent blandit, odio molestie elementum auctor, orci magna maximus felis, eu consequat quam enim mattis nibh. Quisque lorem tortor, placerat in luctus vel, laoreet ultrices nunc. Duis sed leo felis. Quisque viverra eros quis mi varius vestibulum a quis metus."
-    article3: "Nam nec vestibulum ex. Aliquam et rutrum lectus. Nunc ac augue quis ante imperdiet aliquam. Nullam placerat vel metus ac lobortis. Sed quis lacinia nunc. Duis volutpat elementum augue, eget eleifend sem vehicula sed. Ut iaculis, eros eu pharetra porta, metus massa ultricies enim, et imperdiet ex sapien at tellus. Maecenas nisl nibh, laoreet quis lobortis vel, congue vitae ante. Suspendisse nibh libero, ornare eu convallis id, semper at justo. Donec massa lacus, semper non convallis a, euismod non lacus. Ut bibendum luctus ullamcorper. Cras dapibus sed dui nec vestibulum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam ut purus pellentesque, vehicula risus eget, finibus nulla."
-    article4: "Nullam a sapien eros. Nam consectetur eros aliquam metus finibus, sit amet tincidunt neque egestas. Mauris varius dolor sapien, tempor feugiat elit finibus in. Phasellus vestibulum consequat lorem sit amet commodo. Sed sed sapien fringilla, suscipit enim egestas, ultricies lacus. Aliquam ut justo iaculis, consectetur leo id, efficitur tortor. Etiam quis commodo purus. Ut placerat justo at bibendum imperdiet. Curabitur volutpat pellentesque vehicula. Mauris ipsum lectus, eleifend vitae viverra sed, ullamcorper non mi. In eu mollis nisi, ac volutpat nisl. Duis dapibus at turpis eu lacinia."
+    article1: "Music inspires us at the Ottawa Pops Orchestra. For so long, this has meant the live presentation of over 20 performances since 2016. By now, the Ottawa Pops Orchestra would have wrapped up our 2019-2020 season with our Video Game Symphony and Pops: On Broadway performances.  As you know, due to the unprecedented COVID-19 crisis, we have had to postpone all our performances into the 2020-2021 season. This year has been very different for all of us, but our passion for sharing music hasn’t changed.  "
+    article2: "While we are grateful to be looking towards the future when we can safely present these postponed symphonic experiences with you, we miss you and miss sharing music with you. Because we miss you, the Ottawa Pops Orchestra is excited to share a new musical initiative to be enjoyed from the comfort of your own home! "
+    proud: "We are proud to present OPO’s "
+    proudBold: "Stories Through Music Series, "
+    proudDate: "beginning June 14th."
+    what:
+      title: What is the Stories Through Music Series?
+      p: "The Ottawa Pops Orchestra’s Stories Through Music Series engages different members of our community who will be sharing a playlist of their favourite songs and telling a story about why this music is so important to them. The songs and themes chosen will be incredibly varied as we want to encourage and promote myriad of musical experiences. We have connected with many different members of our community, from local artists, to city councillors, to arts journalists and beyond for a diverse presentation of music that inspires them and hopefully inspires you as well. "
+    how:
+      title: How does it work?
+      p1: "Each week, we’ll be featuring a selected playlist for you to enjoy, accompanied by a written personal story about why the individual chose the songs they did. We will be sending the featured playlist and story each week directly to your inbox for you to enjoy! The playlist will be embedded into the email and on our website, so you can listen along without any unnecessary downloads. We will also be sharing the music and stories on our social media platforms, so be sure to engage with us there and let us know what songs or stories are your favourite!"
+      p2_1: "We are thrilled to have the opportunity to elevate voices from diverse musical, professional, and cultural backgrounds with our "
+      p2_bold: "Stories through Music Series. "
+      p2_2: "Please join us each week to listen and read along!"
+      p3: "All of us at the Ottawa Pops Orchestra want to extend our continued best wishes for your health, safety and happiness, and are excited to be able to connect with you through music during this challenging time. "
 
 auditions:
   cancel:
