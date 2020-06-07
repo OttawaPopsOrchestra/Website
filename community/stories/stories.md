@@ -10,10 +10,10 @@ permalink: /stories/
     <div class="stories">
         <div class="stories-row">
             <div class="row">
-                <div class="col-lg-3">
-                    <a href="{{ site.baseurl }}/stories/story1" target="_blank"><img title="{% t concerts.ToT.title %}" alt="{% t stories.story1.title %}" class="concert-detail" src="/assets/img/concerts-full/ToTDetail.png"/></a>
+                <div class="col-lg-4">
+                    <a href="{{ site.baseurl }}/stories/story1" target="_blank"><img title="{% t stories.story1.title %}" alt="{% t stories.story1.title %}" class="concert-detail" src="/assets/img/stories/story1/Photo 1- Neon Sign.jpg"/></a>
                 </div>
-                <div class="col-lg-9 concert-info">
+                <div class="col-lg-8 concert-info">
                     <div class="row">
                         <div class="col-md">
                             <a href="{{ site.baseurl }}/stories/story1" target="_blank"><h5 class="story-title">{% t stories.story1.title %}</h5></a>

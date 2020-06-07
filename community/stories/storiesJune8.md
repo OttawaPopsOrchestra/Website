@@ -12,7 +12,7 @@ permalink: /stories/story1/
             <i class="far fa-user story-icon"></i>
             <i>{% t stories.story1.author %}</i>
         </p>
-        <img class="center-img" src="/assets/img/180518_150506_3517.jpg" />
+        <img class="center-img" src="/assets/img/stories/story1/Photo 1- Neon Sign.jpg" />
         <div class="single-story-content">
         <div class="row">
         <div class="col-md concert-info">
@@ -31,6 +31,7 @@ permalink: /stories/story1/
             </p>
             <h5>{% t stories.story1.what.title %}</h5>
             <p>{% t stories.story1.what.p %}</p>
+            <img class="center-img" src="/assets/img/stories/story1/Photo 2- Ottawa_Gatineau.jpg" width="80%"/>
             <h5>{% t stories.story1.how.title %}</h5>
             <p>{% t stories.story1.how.p1 %}</p>
             <p>
