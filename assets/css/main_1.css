@@ -20,6 +20,80 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: auto;
 }
 
+
+.stories {
+  background-color: white;
+  margin: 0 auto;
+  padding: 2em 10em; 
+
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif; 
+}
+
+.stories-header {
+  padding-bottom: 3em; 
+}
+
+.stories-header > h3 {
+    margin: 0 auto; 
+    color: #920503; 
+    text-transform: uppercase; 
+    font-weight: 700;
+}
+
+.stories-header > p {
+  margin: 0 auto; 
+  color: #920503; 
+  font-weight: 700
+}
+
+.stories-row > * img {
+  border-radius: 10px; 
+}
+
+.stories-row > * .concert-info {
+  padding-left: 3em; 
+}
+
+.story-title {
+  color: #920503;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.story-description {
+  font-size: 18px; 
+}
+
+.story-single {
+  font-family: "Helvetica", Helvetica, Arial, sans-serif;
+  background-color: white !important; 
+}
+
+.story-single-content {
+  margin: 0em auto; 
+  width: 600px; 
+}
+
+.story-single-content > img {
+  padding: 2em 0em; 
+}
+
+.story-single-title {
+  padding-top: 2em; 
+  color: #920503;
+  font-size: 32px;
+}
+
+.story-description {
+  font-size: 15px; 
+  padding-top: 1em; 
+}
+
+.story-description > h5 {
+  padding-top: 1em; 
+}
+
 .carousel-caption {
     text-align: right;
 }
@@ -1073,5 +1147,41 @@ a:hover {
 
   .savings h4, .seating h4 {
     font-size: 24px;
+  }
+
+  .stories {
+    padding: 1em; 
+    text-align: center; 
+  }
+  
+  .stories-header {
+    padding-bottom: 3em; 
+  }
+
+  
+  .stories-row > * img {
+    margin: 0 auto;
+    display: block;
+  }
+  
+  .stories-row > * .concert-info {
+    padding-left: 0em; 
+  }
+  
+  .story-single-content {
+    width: 100%; 
+  }
+  
+  .story-single-title {
+    padding-top: 1em; 
+    font-size: 28px;
+  }
+  
+  .story-description {
+    font-size: 16px; 
+  }
+  
+  .story-description > h5 {
+    padding-top: 1em; 
   }
 }
