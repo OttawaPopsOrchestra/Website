@@ -103,6 +103,7 @@ stories:
   written: "Écrit par: "
   published: "Publié: "
   listen: "Ecoutez"
+  banner: "/assets/img/stories/OPO Stories Banner FR.png"
   story1:
     title: "L’Orchestre Pop d’Ottawa vous présente la série Histoires en musique "
     author: "L’Orchestre Pop d’Ottawa"

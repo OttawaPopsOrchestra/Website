@@ -103,6 +103,7 @@ stories:
   written: "Written By: "
   published: "Published On: "
   listen: "Listen"
+  banner: "/assets/img/stories/OPO Stories Banner.png"
   story1:
     title: "The Ottawa Pops Orchestra Presents Stories Through Music Series "
     author: "Ottawa Pops Orchestra"

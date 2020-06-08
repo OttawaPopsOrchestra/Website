@@ -6,7 +6,7 @@ permalink: /stories/
 ---
 
 <div class="content main container-fluid">
-    <img src="/assets/img/concerts-single/ToTBanner.png" width="100%" />
+    <img src="{% t stories.banner %}" width="100%" />
     <div class="stories">
         <div class="stories-row">
             <div class="row">
