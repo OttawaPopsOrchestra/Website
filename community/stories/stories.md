@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: story-default
 title: Stories
 namespace: stories
 permalink: /stories/

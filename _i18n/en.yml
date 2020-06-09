@@ -1,6 +1,8 @@
 site:
   name: Ottawa Pops Orchestra
 
+flodesk: 5ede4946b9c153002b5adc0f'
+
 pages:
   home: home
   about: About Us
@@ -108,7 +110,11 @@ stories:
     title: "The Ottawa Pops Orchestra Presents Stories Through Music Series "
     author: "Ottawa Pops Orchestra"
     date: "June 8 2020"
-    article1: "Music inspires us at the Ottawa Pops Orchestra. For so long, this has meant the live presentation of over 20 performances since 2016. By now, the Ottawa Pops Orchestra would have wrapped up our 2019-2020 season with our Video Game Symphony and Pops: On Broadway performances.  As you know, due to the unprecedented COVID-19 crisis, we have had to postpone all our performances into the 2020-2021 season. This year has been very different for all of us, but our passion for sharing music hasn’t changed.  "
+    article1: "Music inspires us at the Ottawa Pops Orchestra. For so long, this has meant the live presentation of over 20 performances since 2016. By now, the Ottawa Pops Orchestra would have wrapped up our 2019-2020 season with our "
+    article1_vgs: "Video Game Symphony"
+    article1_and: " and "
+    article1_broadway: "Pops: On Broadway"
+    article1_2: " performances.  As you know, due to the unprecedented COVID-19 crisis, we have had to postpone all our performances into the 2020-2021 season. This year has been very different for all of us, but our passion for sharing music hasn’t changed.  "
     article2: "While we are grateful to be looking towards the future when we can safely present these postponed symphonic experiences with you, we miss you and miss sharing music with you. Because we miss you, the Ottawa Pops Orchestra is excited to share a new musical initiative to be enjoyed from the comfort of your own home! "
     proud: "We are proud to present OPO’s "
     proudBold: "Stories Through Music Series, "

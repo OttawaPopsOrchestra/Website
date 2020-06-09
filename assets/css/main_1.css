@@ -74,6 +74,10 @@ h6 {
   font-size: 18px;
 }
 
+.story-description > * a {
+  color: #6a66a4;
+}
+
 .story-single {
   font-family: "Helvetica", Helvetica, Arial, sans-serif;
   background-color: white !important;

@@ -22,25 +22,31 @@ permalink: /stories/story1/
             </div>
             </div>
             <div class="story-description" style="padding-top: 1em;">
-            <p>{% t stories.story1.article1 %}</p>
-            <p>{% t stories.story1.article2 %}</p>
-            <p>
-                {% t stories.story1.proud %}
-                <strong>{% t stories.story1.proudBold %}</strong>
-                {% t stories.story1.proudDate %}
-            </p>
-            <h5>{% t stories.story1.what.title %}</h5>
-            <p>{% t stories.story1.what.p %}</p>
-            <img class="center-img" src="/assets/img/stories/story1/Photo 2- Ottawa_Gatineau.jpg" width="80%"/>
-            <h5>{% t stories.story1.how.title %}</h5>
-            <p>{% t stories.story1.how.p1 %}</p>
-            <p>
-                {% t stories.story1.how.p2_1 %}
-                <strong>{% t stories.story1.how.p2_bold %}</strong>
-                {% t stories.story1.how.p2_2 %}
-            </p>
-            <p>{% t stories.story1.how.p3 %}</p>
-            <p>{% t stories.story1.playlist %}</p>
+                <p>
+                    {% t stories.story1.article1 %}
+                    <a href="{{ site.baseurl }}/2019-2020/videogamesymphony" target="_blank">{% t stories.story1.article1_vgs %}</a>
+                    {% t stories.story1.article1_and %}
+                    <a href="{{ site.baseurl }}/2019-2020/popsonbroadway/" target="_blank">{% t stories.story1.article1_broadway %}</a>
+                    {% t stories.story1.article1_2 %}
+                </p>
+                <p>{% t stories.story1.article2 %}</p>
+                <p>
+                    {% t stories.story1.proud %}
+                    <strong>{% t stories.story1.proudBold %}</strong>
+                    {% t stories.story1.proudDate %}
+                </p>
+                <h5>{% t stories.story1.what.title %}</h5>
+                <p>{% t stories.story1.what.p %}</p>
+                <img class="center-img" src="/assets/img/stories/story1/Photo 2- Ottawa_Gatineau.jpg" width="80%"/>
+                <h5>{% t stories.story1.how.title %}</h5>
+                <p>{% t stories.story1.how.p1 %}</p>
+                <p>
+                    {% t stories.story1.how.p2_1 %}
+                    <strong>{% t stories.story1.how.p2_bold %}</strong>
+                    {% t stories.story1.how.p2_2 %}
+                </p>
+                <p>{% t stories.story1.how.p3 %}</p>
+                <p>{% t stories.story1.playlist %}</p>
             </div>
             <div id="listenStory1" style="padding-bottom: 5em;">
                 <iframe src="https://open.spotify.com/embed/playlist/6wXiN6S4626e3hdcMOb0fx" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>

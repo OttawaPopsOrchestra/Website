@@ -1,6 +1,8 @@
 site:
   name: Orchestre Pop d'Ottawa
 
+flodesk: 5ede4dd1b9c153002b5adc11
+
 pages:
   home: Page principale
   about: À propos
@@ -109,6 +111,10 @@ stories:
     author: "L’Orchestre Pop d’Ottawa"
     date: "le 8 juin 2020"
     article1: "La musique nous inspire à l'Ottawa Pops Orchestra. Depuis 2016, cela signifie la présentation en direct de plus de 20 spectacles. À l'heure actuelle, l'Orchestre Pops d'Ottawa aurait déjà terminé la saison 2019-2020 avec notre Symphonie de jeux vidéo et Pops sur Broadway.  Comme vous le savez, en raison de la crise sans précédent de la COVID-19, nous avons dû reporter toutes nos représentations à la saison 2020-2021. Cette année a été très différente pour nous tous, mais notre passion pour le partage de la musique n'a pas changé.   "
+    article1_vgs: "Symphonie de jeux vidéo"
+    article1_and: " et "
+    article1_broadway: "Pops sur Broadway"
+    article1_2: ".  Comme vous le savez, en raison de la crise sans précédent de la COVID-19, nous avons dû reporter toutes nos représentations à la saison 2020-2021. Cette année a été très différente pour nous tous, mais notre passion pour le partage de la musique n'a pas changé.   "
     article2: "Bien que nous soyons reconnaissants de pouvoir nous tourner vers l'avenir lorsque nous pourrons vous présenter en toute sécurité ces expériences symphoniques reportées, vous nous manquez et le partage de la musique avec vous nous manque. Cela dit, l'Orchestre Pops d'Ottawa est heureux de partager avec vous une nouvelle initiative musicale à apprécier dans le confort de votre foyer !  "
     proud: "Nous sommes fiers de présenter la série de l’OPO, "
     proudBold: "Histoires en musique, "
