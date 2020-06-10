@@ -85,12 +85,13 @@ h6 {
 
 .story-single-content {
   margin: 0em auto;
-  width: 70%;
+  width: 100%;
+  max-width: 64rem;
 }
 
 .story-single-content > img {
   padding: 1em 0em;
-  width: inherit;
+  width: 100%;
 }
 
 .story-single-title {
@@ -619,6 +620,10 @@ a:hover {
 
 .center {
   text-align: center;
+}
+
+.center-margin {
+  margin: 0 auto;
 }
 
 .parallax-auditions {

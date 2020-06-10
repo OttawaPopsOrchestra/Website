@@ -8,19 +8,19 @@ permalink: /stories/story1/
     <div class="story-single-content">
         <h5 class="story-single-title">{% t stories.story1.title %}</h5>
         <p class="story-author-publish">
-            {% t stories.story1.date %} 
+            {% t stories.story1.date %}
             <i class="far fa-user story-icon"></i>
             <i>{% t stories.story1.author %}</i>
         </p>
-        <img class="center-img" src="/assets/img/stories/story1/Photo 1- Neon Sign.jpg" />
+        <img class="center-img" src="/assets/img/stories/story1/Photo 1- Neon Sign.jpg"/>
         <div class="single-story-content">
         <div class="row">
-        <div class="col-md concert-info">
-            <div class="row">
-            <div class="col-md-5 col-sm">
-                <a class="btn btn-outline-purple btn-block" role="button" href="#listenStory1">{% t stories.listen %} <i class="fas fa-music"></i></a>
-            </div>
-            </div>
+            <div class="col-md concert-info">
+                <div class="row">
+                    <div class="col-md-5 col-sm center-margin">
+                        <a class="btn btn-outline-purple btn-block" role="button" href="#listenStory1">{% t stories.listen %} <i class="fas fa-music"></i></a>
+                    </div>
+                </div>
             <div class="story-description" style="padding-top: 1em;">
                 <p>
                     {% t stories.story1.article1 %}
@@ -37,7 +37,7 @@ permalink: /stories/story1/
                 </p>
                 <h5>{% t stories.story1.what.title %}</h5>
                 <p>{% t stories.story1.what.p %}</p>
-                <img class="center-img" src="/assets/img/stories/story1/Photo 2- Ottawa_Gatineau.jpg" width="80%"/>
+                <img class="center-img" src="/assets/img/stories/story1/Photo 2- Ottawa_Gatineau.jpg" width="100%"/>
                 <h5>{% t stories.story1.how.title %}</h5>
                 <p>{% t stories.story1.how.p1 %}</p>
                 <p>
