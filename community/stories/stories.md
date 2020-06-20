@@ -39,12 +39,12 @@ permalink: /stories/
         <div class="stories-row">
             <div class="row">
                 <div class="col-lg-4">
-                    <a href="{{ site.baseurl }}/stories/story2" target="_blank"><img title="{% t stories.story2.title %}" alt="{% t stories.story2.title %}" class="concert-detail" src="/assets/img/stories/story2/Twin Flames - Jaaji & Chelsey June - September 27, 2018-_SSK0205NWAC_Scheer_TFSisk (1).jpg"/></a>
+                    <a href="{{ site.baseurl }}/stories/twinflames" target="_blank"><img title="{% t stories.story2.title %}" alt="{% t stories.story2.title %}" class="concert-detail" src="/assets/img/stories/story2/Twin Flames - Jaaji & Chelsey June - September 27, 2018-_SSK0205NWAC_Scheer_TFSisk (1).jpg"/></a>
                 </div>
                 <div class="col-lg-8 concert-info">
                     <div class="row">
                         <div class="col-md">
-                            <a href="{{ site.baseurl }}/stories/story2" target="_blank"><h5 class="story-title">{% t stories.story2.title %}</h5></a>
+                            <a href="{{ site.baseurl }}/stories/twinflames" target="_blank"><h5 class="story-title">{% t stories.story2.title %}</h5></a>
                             <p class="story-preview">{% t stories.story2.article1 %}</p>
                         </div>
                     </div>
@@ -59,7 +59,7 @@ permalink: /stories/
                                 <strong>{% t stories.published %}</strong>{% t stories.story2.date %}
                             </div>
                         </div>
-                        <button class="btn btn-outline-purple read-more" onclick="location.href='{{ site.baseurl }}/stories/story2';">{% t concerts.readMore %}</button>
+                        <button class="btn btn-outline-purple read-more" onclick="location.href='{{ site.baseurl }}/stories/twinflames';">{% t concerts.readMore %}</button>
                     </div>
                 </div>
             </div>
