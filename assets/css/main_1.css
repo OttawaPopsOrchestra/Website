@@ -82,6 +82,21 @@ h6 {
   color: #6a66a4;
 }
 
+.story-question {
+  color: #6a66a4;
+  padding: 1em 0;
+}
+
+.story-social-media {
+  padding-top: 2em;
+  display: flex;
+  align-items: center;
+}
+
+.story-social-media > * i {
+  padding: 10px;
+}
+
 .story-single {
   font-family: "Helvetica", Helvetica, Arial, sans-serif;
   background-color: white !important;

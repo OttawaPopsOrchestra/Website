@@ -12,46 +12,77 @@ permalink: /stories/story2/
             <i class="far fa-user story-icon"></i>
             <i>{% t stories.story2.author %}</i>
         </p>
-        <img class="center-img" src="/assets/img/stories/story2/Photo 1- Neon Sign.jpg"/>
+        <strong><p class="story-preview">{% t stories.description %}</p></strong>
+        <img style="padding-top: 2em" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 1.JPG" width="100%"/>
         <div class="single-story-content">
-        <div class="row">
-            <div class="col-md concert-info">
-                <div class="row">
-                    <div class="col-md-5 col-sm center-margin">
-                        <a class="btn btn-outline-purple btn-block" role="button" href="#listenstory2">{% t stories.listen %} <i class="fas fa-music"></i></a>
+            <div class="row">
+                <div class="col-md concert-info">
+                    <div class="row">
+                        <div class="col-md-5 col-sm center-margin">
+                            <a class="btn btn-outline-purple btn-block" role="button" href="#listenstory2">{% t stories.listen %} <i class="fas fa-music"></i></a>
+                        </div>
+                    </div>
+                <div class="story-description" style="padding-top: 1em;">
+                    <strong><h5>{% t stories.story2.fastFacts.title %}</h5></strong>
+                    <ul>
+                        <li>{% t stories.story2.fastFacts.f1 %}</li>
+                        <li>{% t stories.story2.fastFacts.f2 %}</li>
+                        <li>{% t stories.story2.fastFacts.f3 %}</li>
+                        <li>{% t stories.story2.fastFacts.f4 %}</li>
+                        <li>{% t stories.story2.fastFacts.f5 %}</li>
+                        <li>{% t stories.story2.fastFacts.f6 %}</li>
+                        <li>{% t stories.story2.fastFacts.f7 %}</li>
+                    </ul>
+                    <strong><h4 class="story-question">{% t stories.story2.q1.q %}</h4></strong>
+                    <p>{% t stories.story2.q1.a_1 %}</p>
+                    <p>{% t stories.story2.q1.a_2 %}</p>
+                    <img style="padding-top: 2em" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 2.JPG" width="100%"/>
+                    <strong><h4 class="story-question">{% t stories.story2.q2.q %}</h4></strong>
+                    <p>{% t stories.story2.q2.a_1 %}</p>
+                    <p>{% t stories.story2.q2.a_2 %}</p>
+                    <p>{% t stories.story2.q2.a_3 %}</p>
+                    <p>{% t stories.story2.q2.a_4 %}</p>
+                    <p>{% t stories.story2.q2.a_5 %}</p>
+                    <p>{% t stories.story2.q2.a_6 %}</p>
+                    <p>{% t stories.story2.q2.a_7 %}</p>
+                    <p>{% t stories.story2.q2.a_8 %}</p>
+                    <p>{% t stories.story2.q2.a_9 %}</p>
+                    <p>{% t stories.story2.q2.a_10 %}</p>
+                    <p>{% t stories.story2.q2.a_11 %}</p>
+                    <img style="padding-top: 2em" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 3.JPG" width="100%"/>
+                    <strong><h4 class="story-question">{% t stories.story2.q3.q %}</h4></strong>
+                    <p>{% t stories.story2.q3.a_1 %}</p>
+                    <p>{% t stories.story2.q3.a_2 %}</p>
+                    <p>{% t stories.story2.q3.a_3 %}</p>
+                    <strong><h4 class="story-question">{% t stories.story2.q4.q %}</h4></strong>
+                    <p>{% t stories.story2.q4.a_1 %}</p>
+                    <p>{% t stories.story2.q4.a_2 %}</p>
+                    <p>{% t stories.story2.q4.a_3 %}</p>
+                    <img style="padding-top: 2em" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 4.JPG" width="100%"/>
+                    <div class="story-social-media">
+                        <h5>{% t stories.story2.social_media.description %}</h5>
+                        <a
+                            href="https://twinflamesmusic.com/home"
+                            target="_blank"
+                            ><i class="fas fa-link fa-2x"></i>
+                        </a>
+                        <a
+                            href="https://www.facebook.com/twinflamesmusic/"
+                            target="_blank"
+                            ><i class="fab fa-facebook fa-2x"></i></a>
+                        <a
+                            href="https://www.instagram.com/twinflamesband/"
+                            target="_blank"
+                            ><i class="fab fa-instagram fa-2x"></i
+                        ></a>
                     </div>
                 </div>
-            <div class="story-description" style="padding-top: 1em;">
-                <p>
-                    {% t stories.story2.article1 %}
-                    <a href="{{ site.baseurl }}/2019-2020/videogamesymphony" target="_blank">{% t stories.story2.article1_vgs %}</a>
-                    {% t stories.story2.article1_and %}
-                    <a href="{{ site.baseurl }}/2019-2020/popsonbroadway/" target="_blank">{% t stories.story2.article1_broadway %}</a>
-                    {% t stories.story2.article1_2 %}
-                </p>
-                <p>{% t stories.story2.article2 %}</p>
-                <p>
-                    {% t stories.story2.proud %}
-                    <strong>{% t stories.story2.proudBold %}</strong>
-                    {% t stories.story2.proudDate %}
-                </p>
-                <h5>{% t stories.story2.what.title %}</h5>
-                <p>{% t stories.story2.what.p %}</p>
-                <img class="center-img" src="/assets/img/stories/story2/Photo 2- Ottawa_Gatineau.jpg" width="100%"/>
-                <h5>{% t stories.story2.how.title %}</h5>
-                <p>{% t stories.story2.how.p1 %}</p>
-                <p>
-                    {% t stories.story2.how.p2_1 %}
-                    <strong>{% t stories.story2.how.p2_bold %}</strong>
-                    {% t stories.story2.how.p2_2 %}
-                </p>
-                <p>{% t stories.story2.how.p3 %}</p>
-                <p>{% t stories.story2.playlist %}</p>
+                <h5 class="story-question" >Twin Flames {% t stories.playlist %}</h5>
+                <div id="listenstory2" style="padding-bottom: 5em;">
+                    <iframe src="https://open.spotify.com/embed/playlist/5AAbA13C1KMIVXuiJW0JNH" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>
+                </div>
             </div>
-            <div id="listenstory2" style="padding-bottom: 5em;">
-                <iframe src="https://open.spotify.com/embed/playlist/5AAbA13C1KMIVXuiJW0JNH" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>
-            </div>
-        </div>
         </div>
     </div>
+
 </div>

@@ -45,14 +45,14 @@ permalink: /stories/
                     <div class="row">
                         <div class="col-md">
                             <a href="{{ site.baseurl }}/stories/story2" target="_blank"><h5 class="story-title">{% t stories.story2.title %}</h5></a>
-                            <p class="story-preview">{% t stories.description %}</p>
+                            <p class="story-preview">{% t stories.story2.article1 %}</p>
                         </div>
                     </div>
                     <div class="story-description">
                         <div class="row">
-                            <div class="col-md-12 col-sm">
+                            <!-- <div class="col-md-12 col-sm">
                                 <strong>{% t stories.written %}</strong>{% t stories.story2.author %}
-                            </div>
+                            </div> -->
                         </div>
                         <div class="row">
                             <div class="col-md-12 col-sm">
