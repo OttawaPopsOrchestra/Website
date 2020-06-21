@@ -39,7 +39,7 @@ permalink: /stories/
         <div class="stories-row">
             <div class="row">
                 <div class="col-lg-4">
-                    <a href="{{ site.baseurl }}/stories/twinflames" target="_blank"><img title="{% t stories.story2.title %}" alt="{% t stories.story2.title %}" class="concert-detail" src="/assets/img/stories/story2/Twin Flames - Jaaji & Chelsey June - September 27, 2018-_SSK0205NWAC_Scheer_TFSisk (1).jpg"/></a>
+                    <a href="{{ site.baseurl }}/stories/twinflames" target="_blank"><img title="{% t stories.story2.title %}" alt="{% t stories.story2.title %}" class="concert-detail" src="/assets/img/stories/story2/Twin Flames Photo 1.JPG"/></a>
                 </div>
                 <div class="col-lg-8 concert-info">
                     <div class="row">
@@ -50,9 +50,9 @@ permalink: /stories/
                     </div>
                     <div class="story-description">
                         <div class="row">
-                            <!-- <div class="col-md-12 col-sm">
+                            <div class="col-md-12 col-sm">
                                 <strong>{% t stories.written %}</strong>{% t stories.story2.author %}
-                            </div> -->
+                            </div>
                         </div>
                         <div class="row">
                             <div class="col-md-12 col-sm">

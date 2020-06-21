@@ -12,7 +12,7 @@ permalink: /stories/twinflames/
             <i class="far fa-user story-icon"></i>
             <i>{% t stories.story2.author %}</i>
         </p>
-        <strong><p class="story-preview">{% t stories.description %}</p></strong>
+        <strong><p class="story-preview">{% t stories.story2.p1 %}</p></strong>
         <img style="padding-top: 2em" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 1.JPG" width="100%"/>
         <div class="single-story-content">
             <div class="row">
@@ -101,8 +101,21 @@ permalink: /stories/twinflames/
                     </div>
                 </div>
                 <h5 id="playlist" class="story-question" >Twin Flames {% t stories.playlist %}</h5>
-                <div style="padding-bottom: 5em;">
+                <div style="padding-bottom: 2em;">
                     <iframe src="https://open.spotify.com/embed/playlist/5AAbA13C1KMIVXuiJW0JNH" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>
+                </div>
+                <hr/>
+                <div style="padding-bottom: 2em; margin: 0 auto; text-align: center;">
+                    <h6 class="story-question">{% t stories.newsletter %}</h6>
+                    <button
+                        id="subscribe"
+                        type="button"
+                        class="btn btn-outline-purple"
+                        data-toggle="modal"
+                        data-target="#exampleModalCenter"
+                    >
+                        {% t footer.newsletter %}
+                    </button>
                 </div>
             </div>
         </div>
