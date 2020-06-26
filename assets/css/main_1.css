@@ -1372,6 +1372,11 @@ h6 {
     padding-inline-start: 15px !important;
   }
 
+  .story-image-credit {
+    font-size: 14px;
+    padding: 10px;
+  }
+
   #playlist {
     text-align: center;
   }
