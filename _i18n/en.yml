@@ -1,0 +1,414 @@
+site:
+  name: Ottawa Pops Orchestra
+
+flodesk: 5ede4946b9c153002b5adc0f'
+
+pages:
+  home: home
+  about: About Us
+  concerts: Concerts
+  orchestra: Orchestra
+  community: community
+  contact: contact
+
+home:
+  moreInfo: more information
+  mission-title: Our Mission
+  mission: The Ottawa Pops Orchestra aims to foster the next generation of musicians, redefine the orchestral experience, and create a sense of community in the Ottawa-Gatineau Region.
+  about:
+    one: We are a semi-professional community orchestra dedicated to performing accessible and relevant music. The “Pops” in our name is short for “popular” as the music we play is sourced from current popular culture, telling stories from once upon a time in galaxies far, far away. That said, we also like to keep one foot in the world of classical music – its traditions, its rich history, and especially its romance.
+    two: We combine our passions by performing innovative concerts that redefine the modern orchestral experience. We’re made of people just like you, and we love to dress up and share our love for the music we play. Our mission - to foster the next generation of musicians, redefine the orchestral experience, and create a sense of community in the Ottawa-Gatineau Region.
+    three: We have humble roots as a school club at the University of Ottawa, founded by Mathieu Roy in 2012 with only a handful of eager musicians. We have since incorporated as a Non Profit Organization and boast 65 musicians.
+    four: Our first season in 2017-2018 was a huge success, as we performed for over 3000 people over the course of three series of concerts. In the 2018-2019 season, our performances are hosted exclusively at Meridian Theatres at Centrepointe as we develop educational opportunities in the Ottawa area and bring bigger and better shows to life than ever before.
+
+footer:
+  profit: The Ottawa Pops Orchestra is a Registered Not-for-Profit Corporation 1017269-3
+  newsletter: Subscribe to our newsletter
+  box-office:
+    title: Box Office
+    time: 10 am to 8pm daily
+    phone: "Telephone: 613-580-2700"
+    toll: "Toll-free: 1-866-752-5231"
+    person: "In Person: Mon to Sat, 5 pm to 8:30 pm"
+    online: "Online: 24/7"
+
+upcoming:
+  title: Upcoming events
+  showAll: show all concerts
+  hmwDate: Nov 8
+  videoDate: october 9
+  broadDate: november 14
+
+about-us:
+  title: Learn about the Ottawa Pops Orchestra
+  one: The Ottawa Pops Orchestra is a community orchestra dedicated to programming orchestral pops repertoire in order to enrich and inspire the community through accessible, relevant, and passionate performances.
+  two: Founded in the spring of 2017 by a collective of young musicians, Ottawa Pops Orchestra (OPO) strives to bridge classical orchestral repertoire with popular music, curating innovative concerts that redefine the orchestral experience for today’s audience. Under the joint direction of Matthew Larkin and Jonathan Dagenais, OPO strives to inspire, engage, and educate the greater Ottawa/Gatineau area.
+  three: OPO is proud to announce two new educational initiatives for young musicians and students in the Ottawa-Gatineau Region. We are inviting local schools to some of our dress rehearsals and providing detailed educational resources for those shows to teachers, allowing students to experience a live orchestra in action. This season, we are also proud to offer the Orchestral Development Bursary, which provides the opportunity for young, talented musicians to refine their skill and gain professional orchestral experience with OPO.
+
+season:
+  covid: Due to the COVID-19 pandemic, we have decided to postpone the 2020-21 season announcement to a later time. More information to come.
+  title: Season Tickets
+  subtitle: Subscribers are some of our favourite people!
+  p1: The 2019-20 season is here, and when you choose to subscribe you receive subscriber only-benefits. We reward subscriber loyalty with the best prices we offer all year long in addition to first right of refusal on keeping your seats every year, plus 15% off extra tickets for friends and family, and early access to single tickets and special event tickets.
+  p2: "All 3 Shows: Save up to 27% regular ticket price"
+  p3: Are you ready to try something fun?
+  get: Get your season tickets!
+
+  savings:
+    title: See the savings
+    p1: When we say season ticket holders get the best deal, we mean it. See how the ticket price* changes for someone who waits to buy their tickets.
+
+  more:
+    title: Season Tickets Get You More
+    best: The best prices we offer, period
+    percent: 15% off any and all extra tickets for friends or family on all shows
+    refusal: First right of refusal to keep your seats every year, or first-in-line to request a new location
+    events: Early access pre-sale for special events
+
+  map: Seat Map and Pricing
+  hst: "*HST not included in posted price"
+  renew:
+    title: How Seating For Renewing Your Season Tickets Works
+    p1: Season subscribers always have first right of refusal to keep your seats until the season ticket renewal deadline in May. At that time, any unrenewed/unclaimed seats are released, and we begin processing location change requests.
+
+matinees:
+  header: Student Matinees
+  title: Student Matinee Details
+  button: "Video Game Symphony Student Matinee October 9th 2020, 12:30-1:30PM."
+  click: To register your class, please fill out this form
+  gr4-6: "Students Grade 4-6: $3.50 plus HST"
+  gr7-12: "Students Grade 7-12: $5.00 plus HST"
+  p1: Someone from our team will follow up within 5 business days to confirm your order and issue an invoice.
+
+  adults:
+    title: ADULTS
+    value: One free adult chaperone ticket for every 10 student admissions purchased will be provided. Special Needs Assistants are admitted free of charge. Additional chaperones will be allowed at the discretion of the OPO and subject to the student charge of $5.00 plus HST.
+
+  payment:
+    title: PAYMENT DETAILS
+    value: Full payment is required the day before the matinee. Payment can be made by electronic transfer or cheque made out to Ottawa Pops Orchestra. The Ottawa Pops Orchestra reserves the right to cancel any orders submitted but not paid for by the payment deadline.
+
+  seating:
+    title: SEATING
+    value: Groups will be seated by the theatre ushers in pre-assigned sections. Theatre ushers will be able to assist you and your group for seating. Instead of tickets you will receive a letter of admission which will be e-mailed to you upon receipt of full payment.
+
+  study:
+    title: TEACHER STUDY GUIDE
+    p1: A pre-concert study guide to help you prepare your students for this concert-going experience is available for download in both English and French. This guide will provide you with curriculum links, information about the concert program, the performers, and performance etiquette.
+    p2: If you have any questions about your order, please call or email Mathieu Roy, Artistic Director at
+    hst: HST will be added to your invoice. Full payment will be due by deadline date.
+    p3: Once we receive your ticket order request we will calculate the cost, and the number of free adult chaperone tickets versus student tickets to be paid, and send you an invoice.
+
+stories:
+  header: "OPO Stories"
+  description: "Music inspires stories and we want to help tell them. Each week, we’ll be sharing a unique playlist and story chosen by diverse members of our community and we invite you to listen and read along! "
+  written: "Written By: "
+  published: "Published On: "
+  listen: "Listen"
+  banner: "/assets/img/stories/OPO Stories Banner.png"
+  playlist: "Playlist"
+  newsletter: "Make sure to sign up for our newsletter to never miss a playlist from our Stories Through Music Series."
+  photoCredits: "Photo Credits: "
+  story1:
+    title: "The Ottawa Pops Orchestra Presents Stories Through Music Series "
+    author: "Ottawa Pops Orchestra"
+    date: "June 8 2020"
+    article1: "Music inspires us at the Ottawa Pops Orchestra. For so long, this has meant the live presentation of over 20 performances since 2016. By now, the Ottawa Pops Orchestra would have wrapped up our 2019-2020 season with our "
+    article1_vgs: "Video Game Symphony"
+    article1_and: " and "
+    article1_broadway: "Pops: On Broadway"
+    article1_2: " performances.  As you know, due to the unprecedented COVID-19 crisis, we have had to postpone all our performances into the 2020-2021 season. This year has been very different for all of us, but our passion for sharing music hasn’t changed.  "
+    article2: "While we are grateful to be looking towards the future when we can safely present these postponed symphonic experiences with you, we miss you and miss sharing music with you. Because we miss you, the Ottawa Pops Orchestra is excited to share a new musical initiative to be enjoyed from the comfort of your own home! "
+    proud: "We are proud to present OPO’s "
+    proudBold: "Stories Through Music Series, "
+    proudDate: "beginning June 21st."
+    what:
+      title: What is the Stories Through Music Series?
+      p: "The Ottawa Pops Orchestra’s Stories Through Music Series engages different members of our community who will be sharing a playlist of their favourite songs and telling a story about why this music is so important to them. The songs and themes chosen will be incredibly varied as we want to encourage and promote myriad of musical experiences. We have connected with many different members of our community, from local artists, to city councillors, to arts journalists and beyond for a diverse presentation of music that inspires them and hopefully inspires you as well. "
+    how:
+      title: How does it work?
+      p1: "Each week, we’ll be featuring a selected playlist for you to enjoy, accompanied by a written personal story about why the individual chose the songs they did. We will be sending the featured playlist and story each week directly to your inbox for you to enjoy! The playlist will be embedded into the email and on our website, so you can listen along without any unnecessary downloads. We will also be sharing the music and stories on our social media platforms, so be sure to engage with us there and let us know what songs or stories are your favourite!"
+      p2_1: "We are thrilled to have the opportunity to elevate voices from diverse musical, professional, and cultural backgrounds with our "
+      p2_bold: "Stories through Music Series. "
+      p2_2: "Please join us each week to listen and read along!"
+      p3: "All of us at the Ottawa Pops Orchestra want to extend our continued best wishes for your health, safety and happiness, and are excited to be able to connect with you through music during this challenging time. "
+    playlist: "While we wait for our first guest, please enjoy this first selection of pieces that have been performed by the Ottawa Pops Orchestra!"
+  story2:
+    title: "Award-Winning Duo Twin Flames Inspires Audiences Around the World Through Song "
+    author: "Carmen Harris"
+    date: "June 21 2020"
+    article1: "Get to know husband-and-wife duo, Twin Flames, and the music that inspired them from a young age and continues to motivate them as professional artists."
+    p1: "The Ottawa Pops Orchestra’s Stories Through Music Series engages different members of our community who will be sharing a playlist of their favourite songs and telling a story about why this music is so important to them. This week, we are thrilled to share inspiring music and stories from Twin Flames on National Indigenous Peoples Day, as they prepare for a brand new album release this August. "
+    fastFacts:
+      title: "Fast Facts about Twin Flames"
+      f1: "Twin Flames is an award-winning husband-and-wife duo made up of Jaaji and Chelsey June. They sing songs in English, Inuttitut and French. "
+      f2: "Jaaji is Inuk and Mohawk from Nunavik, and Chelsey June is Métis (Algonquin Cree) from Ottawa."
+      f3: "Twin Flames push the boundaries of “Contemporary Folk”, with songs that incorporate both Western and traditional instruments. "
+      f4: "2016 and 2017 winners of The Canadian Folk Music Award; Aboriginal Songwriters of the Year. "
+      f5: " Human hit #1 on indigenous music charts, CBC’s Music Class, and was the UNESCO feature song to celebrate indigenous languages around the world"
+      f6: "This piece has been translated into 500 languages across the world."
+      f7: "Twin Flames is working on a brand-new album called Omen, which will be released this August."
+    q1:
+      q: "Why did you choose these songs? Is there a greater, unifying context to the playlist? "
+      a_1: "Chelsey: “Definitely. All of the songs we chose are ones that influenced our life, our music writing and our musical career. The playlist is pretty much a walkthrough of how Twin Flames was born from the very beginning. We first met in 2014 on the television series, TAM (Talent Autochthones Musicaux), and our instant connection through music. Neither of us were supposed to be there on set, but with Jaaji’s last minute tour schedule change and me getting there through a cancellation, we ended up there on the same day.” "
+      a_2: "Jaaji: “Everyone was singing around the fire the night before filming, and Chelsey started jamming with me on one of my cover songs. When our voices met in harmony, everyone noticed how much we clicked through song. Usually, harmonizing is something you practice and learn with your band, but this was instantaneous. Having grown up with the great harmonies of yesterday in my ear, it was a very impacting moment between us and where it all began.” "
+    q2:
+      q: "How have these songs/pieces impacted you? "
+      a_1: "Chelsey: “All of these pieces tie into our life and how we were feeling at the time, so it’s kind of a journey through our life experiences. It’s hard to choose, but there are a few special pieces that stand out. Yellow by Coldplay, influenced both of us deeply. I remember being so in awe of the sounds in the song.” "
+      a_2: "Jaaji: “I totally agree. The piece is acoustic and simple, but still so full of nuance. It’s simple but incredibly inspiring at the same time.” "
+      a_3: "Chelsey: “A lot of my musical influences come from my subconscious, and my parents were both obsessed with music. I vividly remember listening Leaving on a Jet Plane by Peter, Paul and Mary, sitting on the floor with those huge 80s headphones. Music was a different level of love for me, I grew up in a household as an only child, watching a difficult relationship between my parents. Music was an escape for me for sure. I learned that love of music and using it as a coping mechanism from both parents. I remember my mom blasting Coming Around Again by Carly Simon, which talks about marriage and babies and how hard it can get on a relationship when the couple is no longer the focus. I loved the melody of the song as a child, the lyrics are really impacting now because I understand them as an adult and can see my own past through them. It was so fun to do this exercise, to dig down and realize what we think about this music and how it impacted us.” "
+      a_4: "Jaaji: “For me, being from an era when CDs were just coming out, I remember my stepdad was the first guy to get a CD player way up north, and it was a big deal. I grew up listening to all the folk greats like Simon and Garfunkel, but I was often listening to the cover versions from alternative rock bands. Honestly, it was a bit of an emotional can of worms opening up, looking back at the past and listening to this music and then seeing/feeling how it influenced the writing we have now with our pieces. Fleetwood Mac’s Rumours was a big one. It’s really cool to see the musical influences on our new album which is coming out in August.”  "
+      a_5: "Chelsey: “This music is definitely personal to us. Especially the pieces that we wrote or Jaaji wrote before Twin Flames. Nunaga was the first song I heard Jaaji singing on the set for TAM. I didn’t understand the language but I was totally captivated by it. So much so that I would drive to work listening to that song on the CD he gave me. It’s really special that we now sing it together.” "
+      a_6: "Jaaji: “Ya, this piece has become an anthem for the north. I wrote it in 2012 during a dark time when my son had been hospitalized due to an accident. I remember sitting at my then home in Montreal and desperately wanting to go back home where I grew up, way up north in the Arctic, back to my innocence and youth. Suddenly, I saw these snowflakes falling outside like they did during my childhood, and I hadn’t seen any snowflakes that size anywhere else but my hometown of Quaqtaq. I got nostalgic, picked up my mandolin, went to washroom and created Nunaga. Lots of art happens in the washroom, to be honest. But I sang from my heart, I hit record on my cell phone and just sang it - not a single part of the lyrics or the melody ever changed. People love this song for its relatability and nostalgia. We’ve once played it eight times in one night.” "
+      a_7: "Chelsey: “Another piece that we created together on this playlist is Whispers in the Dark. Before we performed together, I was working a government job and was so unhappy. Jaaji finally convinced me to come on tour with him, but I was scared of performing, of planes… of my own shadow. I pushed past that fear and joined him touring for the summer of 2015, exclusively touring through the Arctic. It wasn’t instantly perfect by any means. I was dealing with social anxiety and the reception to me, as a white-looking indigenous woman that no one knew, onstage with Jaaji, who was already well known, it was tough. People didn’t want me up there at first. So, when I got home to Ottawa, Jaaji and I wrote this call-and-answer style piece, Whispers in the Dark, which is all about how neither of us are alone because we have each other.” "
+      a_8: "Jaaji: “It’s also a huge testament to Chelsey and her huge heart that she continued to sing and hung in there. She kept pushing through her sadness of not being wanted and eventually the reception shifted to love. She is now known as the ‘in-law to the north’ which is Ukuaq in Inuttutit. I loved growing Twin Flames with her. Even in the beginning, Chelsey had this playlist that was different to what I normally listened to. She loved The Civil Wars and they sounded like they were a couple. Their song Dust to Dust had lyrics that fit like, ‘let me hold your hand, we can dance around the flame / you’re like a mirror reflecting me, takes one to know one so take it from me’  It was great to think we could share this dream together, too.” "
+      a_9: "Chelsey: “Sharing the dream together always makes us reflect and say, as if we get to live this, as if we are lucky enough to experience this together from onstage to recording, and travelling the world doing what we love most - music! We have experienced some amazing moments with fellow artists too and have shared the stage with so many incredible artists. We have Chosen by Rose Cousins on our playlist because we met her in summer 2018 during on Canada C3 expedition. We were chosen by Parks Canada to perform at Base Camp in the Torngat Mountains. The first time we heard her sing on the ship we felt transported, and I felt that every word of her song “chosen” were for me. I got to meet her again at the Edmonton folk festival, and she brought me during her set to sing with her. Jaaji is all about the melody but I find I am more drawn to lyrics.” "
+      a_10: "Jaaji: “I definitely connect with the melody but there are lyrics that really hit home for me, too. Porchlight from our first debut album was never supposed to be ‘out there’. It was really a song for us to cope with the issues around the missing and murdered indigenous women of Canada and then the song just became so important to us and our audience.” "
+      a_11: "Chelsey: “For me, as a Métis I do not belong to a reserve and while I was told as a child to be proud of my Métis culture, I didn’t know what that meant. My grandmother was even told when she was young to be afraid to talk about her Métis background because of the racism that existed in her small town. Rediscovering my culture through my adolescence and adult life has been so important. The movie called Trouble in the Garden has “Plane Song” featured in the closing scene and most people will ask for this piece because it helps them feel proud. We want to keep that going.” "
+    q3:
+      q: "What story does your music tell and what do you want it to make people feel? "
+      a_1: "Chelsey: “We want our music to help audiences within communities to feel proud and know that they have a voice in this world. As an Indigenous woman, I want to use my voice to bring about change and understanding in non-indigenous communities. We want to make the conversation around reconciliation and understanding accessible. We don’t want people to feel guilty or that they need to apologize, but we want to open their hearts and minds. It is very important to us to sing songs in Indigenous languages, and to give non-indigenous people a deeper understanding of us - Twin Flames, and Indigenous people’s history, because a lot has been left out of Canadian history. Our main message is that the world needs a lot more love and this is always at the forefront of our music and our message. Music is the soundtrack of our entire lives, and we’re just so glad people are listening, especially our youth and making us part of their soundtrack.” "
+      a_2: "Jaaji: “Absolutely. Our hope is always that maybe they’ll turn on the song and realize that they can do anything with their lives and that nothing is impossible. The outlets are there, music, sports, poetry, hunting. We just want to encourage our listeners to follow their dreams. I became a cop when I got out of high school because I needed to support my child. I never thought I would be a musician, but it happened. But, in our communities and our world, there is a huge need to encourage people to follow their dreams, especially our youth. I have a younger brother and many friends that have committed suicide, and we are desperate for this epidemic to stop and for our youth to see how much they can accomplish. We get mail from fans saying ‘your song saved my life, I was ready to go but there was a kid outside the shed playing one of your songs, and I didn’t follow through’. Getting that kind of a message gives us so much sadness but also hope to keep writing and making small differences in people’s lives. We never know when that song will be there for someone. We’ve gotten messages from people saying thank you for the music, but they can’t go on living. One life lost is too many, so we are here to tell people they matter and to not give up on their dreams.” "
+      a_3: "Chelsey: “I remember my own feelings of singing alone and only to myself. At 26, I finally decided to try song writing, just for me. And then when I started making an album, I was only doing it to show my children that they could do anything they wanted, ‘if mommy can do it, you guys can do it’. From doing my first recording session, where I had to face away from the tech team because I was so nervous, to finally being onstage and seeing the audience sing my own songs back with me, it has been surreal. When I realized I could connect with people and share my voice with them it was pure magic. Having Jaaji onstage was that extra security blanket, and a wonderful team of musicians and an incredible producer… We’ve just been so lucky. And we want to use that to show people that they can follow and work for their dreams, too.” "
+    q4:
+      q: "Is there a message you want to convey to your readers/listeners? "
+      a_1: "Jaaji: “A lot of people pay too much attention to what they should or shouldn’t be listening to instead of making their own choice. We’ve all grown up with all kinds of music in those cd rack card holders and it’s okay to like what you like! I don’t ever expect anyone to like our music, if they don’t, good for the next band that they do like. It’s okay to love what you love; music is so important and deserves to be something to enjoy and escape to.” "
+      a_2: "Chelsey: “To anyone who discovers our music for the first time, we hope that they listen with an open heart, and want to learn more about our stories… not just ours but the whole history of our people. Also, take away that dreams do come true and you can work for your dreams. One dream we are still shooting for is to be featured on a commercial radio singing in English and Inuttitut. We know there is space for it here in Canada.” "
+      a_3: "Both: “And finally, that art is important! Everyone has been listening to music and watching shows created and recorded by artists. Music isn’t non-essential. We have so many big corporations asking us to play for free or for ‘exposure’, it doesn’t make sense that we are ‘essential’ to making their company meeting or fundraiser a success, but we are considered non-essential when it comes to earning money. Art is so important, so keep listening, watching and supporting the artists you love!”  "
+    playlist:
+    social_media:
+      description: "Follow Twin Flames to get updates on their upcoming album: "
+  story3:
+    title: "Writer and Epidemiologist Raywat Deonandan Discusses the Transcendence of Identity and Music "
+    author: "Raywat Deonandan"
+    translated:
+      header: ""
+      name: ""
+    date: "June 29 2020"
+    article1: "Get to know Epidemiologist, Author and Professor, Raywat Deonandan, as he shares his thoughts on the Transcendence of Identity and Music."
+    p1: "The Ottawa Pop Orchestra's Stories in Music series invites different members of our community to share a selection of their favourite songs and discuss why this music is so important to them. This week, we are delighted to introduce epidemiologist, author and University of Ottawa professor Raywat Deonandan.  "
+    fastFacts:
+      title: "Fast Facts"
+      f1: "Raywat Deonandan is a Global Health Epidemiologist and Associate Professor with the Interdisciplinary School of Health Sciences at the University of Ottawa."
+      f2: "He is a thrice published author of both fiction and non-fiction books along with internationally published short stories.  "
+      f3: "He is the founder and executive director of the Interdisciplinary Journal of Health Sciences and 2016 winner of the OCUFA Teaching Award.   "
+      f4: "His musical interests involve playing the Sitar."
+      f5: "His books have been taught at Cornell University, York University, Ryerson University and the University of New Brunswick.  "
+      f6: "He has been a judge for several arts and writing competitions on a national and international level. "
+    article:
+      p1: "This is a story ostensibly about not drawing bold lines between the multiplicity of one’s passions. But if you look deeper, it’s really about letting yourself be who you already are. "
+      p2: "Today if asked what I am, I will offer that I’m a professor at the University of Ottawa, an Epidemiologist. But in addition to being a professional scientist, I’ve also had some success as a writer of both fiction and nonfiction, have dabbled in acting, am obsessed with world history and mythology, and maintain an unrepentant fascination with all things unprovable and possibly even spiritual."
+      p3: "But am I not more than that? Am I not a son, brother, husband, and father? How about a learner? A consumer? A polluter? A seeker? And more? It is, of course, an ancient question.  "
+      p4: "I started out as a poor immigrant kid from South America, rich in love and family, but bereft of well-educated role models equipped to guide me through the labyrinths of choice and identity. Absent such guidance, one defaults to the path laid out by the unconscious economy: let your labour give rise to your identity. Let your sense of self be defined by your mercantile value. Become an occupation. "
+      p5: "Mine is not a unique story. The multiplicity of identity is ubiquitous yet rarely discussed openly. You and I and everyone else are indeed complex creatures with multifold interests. It is unfair to be described as solely one’s profession, or even as the sum of one’s relationships. Identity transcends the measurable and insists on sustained obscurity and fluidity across time.  "
+      p6: "Yet we often retreat to the laziness and simplicity of labels by occupation --roles in the measurable universe of economic weight and production. We are complicit in this reduction, allowing the machine to shape us into fitting the mold. It is indeed the unnaturalness of the modern world that compels us to choose a single path, a single convenient role, and to have that role define our identities.  "
+      p7: "It wasn’t until I watched Carl Sagan’s “Cosmos”, with its celestial soundtrack by Vangelis, that I deeply understood that we could choose more. My family would gather in front of our old black and white TV every Sunday night to watch the PBS broadcast from across Lake Ontario. As the youngest, it commonly fell to me to delicately maneuver the UHF dial into just the right precarious position to receive a clear signal. I will never forget how my jaw fell to the floor as I watched Dr Sagan weave empirical observation with personal value, art with history, ancient with modern, all the while miraculously balancing the vastness of a cosmic perspective with the intimacy of his personal journey. "
+      p8: "Even as a child, it quickly dawned on me that this was the struggle of all thinking people, regardless of education, standing, or social class. Scientists, artists, nurses, construction workers, priests, teachers, schoolchildren, lovers, warriors, innkeepers: all are seeking meaning. All are struggling to simply contextualize their existence within the hugeness of everything else. Whether or not they use these particular words, and regardless of whether any theism forms a foundation in their lives, all are essentially seeking the divine in their actions.  "
+      p9: "So it was clear that I could be both a scientist and an artist, or neither and both simultaneously. I could be an empiricist who has no conflict with people of faith. I could be comfortable in masculinity and not see conflict with femininity. I could live in the technological present but dream hazily of the ancient past. I could speak of molecules and soul in the same breath. It really didn’t matter because roles and labels were just tools to help formulate understanding.  "
+      p10: "Driving that penetrating realization was Vangelis’s haunting electronic score, elevating Sagan’s casual profundity to Vedic timelessness. The music still cements the memories of those heady days of intellectual awakening within a foundation of emotion. Art and science and education conspired to embrace and enthrall, and the result was synthetic beauty and feeds and delights me to this day. "
+      p11: "That is one of the many powers of music: to coalesce and solidify feeling and sentiment into the parallel reality of memory space. I listen to a song and it brings me back to what I was doing and feeling when that sound was first imprinted. Playlists are therefore personal and ultimately inaccessible by others, since they recount an emotional voyage that is subjective by its very nature. The reading of a good book, the first flowering of romantic love, the creep of perfidious injustice, or an intellectual awakening: all are encoded into the DNA of our individual musical ontogenies.  "
+      p12: "Art in general, and music in particular, help us to be more than others might see in us. It is a tool for thinking, for exploration, and for self-discovery. The songs that I have included in my list all trigger memories and sentiments for me personally. I hope they might mean something to you, as well. "
+    social_media:
+      description: "Follow Dr. Raywat Deonandan: "
+      playlist: "Raywat's playlist"
+
+auditions:
+  cancel:
+    p1: Regular auditions for the 2019-2020 season have closed.
+    p2: "We are still accepting auditions on the following instruments:"
+    violin: Violin
+    viola: Viola
+    cello: Cello
+    doubleBass: Double Bass
+    auxClarinet: Auxiliary clarinet (Bb, Eb, Bass)
+    percussion: Percussion
+    request_1: Please email
+    request_2: to request an audition.
+  regHere: Register Here
+  title: Auditions
+  p1: 2019-2020 Season Auditions will be held Saturday September 14 and Sunday September 15 2019 in room 109 of Perez Hall, 610 Cumberland St.
+  p2: Applicants are accepted into the orchestra based on their audition performance. There is no minimum age requirement for participation in the OPO.
+  p3: The audition will consist of a scale, 2 contrasting pieces, sight reading (on snare drum for percussion), and a short informal interview. Applicants should select two contrasting pieces that demonstrate their playing level and technical facility. The total playing time of excerpts should not exceed 12 minutes. Applicants are asked to arrive 10-15 minutes before their scheduled time and to bring 2 extra copies of their sheet music for the audition panel.  It is possible that the examiners will stop you in the middle of a piece. Don’t worry, this just means they have heard enough and would like to move on to the next portion of the audition.
+  p4: Applicants auditioning for doubling instrument positions should prepare 1 additional piece for each doubling instrument. Orchestral excerpts are acceptable.
+  percussionists:
+    title: Percussionists
+    p1: Percussionist must prepare a snare drum and a mallet excerpt at minimum. Applicants may prepare additional pieces on one or more instruments if they wish so long as the total playing time does not exceed 12 minutes.
+    p2: The OPO will not provide any sticks or mallets at the audition. Live audition candidates must provide their own sticks and mallets.
+    p3: Live audition candidates may bring their own snare drum to the audition
+    live: Instruments Provided for Live Audition
+    timp: Set of 4 Ludwig Timpani (23’’, 26’’, 29’’, 32’’)
+  master:
+    title: CONCERTMASTER AUDITIONS
+    p1: Applicants wishing to be considered for Concertmaster for the Ottawa Pops Orchestra 2018-2019 season should prepare a video audition and send a Youtube link, sheet music, and CV to auditions@ottawapopsorchestra.ca by no later than September 10th 2019 17:00 EST.
+    reqs:
+      title: Audition Requirements
+      p1: All scales are to be played at BPM=60 (minimum), in 16th notes ascending and descending 8 to a bow.
+      scales:
+        title: Scales
+        val: D-Major 3 octaves
+      excerpts:
+        title: Excerpts
+        val1: Strauss - Don Juan, Op. 20, m. 1-62.
+        val2: "Mendelsohn - Midsummer Night’s Dream: Overture, mm 6-81."
+      pieces:
+        title: Pieces
+        val: 2 contrasting pieces not exceeding 10 minutes of combined playing time.
+    comp:
+      title: Compensation
+      val: The successful candidate will receive a compensation of $150.00 (ONE HUNDRED AND FIFTY) CDN for each eligible service. Eligible services include all dress rehearsals and performances. All other rehearsals are not eligible for compensation.
+    details:
+      title: Details
+      val: The successful candidate will be notified by no later than September 12th, 2019 17:00 EST via email or phone. The successful candidate is invited to participate on the audition panel for regular auditions on September 14th and 15th 2019 from 10:00-18:00. The concertmaster is expected to attend all regular prescheduled rehearsals, lead all sectionals and prepare bowings in advance. The Concertmaster will serve as figurehead for the ensemble and will receive priority right of refusal for any functions outside of the regular season.
+
+  p5: Applicants auditioning for doubling instrument positions should prepare 1 additional piece for each doubling instrument. Orchestral excerpts are acceptable.
+  violin:
+    title: Violin, Cello, Flute/Piccolo
+    value: D major 3 octaves.
+  viola:
+    title: Viola
+    value: G major 3 octaves.
+  oboe:
+    title: Oboe/English Horn
+    value: E-flat major 2 octaves.
+  clarinet:
+    title: Clarinet/Bass Clarinet
+    value: F major 3 octaves.
+  brass:
+    title: Brass, Bassoon, & Bass
+    value: any 2 octave scale.
+  percussion:
+    title: Percussion (on the Xylophone)
+    value: Bb major 2 octaves and a third (Bb to D), alternating sticks starting on the left hand. BPM=80.
+  harp:
+    title: Harp
+    value: Any 3 octaves HT, BPM+80.
+  piano:
+    title: Piano
+    value: Ab major parallel motion scale 4 octaves HT, BPM=104. F# minor tonic four note chord broken alternate-note pattern 2 octaves (ending with I-IV-164-V-I chord progression) HT, BPM=80.
+  results:
+    title: Audition Results
+    p: All applicants will be informed of the outcome of their audition. It is possible that successful musicians be called for all, or some concerts. All applicants will be made aware of which class of musicians they belong to as well as if they have been selected for the Orchestral Development Bursary or any other form of remuneration.
+  membership:
+    title: Membership Information
+    p1: The OPO is classified as a semi professional orchestra consisting of a mixture of community and professional musicians. The OPO concert season runs from September to mid-May, with weekly rehearsals occurring on Sunday evenings from 6pm to 9pm (with occasional sectionals Fridays 6:30pm to 9:30pm) in room 109 of Perez Hall, 610 Cumberland St. Applicants are asked to ensure they can fully commit to the concert schedule for which they are participating. Accepted musicians may not miss more than one rehearsal per concert period. Dress rehearsals are mandatory, no exceptions. Applicants should be available for all concerts of the season (November 8-9 2019, March 20-21 2020, May 15-16 2020) and should indicate at the audition if they have a scheduling conflict with dress rehearsals or concerts.
+    p2: All members must re-audition each season for placement.
+
+conductors:
+  title: Conductors
+  header: Meet Our Conductors
+  jonathan:
+    p1: Jonathan Dagenais holds a Master’s degree in Conducting from McGill University and a Bachelor’s degree in Composition from the Université de Montréal.
+    p2: In addition to teaching at CEGEP and university, (music theory, composition, ear training, musicianship and conducting), Mr. Dagenais enjoys an active career as a composer and arranger for wind orchestra. His works have been performed repeatedly by numerous Canadian university and high school ensembles. They also  appear on several professional recordings. His compositions are found in many North American concert band music festival syllabus and are currently published worldwide.
+    p3: Jonathan Dagenais is also a sought after conductor. He is the conductor and artistic director of the Orchestre à Vents Non Identifié (OVNI), a Montreal wind orchestra he co-founded in 2005. OVNI is an ensemble dedicated to collaborative and active listening, tone quality, refined interpretation as well as humour. In 2010 and 2017, he was appointed conductor of the McGill Wind Orchestra. In 2012 he was a guest conductor for the Montreal Pop Symphony Orchestra (OSPM). Jonathan Dagenais is also the conductor of the Cercle Philharmonique de Saint-Jean-sur-Richelieu, a position he has held since September 2012. In September 2015, he was named conductor of the Orchestre de jeux vidéo - OJV (Montreal Video Game Orchestra), an ensemble dedicated to video game soundtracks. A  longtime fan of video games and their music, this was a natural marriage of two of his passions. Most recently in 2019, he was appointed principal conductor of  the Ottawa Pops Orchestra.
+    p4: Mr. Dagenais has been invited to adjudicate and/or give clinics at more than 25 North American music competitions and festivals. In 2017, he became the artistic director of Musicfest Quebec. Jonathan Dagenais is regularly engaged by Canadian summer music camps to conduct orchestras, bands and chamber ensembles. He has been a guest conductor for many Canadian honour bands. In 2013, Mr. Dagenais was appointed as conductor of The National Youth Band of Canada (NYB), the most prestigious honour band in the country. Jonathan Dagenais is a conductor / clinician / educator for the Twigg Musique Company in Quebec and a Yamaha Canada Master Educational Artist.
+    p5: Mr. Dagenais is currently a guest lecturer at McGill University.
+    site: Jonathan Dagenais official web site
+  trevor: Trevor Wilson is an Ottawa-born conductor, composer, and violinist currently completing his master’s degree in orchestral conducting at the Peabody Institute under Marin Alsop. As a violinist he has performed frequently as a member of the Ottawa Symphony Orchestra and toured with the National Youth Orchestra of Canada in 2015. During his undergraduate degree Trevor served for two years as conductor of the University of Ottawa Pops Orchestra and performed as a guest conductor with the Pembroke Symphony Orchestra. After obtaining his bachelor’s degree in violin performance at the University of Ottawa under Yehonatan Berick he was appointed Music Director of the newly formed Ottawa Pops Orchestra in Fall 2017. In recent times Trevor has participated in several international conducting festivals and workshops, having studied under such renowned pedagogues as Mark Shapiro, David Effron, and Neil Varon. This has also led him to Budapest where he performed with the Dohnányi Orchestra Budafok as a participant of the 2018 Dohnányi Conducting Academy under the instruction of Maestro Gábor Hollerung. This summer Trevor will be working with Maestro Boris Brott as Assistant Conductor of the National Academy Orchestra.
+  matthew: Formerly the Director of Music of St. Matthew’s Church, Christ Church Cathedral, the Anglican Chorale, the Ottawa Choral Society, and Euphonia Chamber Choir, Matthew Larkin has frequently collaborated with instrumental ensembles as soloist and guest conductor. He has appeared as organist with the Gabrieli Consort, the National Arts Centre Orchestra, the Ottawa Symphony Orchestra, the Victoria Symphony, the Theatre of Early Music, and the Toronto Symphony Orchestra, amongst others. A Fellow of the Royal Canadian College of Organists, he has concertized throughout Canada, the United States, the United Kingdom, France, Italy, and China. Currently, he is Director of Music at St. Thomas’s Church, Toronto, and the Founding Artistic Director of Caelis Academy Ensemble, Ottawa. Matthew is represented by Domoney Artists Management.
+
+contact:
+  artistic: Artistic Director
+  val: For general inquiries, comments or suggestions, please contact our administrative office at
+
+concerts:
+  readMore: read more
+  cancelled: This concert has been cancelled
+  eventPassed: THIS EVENT HAS PASSED
+  buyTickets: buy tickets
+  download: DOWNLOAD THE PROGRAM
+  meridian: Tickets sold through the Meridian Theatres at Centrepointe Box Office.
+  seasonSub: Season subscriptions
+  ssOnSale: on sale
+  may17: May 17th!
+  stOnSale: Single tickets
+  june26: June 26th!
+
+  meridian-loc:
+    title: Meridian @ Centerpointe Theatres
+    address: 101 Centrepointe Dr
+    city: Ottawa (Ontario) K2G 5K7
+    phone: "Phone: 613-580-2700"
+
+  tickets:
+    title: Tickets
+    value: Tickets can be purchased online or in person at the Meridian @ Centrepointe Box Office!
+    price: Prices range from $27.00 - $62.00, student and child pricing available
+    priceVGS: Prices range from $25.75 - $50.75, student and child pricing available
+
+  programNotes: Program Notes
+  programOrder: Program Order
+  teachersGuide: Teacher Study Guide
+
+  lang:
+    title: Language of the Event
+    value: French and English
+  age:
+    title: Suggested Age
+    value: All Ages
+
+  Disney:
+    title: "Disney in Concert: Around the World"
+    description: Experience the magic of Disney like never before; live with full symphonic orchestra and video projection! Ottawa Pops Orchestra presents the original classics from the movies we love, including The Little Mermaid, Pocahontas, Mary Poppins, Beauty and the Beast, Frozen, Aladdin, Mulan, Pirates of the Caribbean, and The Lion King. Join us for a concert filled with soaring melodies and tales as old as time, a true delight for the entire family!
+    concert1:
+      date: May 17, 2019
+      time: 7:30PM
+    concert2:
+      date: May 18, 2019
+      time: 7:30PM
+
+  SATS:
+    title: Storytime at the Symphony
+    description: Due to unforeseen complications, the Ottawa Pops Orchestra is regretfully cancelling Storytime at the Symphony, originally scheduled for Saturday March 23, 2019 at 2:30pm, for the 2018-19 season. Full refunds will be issued to anyone who has already purchased tickets to this performance.
+    refund: To claim your refund, please contact the Meridian Theatres at Centrepointe box office at 613-580-2700 or toll-free at 1-866-752-5231.
+
+  StarWars:
+    title: The Music of Star Wars
+    concert1:
+      date: December 21, 2018
+      time: 7:30PM
+    concert2:
+      date: December 22, 2018
+      time: 7:30PM
+    concert3:
+      date: December 23, 2018
+      time: 2:30PM
+    description:
+      This December, Ottawa Pops Orchestra (OPO) channels the Force to bring you three epic evenings filled with the music of Star Wars. Join us as OPO celebrates the musical legacy of John Williams and his contributions to one of the most enduring
+      film franchises of all time with a program that will excite new and old fans alike! Program suitable for all ages - families with young children encouraged to attend!
+
+  ToT:
+    title: Trick or Toccata
+    concert1:
+      date: October 23, 2018
+      time: 7:30PM
+    description: The Ottawa Pops Orchestra (OPO) returns to Meridian Theatres at Centrepointe on October 23rd, 2018 for an evening concert dedicated to the musical giants of horror, on and off the silver screen. Featuring a performance of one of the most fear-inspiring works of all time, Bach-Stokowski’s Toccata and Fugue in D minor, as well as Mussorgsky’s frantic musical nightmare “Night on Bald Mountain”, OPO pays tribute to universally recognized classical scores that conjure the darkest of our cinematic memories. Program suitable for all ages - families with young children are encouraged to attend.
+
+  HMW:
+    title: Harry's Musical World
+    concert1:
+      date: November 8, 2019
+      time: 7:30PM
+    concert2:
+      date: November 9, 2019
+      time: 2:30PM
+    description: Muggles and wizards alike, goblins, hippogriffs, and every creature in between are invited to an enchanting performance of “Harry’s Musical World”, presented by the Ottawa Pops Orchestra! Following staggering success in May 2018 with two sold out performances, the Ottawa Pops Orchestra is delighted to relive the magic of the Wizarding World all over again with its beloved audiences.
+
+  VGS:
+    title: Video Game Symphony
+    concert1:
+      date: October 9, 2020
+      time: 7:30PM
+    postponed: Postponed to October 9, 2020
+    refund: Message Regarding Refunds and Exchanges
+    description: "At this time, please hold on to your tickets as all ticket holders will have their tickets transferred to the new performance dates. Ticket holders who are not able attend the new performance dates may request a refund by contacting the Meridian Theatres Box Office directly. Please be aware that city employees are working from home and that the phone lines are closed. Please contact box office manager Nicolas Alain via email at Nicolas.alain@ottawa.ca with your refund or exchange requests.  "
+    description2: "Calling all mages and warriors: the chance to step into your favourite realm has arrived, with the Video Game Symphony! Adventure calls at 7:30 PM on March 21st 2020. Relive the thrill of some of the best video games with the conductor of the Montreal Video Game Orchestra and OPO favourite, Jonathan Dagenais! Experience the magnificence of a full LIVE orchestra accompanied by a cinematic video projection."
+
+  broadway:
+    title: Pops, On Broadway!
+    concert1:
+      date: November 14, 2020
+      time: 7:30PM
+    postponed: Postponed to November 14, 2020
+    refund: Message Regarding Refunds and Exchanges
+    description: "At this time, please hold on to your tickets as all ticket holders will have their tickets transferred to the new performance dates. Ticket holders who are not able attend the new performance dates may request a refund by contacting the Meridian Theatres Box Office directly. Please be aware that city employees are working from home and that the phone lines are closed. Please contact box office manager Nicolas Alain via email at Nicolas.alain@ottawa.ca with your refund or exchange requests.  "
+    description2: Put on your dancing shoes and cue the lights, Broadway’s best is coming to Ottawa! The Ottawa Pops Orchestra invites you to “Pops, On Broadway!” taking place at the Meridian @ Centrepointe Theatres on May 16th 2020. Prepare for an evening of laughter, triumph, and soft-shoeing swing that’s guaranteed to have you and your whole family smiling and dancing! You will love hearing your favourite music from shows like Evita, Les Misérables, Wicked, West Side Story, and much more in beautiful arrangements performed by a live symphony orchestra and fine vocal soloists!
