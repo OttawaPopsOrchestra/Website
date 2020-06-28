@@ -1,0 +1,11 @@
+url: https://ottawapopsorchestra.ca
+
+languages: ["en", "fr"]
+exclude_from_localizations: ["assets", "CNAME", "js", "img", "css"]
+defaultLang: en
+languageNames:
+  en: English
+  fr: French
+
+plugins:
+  - jekyll-multiple-languages-plugin
