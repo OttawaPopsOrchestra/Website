@@ -12,7 +12,7 @@ permalink: /stories/story1/
             <i class="far fa-user story-icon"></i>
             <i>{% t stories.story1.author %}</i>
         </p>
-        <img class="center-img" src="/assets/img/stories/story1/Photo 1- Neon Sign.jpg"/>
+        <img class="center-img" src="/assets/img/stories/story1/Photo 1- Neon Sign.jpg" width="100%" style="padding-bottom: 2em"/>
         <div class="single-story-content">
         <div class="row">
             <div class="col-md concert-info">

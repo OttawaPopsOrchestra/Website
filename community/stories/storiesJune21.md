@@ -13,7 +13,7 @@ permalink: /stories/twinflames/
             <i>{% t stories.story2.author %}</i>
         </p>
         <strong><p class="story-preview">{% t stories.story2.p1 %}</p></strong>
-        <img style="padding-top: 2em" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 1.JPG" width="100%"/>
+        <img style="padding: 2em 0" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 1.JPG" width="100%"/>
         <div class="single-story-content">
             <div class="row">
                 <div class="col-md concert-info">
