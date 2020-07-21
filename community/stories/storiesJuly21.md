@@ -47,7 +47,10 @@ permalink: /stories/bedfordtrio/
                     <p>{% t stories.story5.article.p8 %}</p>
                     <p>{% t stories.story5.article.p9 %}</p>
                     <strong><h4 class="story-question">{% t stories.story5.alessia.title %}</h4></strong>
-                    <img class="center-img story-image" src="/assets/img/stories/story5/alessia_1_orig.jpg" width="100%" style="padding-bottom: 2em"/>
+                    <div class="story-image-container">
+                        <img class="center-img story-image" src="/assets/img/stories/story5/alessia_1_orig.jpg" width="100%"/>
+                        <div class="story-image-credit">{% t stories.photoCredits%} Alice H. Photography</div>
+                    </div>
                     <p>{% t stories.story5.alessia.p1 %}</p>
                     <p>{% t stories.story5.alessia.p2 %}</p>
                     <p>{% t stories.story5.alessia.p3 %}</p>
@@ -72,10 +75,13 @@ permalink: /stories/bedfordtrio/
                     <p>{% t stories.story5.jialiang.playlist.s3 %}</p>
                     <p>{% t stories.story5.jialiang.playlist.p3 %}</p>
                     <strong><h4 class="story-question">{% t stories.story5.andrew.title %}</h4></strong>
-                    <img class="center-img story-image" src="/assets/img/stories/story5/Andrew.jpg" width="100%" style="padding-bottom: 2em"/>
+                    <div class="story-image-container">
+                        <img class="center-img story-image" src="/assets/img/stories/story5/Andrew.jpg" width="100%"/>
+                        <div class="story-image-credit">{% t stories.photoCredits%} Alice H. Photography</div>
+                    </div>
                     <p>{% t stories.story5.andrew.p1 %}</p>
                     <p>{% t stories.story5.andrew.p2 %}</p>
-                    <strong><h4>{% t stories.story5.andrew.playlist.title %}</h4></strong>
+                    <strong><h6>{% t stories.story5.andrew.playlist.title %}</h6></strong>
                     <p>{% t stories.story5.andrew.playlist.s1 %}</p>
                     <p>{% t stories.story5.andrew.playlist.p1 %}</p>
                     <p>{% t stories.story5.andrew.playlist.s2 %}</p>
@@ -93,7 +99,7 @@ permalink: /stories/bedfordtrio/
                         <iframe src="https://open.spotify.com/embed/playlist/0sKLnbI6TJcnU9jL99GM3H" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>
                     </div>
                     <div id="playlist" class="story-social-media">
-                        <h5>{% t stories.story2.social_media.description %}</h5>
+                        <h5>{% t stories.story5.social_media.description %}</h5>
                         <div class="story-social-media-icons">
                             <a
                                 href="http://www.bedfordtrio.com/"
