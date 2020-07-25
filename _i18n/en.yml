@@ -218,7 +218,7 @@ stories:
       name: ""
     date: "July 6 2020"
     article1: "What makes a Music City? Is Ottawa stalling at the station or ready to take the tracks? See what Jeff has to say and get immersed in Ottawa’s growing music scene.  "
-    p1: "The Ottawa Pops Orchestra's Stories in Music series invites different members of our community to share a selection of their favourite songs and discuss why this music is so important to them. All aboard this week with Jeff Leiper as he shares his experience within the Ottawa Music community and discusses the development of a music strategy in the nation’s capital.  "
+    p1: "The Ottawa Pops Orchestra's Stories Through Music series invites different members of our community to share a selection of their favourite songs and discuss why this music is so important to them. All aboard this week with Jeff Leiper as he shares his experience within the Ottawa Music community and discusses the development of a music strategy in the nation’s capital.  "
     fastFacts:
       title: "Quick Facts"
       f1: "Jeff studied History and English at the University of Ottawa, and Print Journalism at Algonquin College. "
@@ -247,7 +247,7 @@ stories:
       name: ""
     date: "July 21 2020"
     article1: "What is the significance of chamber music in the midst of an international pandemic? The Bedford Trio share their personal relationship with music and how they are staying connected."
-    p1: "The Ottawa Pop Orchestra's Stories in Music series invites different members of our community to share a selection of their favourite songs and discuss why this music is so important to them. Alessia Disimino (violin), Jialiang Zhu (piano), and  Andrew Ascenzo (cello) share their perspective on the role of chamber music in the midst of an international pandemic."
+    p1: "The Ottawa Pop Orchestra's Stories Through Music series invites different members of our community to share a selection of their favourite songs and discuss why this music is so important to them. Alessia Disimino (violin), Jialiang Zhu (piano), and  Andrew Ascenzo (cello) share their perspective on the role of chamber music in the midst of an international pandemic."
     fastFacts:
       title: "Quick Facts"
       f1: "Andrew asked Alessia and Jialiang to form a trio after seeing the two perform a recital together in 2016.  "
@@ -409,7 +409,12 @@ conductors:
   matthew: Formerly the Director of Music of St. Matthew’s Church, Christ Church Cathedral, the Anglican Chorale, the Ottawa Choral Society, and Euphonia Chamber Choir, Matthew Larkin has frequently collaborated with instrumental ensembles as soloist and guest conductor. He has appeared as organist with the Gabrieli Consort, the National Arts Centre Orchestra, the Ottawa Symphony Orchestra, the Victoria Symphony, the Theatre of Early Music, and the Toronto Symphony Orchestra, amongst others. A Fellow of the Royal Canadian College of Organists, he has concertized throughout Canada, the United States, the United Kingdom, France, Italy, and China. Currently, he is Director of Music at St. Thomas’s Church, Toronto, and the Founding Artistic Director of Caelis Academy Ensemble, Ottawa. Matthew is represented by Domoney Artists Management.
 
 contact:
-  artistic: Artistic Director
+  artisticDirector: "Artistic Director"
+  marketingManager: "Marketing and Communications Manager"
+  sponsorshipCoord: "Sponsorship Coordinator"
+  eventsAndSponsCoord: "Events and Sponsorship Coordinator"
+  grantPropManager: "Grant Proposal Manager"
+  librarian: "Librarian"
   val: For general inquiries, comments or suggestions, please contact our administrative office at
 
 concerts:
