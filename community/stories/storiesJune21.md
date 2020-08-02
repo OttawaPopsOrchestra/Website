@@ -13,7 +13,7 @@ permalink: /stories/twinflames/
             <i>{% t stories.story2.author %}</i>
         </p>
         <strong><p class="story-preview">{% t stories.story2.p1 %}</p></strong>
-        <img style="padding: 2em 0" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 1.JPG" width="100%"/>
+        <img style="padding: 2em 0" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 1.jpeg" width="100%"/>
         <div class="single-story-content">
             <div class="row">
                 <div class="col-md concert-info">
@@ -38,7 +38,7 @@ permalink: /stories/twinflames/
                     <strong><h4 class="story-question">{% t stories.story2.q1.q %}</h4></strong>
                     <p>{% t stories.story2.q1.a_1 %}</p>
                     <p>{% t stories.story2.q1.a_2 %}</p>
-                    <img style="padding-top: 2em" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 2.JPG" width="100%"/>
+                    <img style="padding-top: 2em" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 2.jpeg" width="100%"/>
                     <strong><h4 class="story-question">{% t stories.story2.q2.q %}</h4></strong>
                     <p>{% t stories.story2.q2.a_1 %}</p>
                     <p>{% t stories.story2.q2.a_2 %}</p>
@@ -51,7 +51,7 @@ permalink: /stories/twinflames/
                     <p>{% t stories.story2.q2.a_9 %}</p>
                     <p>{% t stories.story2.q2.a_10 %}</p>
                     <p>{% t stories.story2.q2.a_11 %}</p>
-                    <img style="padding-top: 2em" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 3.JPG" width="100%"/>
+                    <img style="padding-top: 2em" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 3.jpeg" width="100%"/>
                     <strong><h4 class="story-question">{% t stories.story2.q3.q %}</h4></strong>
                     <p>{% t stories.story2.q3.a_1 %}</p>
                     <p>{% t stories.story2.q3.a_2 %}</p>
@@ -60,7 +60,7 @@ permalink: /stories/twinflames/
                     <p>{% t stories.story2.q4.a_1 %}</p>
                     <p>{% t stories.story2.q4.a_2 %}</p>
                     <p>{% t stories.story2.q4.a_3 %}</p>
-                    <img style="padding-top: 2em" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 4.JPG" width="100%"/>
+                    <img style="padding-top: 2em" class="center-img" src="/assets/img/stories/story2/Twin Flames Photo 4.jpeg" width="100%"/>
                     <div class="story-social-media">
                         <h5>{% t stories.story2.social_media.description %}</h5>
                         <div class="story-social-media-icons">

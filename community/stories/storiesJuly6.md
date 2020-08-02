@@ -17,7 +17,7 @@ permalink: /stories/jeffleiper/
             {% t stories.story4.translated.name %}
         </p>
         <strong><p class="story-preview">{% t stories.story4.p1 %}</p></strong>
-        <img style="padding-bottom: 2em;" class="center-img story-image" src="/assets/img/stories/story4/Jeff Leiper - Photo 1.jpg" width="100%"/>
+        <img style="padding-bottom: 2em;" class="center-img story-image" src="/assets/img/stories/story4/Jeff Leiper - Photo 1.jpeg" width="100%"/>
         <div class="single-story-content">
             <div class="row">
                 <div class="col-md concert-info">
@@ -41,7 +41,7 @@ permalink: /stories/jeffleiper/
                     <p>{% t stories.story4.article.p3 %}</p>
                     <p>{% t stories.story4.article.p4 %}</p>
                     <div class="story-image-container">
-                        <img class="center-img story-image" src="/assets/img/stories/story4/Jeff Leiper - Photo 2.jpg" width="100%"/>
+                        <img class="center-img story-image" src="/assets/img/stories/story4/Jeff Leiper - Photo 2.jpeg" width="100%"/>
                         <div class="story-image-credit">{% t stories.photoCredits%} Peter Robb</div>
                     </div>
                     <p>{% t stories.story4.article.p5 %}</p>
@@ -50,7 +50,7 @@ permalink: /stories/jeffleiper/
                     <p>{% t stories.story4.article.p8 %}</p>
                     <p>{% t stories.story4.article.p9 %}</p>
                     <p>{% t stories.story4.article.p10 %}</p>
-                    <img class="center-img story-image" src="/assets/img/stories/story4/Jeff Leiper - Photo 3.jpg" width="100%"/>
+                    <img class="center-img story-image" src="/assets/img/stories/story4/Jeff Leiper - Photo 3.jpeg" width="100%"/>
                     <div class="story-social-media-2">
                         <h5>{% t stories.story4.social_media.description %}</h5>
                         <div class="story-social-media-icons">

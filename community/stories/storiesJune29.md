@@ -18,7 +18,7 @@ permalink: /stories/raywatdeonandan/
         </p>
         <strong><p class="story-preview">{% t stories.story3.p1 %}</p></strong>
         <div class="story-image-container">
-            <img class="center-img story-image" src="/assets/img/stories/story3/Deonandan_by_Sarah_Mercer_ExtraLarge.jpg" width="100%"/>
+            <img class="center-img story-image" src="/assets/img/stories/story3/Deonandan_by_Sarah_Mercer_ExtraLarge.jpeg" width="100%"/>
             <div class="story-image-credit">{% t stories.photoCredits%} Sarah Mercer</div>
         </div>
         <div class="single-story-content">
@@ -48,7 +48,7 @@ permalink: /stories/raywatdeonandan/
                     <p>{% t stories.story3.article.p5 %}</p>
                     <p>{% t stories.story3.article.p6 %}</p>
                     <div class="story-image-container">
-                        <img class="center-img story-image" src="/assets/img/stories/story3/Deonandan_by_Alex_Smyth.jpg" width="100%"/>
+                        <img class="center-img story-image" src="/assets/img/stories/story3/Deonandan_by_Alex_Smyth.jpeg" width="100%"/>
                         <div class="story-image-credit">{% t stories.photoCredits%} Alex Smyth</div>
                     </div>
                     <p>{% t stories.story3.article.p7 %}</p>

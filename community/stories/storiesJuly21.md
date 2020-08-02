@@ -17,7 +17,7 @@ permalink: /stories/bedfordtrio/
             {% t stories.story5.translated.name %}
         </p>
         <strong><p class="story-preview">{% t stories.story5.p1 %}</p></strong>
-        <img class="center-img story-image" src="/assets/img/stories/story5/Andrew Ascenzo - Bedford Headshot 003.jpg" width="100%" style="padding-bottom: 2em"/>
+        <img class="center-img story-image" src="/assets/img/stories/story5/Andrew Ascenzo - Bedford Headshot 003.jpeg" width="100%" style="padding-bottom: 2em"/>
         <div class="single-story-content">
             <div class="row">
                 <div class="col-md concert-info">
@@ -39,7 +39,7 @@ permalink: /stories/bedfordtrio/
                     <p style="padding-top: 2em;">{% t stories.story5.article.p1 %}</p>
                     <p>{% t stories.story5.article.p2 %}</p>
                     <p>{% t stories.story5.article.p3 %}</p>
-                    <img class="center-img story-image" src="/assets/img/stories/story5/Andrew Ascenzo - Bedford Headshot 001.jpg" width="100%" style="padding-bottom: 2em"/>
+                    <img class="center-img story-image" src="/assets/img/stories/story5/Andrew Ascenzo - Bedford Headshot 001.jpeg" width="100%" style="padding-bottom: 2em"/>
                     <p>{% t stories.story5.article.p4 %}</p>
                     <p>{% t stories.story5.article.p5 %}</p>
                     <p>{% t stories.story5.article.p6 %}</p>
@@ -48,7 +48,7 @@ permalink: /stories/bedfordtrio/
                     <p>{% t stories.story5.article.p9 %}</p>
                     <strong><h4 class="story-question">{% t stories.story5.alessia.title %}</h4></strong>
                     <div class="story-image-container">
-                        <img class="center-img story-image" src="/assets/img/stories/story5/alessia_1_orig.jpg" width="100%"/>
+                        <img class="center-img story-image" src="/assets/img/stories/story5/alessia_1_orig.jpeg" width="100%"/>
                         <div class="story-image-credit">{% t stories.photoCredits%} Alice H. Photography</div>
                     </div>
                     <p>{% t stories.story5.alessia.p1 %}</p>
@@ -64,7 +64,7 @@ permalink: /stories/bedfordtrio/
                     <p>{% t stories.story5.alessia.playlist.s3 %}</p>
                     <p>{% t stories.story5.alessia.playlist.p3 %}</p>
                     <strong><h4 class="story-question">{% t stories.story5.jialiang.title %}</h4></strong>
-                    <img class="center-img story-image" src="/assets/img/stories/story5/Jialiang.jpg" width="100%" style="padding-bottom: 2em"/>
+                    <img class="center-img story-image" src="/assets/img/stories/story5/Jialiang.jpeg" width="100%" style="padding-bottom: 2em"/>
                     <p>{% t stories.story5.jialiang.p1 %}</p>
                     <p>{% t stories.story5.jialiang.p2 %}</p>
                     <strong><h6>{% t stories.story5.jialiang.playlist.title %}</h6></strong>
@@ -76,7 +76,7 @@ permalink: /stories/bedfordtrio/
                     <p>{% t stories.story5.jialiang.playlist.p3 %}</p>
                     <strong><h4 class="story-question">{% t stories.story5.andrew.title %}</h4></strong>
                     <div class="story-image-container">
-                        <img class="center-img story-image" src="/assets/img/stories/story5/Andrew.jpg" width="100%"/>
+                        <img class="center-img story-image" src="/assets/img/stories/story5/Andrew.jpeg" width="100%"/>
                         <div class="story-image-credit">{% t stories.photoCredits%} Alice H. Photography</div>
                     </div>
                     <p>{% t stories.story5.andrew.p1 %}</p>
