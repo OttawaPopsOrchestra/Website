@@ -12,6 +12,10 @@ permalink: /stories/johndapaah/
             <i class="far fa-user story-icon"></i>
             <i>{% t stories.story6.author %}</i>
         </p>
+        <p class="story-author-publish">
+            {% t stories.story6.translated.header %}
+            {% t stories.story6.translated.name %}
+        </p>
         <strong><p class="story-preview">{% t stories.story6.p1 %}</p></strong>
         <img style="padding: 2em 0" class="center-img" src="/assets/img/stories/story6/Photo 1.jpeg" width="50%"/>
         <div class="single-story-content">
@@ -71,33 +75,35 @@ permalink: /stories/johndapaah/
                         <h5>{% t stories.story6.social_media.description %}</h5>
                         <div class="story-social-media-icons">
                             <a
-                                href="www.johndapaah.com "
+                                href="https://www.johndapaah.com/"
                                 class="story-media-icon"
                                 target="_blank"
                                 ><i class="fas fa-link fa-2x"></i>
                             </a>
                             <a
-                                href="https://www.facebook.com/twinflamesmusic/"
+                                href="https://www.facebook.com/JohnKofiDapaah"
                                 target="_blank"
                                 class="story-media-icon"
-                                ><i class="fab fa-facebook fa-2x"></i></a>
+                                ><i class="fab fa-facebook fa-2x"></i>
+                            </a>
                             <a
-                                href="www.instagram.com/John_Kofi_Dapaah/ "
+                                href="https://www.instagram.com/zJohn_Kofi_Dapaah/"
                                 target="_blank"
                                 class="story-media-icon"
-                                ><i class="fab fa-instagram fa-2x"></i
-                            ></a>
+                                ><i class="fab fa-instagram fa-2x"></i>
+                            </a>
                             <a
-                                href="www.twitter.com/JohnKofiDapaah "
+                                href="https://twitter.com/JohnKofiDapaah"
                                 target="_blank"
                                 class="story-media-icon"
-                                ><i class="fab fa-twitter fa-2x"></i></a>
+                                ><i class="fab fa-twitter fa-2x"></i>
+                            </a>
                             <a
-                                href="www.youtube.com/johndapaah "
+                                href="https://www.youtube.com/user/johndapaah"
                                 target="_blank"
                                 class="story-media-icon"
                                 ><i class="fab fa-youtube fa-2x"></i>
-                                </a>
+                            </a>
                         </div>
                     </div>
                 </div>
