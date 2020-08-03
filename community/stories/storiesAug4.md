@@ -48,6 +48,7 @@ permalink: /stories/johndapaah/
                     <strong><h4 class="story-question">{% t stories.story6.q2.q %}</h4></strong>
                     <p>{% t stories.story6.q2.a_1 %}</p>
                     <p>{% t stories.story6.q2.a_2 %}</p>
+                    <p>{% t stories.story6.q2.a_3 %}</p>
                     <strong><h4 class="story-question">{% t stories.story6.q3.q %}</h4></strong>
                     <p>{% t stories.story6.q3.a_1 %}</p>
                     <p>{% t stories.story6.q3.a_2 %}</p>
@@ -70,6 +71,7 @@ permalink: /stories/johndapaah/
                     <p>{% t stories.story6.q5.a_12 %}</p>
                     <strong><h4 class="story-question">{% t stories.story6.q6.q %}</h4></strong>
                     <p>{% t stories.story6.q6.a_1 %}</p>
+                    <p>{% t stories.story6.q6.a_2 %}</p>
                     <img style="padding-top: 2em" class="center-img" src="/assets/img/stories/story6/Photo 4.jpeg" width="100%"/>
                     <div class="story-social-media">
                         <h5>{% t stories.story6.social_media.description %}</h5>
