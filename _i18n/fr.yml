@@ -9,6 +9,7 @@ pages:
   concerts: Concerts
   orchestra: Orchestre
   community: Communauté
+  support: Soutenez-nous
   contact: Contactez-nous
 
 home:
@@ -467,6 +468,10 @@ conductors:
     site: Site Web officiel de Jonathan Dagenais
   trevor: Trevor Wilson est un chef d’orchestre, compositeur et violoniste originaire d’Ottawa qui complète actuellement sa maîtrise en direction orchestrale au Peabody Institute sous la tutelle de Marin Alsop. En tant que violoniste, il joua fréquemment comme membre de l’Orchestre symphonique d’Ottawa et fut en tournée avec l’Orchestre national des jeunes du Canada en 2015. En obtenant son baccalauréat, Trevor occupa le rôle de chef d’orchestre de l’Orchestre Pop de l’Université d’Ottawa pendant deux ans et il fut chef d’orchestre invité de l’Orchestre symphonique de Pembroke. À la suite de l’obtention de son baccalauréat en violon à l’Université d’Ottawa sous la tutelle de Yehonatan Berick, il fut nommé directeur musical du nouvel Orchestre Pop d’Ottawa en automne 2017. Récemment, Trevor participa à plusieurs festivals et ateliers internationaux en direction musicale, ayant été instruit par de nombreux pédagogues renommés, dont Mark Shapiro, David Effron et Neil Varon. De plus, il se rendit à Budapest où il joua avec le Dohnányi Orchestra Budafok en tant que participant du 2018 Dohnányi Conducting Academy sous la tutelle du maestro Gábor Hollerung. Cet été, Trevor travaillera avec maestro Boris Brott sous le rôle de chef d’orchestre adjoint de l’Orchestre de l’académie nationale.
   matthew: Il occupa le rôle de directeur musical de l’église St-Matthew et la cathédrale Christ Church. De plus, il fut le directeur musical de la Chorale anglicane, la Société chorale d’Ottawa et la Chorale de chambre Euphonia. Il collabora fréquemment avec des ensembles instrumentaux comme soliste et chef d’orchestre invité. Il fut organiste, entre autres, avec l’ensemble Gabrieli Consort, l’Orchestre du Centre national des Arts, l’Orchestre symphonique d’Ottawa, l’Orchestre symphonique de Victoria, le Theatre of Early Music et l’Orchestre symphonique de Toronto. Membre du Collège royal canadien des organistes, ses concerts se firent entendre à travers le Canada, les États-Unis, le Royaume-Uni, la France, l’Italie et la Chine. Actuellement, il est le directeur musical de l’église St-Thomas à Toronto et il est le directeur artistique fondateur du Caelis Academy Ensemble à Ottawa. Matthew est représenté par Domoney Artists Management.
+
+support:
+  preview: Nous sommes motivés d’enrichir et d'inspirer la communauté par le biais de la performance et de redéfinir l'expérience orchestrale, mais nous avons besoin de vos contributions pour y parvenir. Vos dons nous aident à continuer à jouer.
+  fullText: "L'Orchestre Pop d'Ottawa (OPO) s'engage à continuer à vous offrir des spectacles et de la musique en ces temps difficiles et sans précédent. Les organismes des arts du spectacle traversent une période d'incertitude et ici, à l'OPO, nous réfléchissons à ce que notre avenir peut nous réserver. Si vous le pouvez, pensez à nous soutenir à travers notre <a style='color: #920503; font-weight: 900;' href='https://ca.gofundme.com/f/c4wms-support-the-ottawa-pops-orchestra'>GoFundMe</a> ou par transfert électronique à <a style='color: #920503; font-weight: 900;' href='mailto:sales@ottawapopsorchestra.ca'>sales@ottawapopsorchestra.ca</a>. Toutes les contributions sont grandement appréciées, quel que soit le moyen le plus approprié pour vous permettre de soutenir nos diverses initiatives et opérations."
 
 contact:
   artisticDirector: "Directeur artistique"
