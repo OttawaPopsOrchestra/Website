@@ -1,7 +1,7 @@
 <footer class="elegant-color">
   <div
     class="row justify-content-center"
-    style="display: flex; align-items: center;"
+    style="display: flex; align-items: center"
   >
     <div class="col-lg-2 col-9 footer-col text-center">
       <img
@@ -9,7 +9,7 @@
         class="center-block"
         src="/assets/img/OPO Logo Symbol White.png"
       />
-      <p style="color: white; margin-top: 1rem;">{% t footer.profit %}</p>
+      <p style="color: white; margin-top: 1rem">{% t footer.profit %}</p>
     </div>
     <div class="col-lg-6 footer-col text-center">
       <hr class="footer-hr-mobile" />
@@ -72,6 +72,7 @@
           <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
               <div class="modal-body">
+                {% if site.lang == "en" %}
                 <div id="fd-form-5ede4946b9c153002b5adc0f"></div>
                 <script>
                   window.fd("form", {
@@ -79,15 +80,24 @@
                     containerEl: "#fd-form-5ede4946b9c153002b5adc0f",
                   });
                 </script>
+                {% elsif site.lang == "fr" %}
+                <div id="fd-form-5ede4dd1b9c153002b5adc11"></div>
+                <script>
+                  window.fd("form", {
+                    formId: "5ede4dd1b9c153002b5adc11",
+                    containerEl: "#fd-form-5ede4dd1b9c153002b5adc11",
+                  });
+                </script>
+                {% endif %}
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <div class="col-lg-3 footer-col" style="color: white;">
+    <div class="col-lg-3 footer-col" style="color: white">
       <hr class="footer-hr-mobile" />
-      <p style="font-size: 22px;">{% t footer.box-office.title %}</p>
+      <p style="font-size: 22px">{% t footer.box-office.title %}</p>
       <hr class="footer-hr" />
       <p id="box_office">
         {% t footer.box-office.phone %}, {% t footer.box-office.time %}<br />
