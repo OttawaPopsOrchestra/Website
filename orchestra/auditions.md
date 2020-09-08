@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: auditions-default
 title: auditions
 permalink: /auditions/
 ---
@@ -19,19 +19,19 @@ permalink: /auditions/
               <li>{% t auditions.cancel.auxClarinet %}</li>
               <li>{% t auditions.cancel.percussion %}</li>
             </ul>
-            <p>{% t auditions.cancel.request_1 %} 
-            <a href="mailto: auditions@ottawapopsorchestra.ca">   auditions@ottawapopsorchestra.ca </a> 
+            <p>{% t auditions.cancel.request_1 %}
+            <a href="mailto: auditions@ottawapopsorchestra.ca">   auditions@ottawapopsorchestra.ca </a>
             {% t auditions.cancel.request_2 %}</p>
             <hr style="border: 1px solid #920503;">
             <!-- <p>{% t auditions.p1 %}</p>
             <div class="center">
               <a id="audition-reg-web" href="#audition-reg" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a>
-              <a id="audition-reg-mobile" href="https://docs.google.com/forms/d/e/1FAIpQLScdT5pkOrHJoy5CQCtg096rid4OGPWdKgW2d7QON5qAm8g5Gg/viewform?usp=sf_link" target="_blank" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a> 
-            </div> -->           
+              <a id="audition-reg-mobile" href="https://docs.google.com/forms/d/e/1FAIpQLScdT5pkOrHJoy5CQCtg096rid4OGPWdKgW2d7QON5qAm8g5Gg/viewform?usp=sf_link" target="_blank" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a>
+            </div> -->
             <p>{% t auditions.p2 %}</p>
             <p>{% t auditions.p3 %}</p>
             <p>{% t auditions.p4 %}</p>
-            
+
             <div style="margin-top: 20px; width: 100%;" class="accordion" id="accordionExample">
               <div class="card">
                 <div class="card-header" id="headingOne">
