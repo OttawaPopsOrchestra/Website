@@ -24,7 +24,7 @@ permalink: /2019-2020/popsonbroadway/
             </div>
             <div class="concert-description">
               <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=');" class="ticket-link" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" target="_blank">
-                <div class="row">
+                <div class="row" style="height: 30px;">
                   <div class="col-md-4">
                     <i class="far fa-calendar-alt"></i> {% t concerts.broadway.concert1.date %}
                   </div>
@@ -33,6 +33,16 @@ permalink: /2019-2020/popsonbroadway/
                   </div>
                 </div>
               </a>
+              <div class="row" style="height: 30px; font-size: 18px;text-decoration: line-through;">
+                  <div class="col-md">
+                      <p>{% t concerts.broadway.concert1.postponed %}</p>
+                  </div>
+              </div>
+              <div class="row" style="height: 30px; font-size: 16px;text-decoration: line-through;">
+                  <div class="col-md">
+                      <p>{% t concerts.broadway.concert1.original %}</p>
+                  </div>
+              </div>
               <div class="row">
                 <div class="col-md-4">
                   <i class="fas fa-map-marker-alt"></i> {% t concerts.meridian-loc.title %}
@@ -41,13 +51,13 @@ permalink: /2019-2020/popsonbroadway/
                   <p>
                     {% t concerts.meridian-loc.address %}<br>
                     {% t concerts.meridian-loc.city %}<br>
-                    {% t concerts.meridian-loc.phone %} 
+                    {% t concerts.meridian-loc.phone %}
                   </p>
                 </div>
               </div>
               <div class="row">
                 <div class="col-md-4 bold">
-                  {% t concerts.tickets.title %} 
+                  {% t concerts.tickets.title %}
                 </div>
                 <div class="col-md">
                   <p>

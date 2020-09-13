@@ -37,8 +37,8 @@ upcoming:
   title: Upcoming events
   showAll: show all concerts
   hmwDate: Nov 8
-  videoDate: october 9
-  broadDate: november 14
+  videoDate: march 20
+  broadDate: may 21
 
 about-us:
   title: Learn about the Ottawa Pops Orchestra
@@ -563,19 +563,22 @@ concerts:
   VGS:
     title: Video Game Symphony
     concert1:
-      date: October 9, 2020
+      date: Postponed to March 20, 2021
       time: 7:30PM
-    postponed: Postponed to October 9, 2020
+      postponed: Postponed to October 9, 2020
+      original: March 20th 2020
     refund: Message Regarding Refunds and Exchanges
-    description: "At this time, please hold on to your tickets as all ticket holders will have their tickets transferred to the new performance dates. Ticket holders who are not able attend the new performance dates may request a refund by contacting the Meridian Theatres Box Office directly. Please be aware that city employees are working from home and that the phone lines are closed. Please contact box office manager Nicolas Alain via email at Nicolas.alain@ottawa.ca with your refund or exchange requests.  "
+    description: "At this time, please hold on to your tickets as all ticket holders will have their tickets transferred to the new performance dates. Ticket holders who are not able attend the new performance dates may request a refund by contacting the Meridian Theatres Box Office directly. Please be aware that city employees are working from home and that the phone lines are closed. Please contact our box office at <a href='billetterietmtcpboxoffice@ottawa.ca' style='color: #920503'>billetterietmtcpboxoffice@ottawa.ca</a> with your refund or exchange requests.  "
     description2: "Calling all mages and warriors: the chance to step into your favourite realm has arrived, with the Video Game Symphony! Adventure calls at 7:30 PM on March 21st 2020. Relive the thrill of some of the best video games with the conductor of the Montreal Video Game Orchestra and OPO favourite, Jonathan Dagenais! Experience the magnificence of a full LIVE orchestra accompanied by a cinematic video projection."
 
   broadway:
     title: Pops, On Broadway!
     concert1:
-      date: November 14, 2020
+      date: Postponed to May 21, 2021
       time: 7:30PM
+      postponed: Postponed to October 9, 2020
+      original: May 16 2020
     postponed: Postponed to November 14, 2020
     refund: Message Regarding Refunds and Exchanges
-    description: "At this time, please hold on to your tickets as all ticket holders will have their tickets transferred to the new performance dates. Ticket holders who are not able attend the new performance dates may request a refund by contacting the Meridian Theatres Box Office directly. Please be aware that city employees are working from home and that the phone lines are closed. Please contact box office manager Nicolas Alain via email at Nicolas.alain@ottawa.ca with your refund or exchange requests.  "
+    description: "At this time, please hold on to your tickets as all ticket holders will have their tickets transferred to the new performance dates. Ticket holders who are not able attend the new performance dates may request a refund by contacting the Meridian Theatres Box Office directly. Please be aware that city employees are working from home and that the phone lines are closed. Please contact our box office <a href='billetterietmtcpboxoffice@ottawa.ca' style='color: #920503'>billetterietmtcpboxoffice@ottawa.ca</a> with your refund or exchange requests.  "
     description2: Put on your dancing shoes and cue the lights, Broadway’s best is coming to Ottawa! The Ottawa Pops Orchestra invites you to “Pops, On Broadway!” taking place at the Meridian @ Centrepointe Theatres on May 16th 2020. Prepare for an evening of laughter, triumph, and soft-shoeing swing that’s guaranteed to have you and your whole family smiling and dancing! You will love hearing your favourite music from shows like Evita, Les Misérables, Wicked, West Side Story, and much more in beautiful arrangements performed by a live symphony orchestra and fine vocal soloists!

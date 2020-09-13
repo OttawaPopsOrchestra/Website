@@ -34,6 +34,16 @@ permalink: /2019-2020/videogamesymphony/
                 </div>
             </div>
             </a>
+            <div class="row" style="height: 30px; font-size: 18px;text-decoration: line-through;">
+                <div class="col-md">
+                    <p>{% t concerts.VGS.concert1.postponed %}</p>
+                </div>
+            </div>
+            <div class="row" style="height: 30px; font-size: 16px;text-decoration: line-through;">
+                <div class="col-md">
+                    <p>{% t concerts.VGS.concert1.original %}</p>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-md-4 bold">
                   {% t concerts.lang.title %}:
@@ -63,7 +73,7 @@ permalink: /2019-2020/videogamesymphony/
                 <p>
                     {% t concerts.meridian-loc.address %}<br>
                     {% t concerts.meridian-loc.city %}<br>
-                    {% t concerts.meridian-loc.phone %} 
+                    {% t concerts.meridian-loc.phone %}
                 </p>
             </div>
             </div>
