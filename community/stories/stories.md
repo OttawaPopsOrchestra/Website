@@ -11,7 +11,40 @@ permalink: /stories/
         <div class="stories-row">
             <div class="row">
                 <div class="col-lg-4">
-                    <a href="{{ site.baseurl }}/stories/johndapaah" target="_blank"><img title="{% t stories.story5.title %}" alt="{% t stories.story6.title %}" class="concert-detail" src="/assets/img/stories/story6/Photo 4 Cropped.jpeg" style="object-fit: cover;"/></a>
+                    <a href="{{ site.baseurl }}/stories/gladstone" target="_blank"><img title="{% t stories.story7.title %}" alt="{% t stories.story7.title %}" class="concert-detail" src="/assets/img/stories/story7/{% t  stories.story7.thumb %}.png" style="object-fit: cover;"/></a>
+                </div>
+                <div class="col-lg-8 concert-info">
+                    <div class="row">
+                        <div class="col-md">
+                            <a href="{{ site.baseurl }}/stories/gladstone" target="_blank"><h5 class="story-title">{% t stories.story7.title %}</h5></a>
+                            <p class="story-preview">{% t stories.story7.article1 %}</p>
+                        </div>
+                    </div>
+                    <div class="story-description">
+                        <div class="row">
+                            <div class="col-md-12 col-sm">
+                                <strong>{% t stories.written %}</strong>{% t stories.story7.author %}
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12 col-sm">
+                                <strong>{% t stories.story7.translated.header %}</strong>{% t stories.story7.translated.name %}
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12 col-sm">
+                                <strong>{% t stories.published %}</strong>{% t stories.story7.date %}
+                            </div>
+                        </div>
+                        <button class="btn btn-outline-purple read-more" onclick="location.href='{{ site.baseurl }}/stories/gladstone';">{% t concerts.readMore %}</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="stories-row">
+            <div class="row">
+                <div class="col-lg-4">
+                    <a href="{{ site.baseurl }}/stories/johndapaah" target="_blank"><img title="{% t stories.story6.title %}" alt="{% t stories.story6.title %}" class="concert-detail" src="/assets/img/stories/story6/Photo 4 Cropped.jpeg" style="object-fit: cover;"/></a>
                 </div>
                 <div class="col-lg-8 concert-info">
                     <div class="row">
