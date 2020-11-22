@@ -40,6 +40,7 @@ upcoming:
   hmwDate: Nov 8
   videoDate: march 20
   broadDate: may 21
+  gladstone: dec 4
 
 about-us:
   title: Learn about the Ottawa Pops Orchestra
@@ -580,6 +581,36 @@ concerts:
       date: November 9, 2019
       time: 2:30PM
     description: Muggles and wizards alike, goblins, hippogriffs, and every creature in between are invited to an enchanting performance of “Harry’s Musical World”, presented by the Ottawa Pops Orchestra! Following staggering success in May 2018 with two sold out performances, the Ottawa Pops Orchestra is delighted to relive the magic of the Wizarding World all over again with its beloved audiences.
+
+  gladstone:
+    title: "Pops at the Gladstone: Détente"
+    concert1:
+      date: December 4, 2020
+      time: 7:00PM
+    button: watch
+    donate: This is a free event. Donations are welcome.
+    description:
+      title: de·tente
+      subtitle: /dāˈtänt/
+      def:
+        p1: noun
+        l1: the easing of hostility or strained relations, especially between countries.
+        l2: "a serious effort at detente with the eastern bloc"
+      p: Pops at The Gladstone kicks off with a wonderful concert of chamber music featuring the flute, harp and violin. Enjoy streaming beautiful duets and trios all from the comfort of your home on Friday, November 27th at 7pm
+    instrum:
+      title: "Instrumentalists: "
+      i1: Kristina Slodki, Harp
+      i2: Pierre Foret, Flute
+      i3: Serena Reuten, Flute
+      i4: Trevor Wilson, Violin
+    rep:
+      title: "Repertoire: "
+      r1: Gaubert - <i>Divertissement Grec</i>, trio for 2 flutes and harp
+      r2: Berlioz - <i>l'Enfance du Christ</i>, trio for 2 flutes and harp
+      r3: Kuhlau- <i>Grand Trio Op. 90 First movement</i>, for 2 flutes and violin
+      r4: Albert Zabel - <i>Marguerite douloureuse au rouet</i>, harp
+      r5: Debussy - <i>Beau soir</i>, for flute and harp
+      r6: Grandval - <i>Valse Mélancolique</i>, for flute and harp
 
   VGS:
     title: Video Game Symphony

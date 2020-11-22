@@ -41,6 +41,7 @@ upcoming:
   hmwDate: le 8 nov
   videoDate: le 20 mars
   broadDate: le 21 mai
+  gladstone: le 4 déc
 
 about-us:
   title: Apprenez davantage sur l’Orchestre Pop d’Ottawa
@@ -587,6 +588,35 @@ concerts:
       date: le 9 novembre 2019
       time: 14 h 30
     description: Sorciers et sorcières, gobelins, hippogriffes, et toute autre créature fantastique sont cordialement invités à prendre part à une prestation symphonique du « Monde Magique de Harry », présenté par l’Orchestre Pop d’Ottawa. Suite à un succès fulgurant en mai 2018, avec des salles complètes pour chaque soir et une matinée supplémentaire pour accommoder la demande populaire, il fait un grand plaisir à l’OPO de ramener la magie du monde sorcier à Ottawa.
+
+  gladstone:
+    title: "Pops at the Gladstone: Détente"
+    concert1:
+      date: le 4 décembre, 2020
+      time: 19 h 00
+    button: VISIONNER
+    donate: Ceci est un événement gratuit. Les dons sont appréciés.
+    description:
+      title: détente
+      def:
+        p1: nom féminin
+        l1: Relâchement de ce qui est tendu.
+        l2: La détente d'un ressort.
+      p: Pops au Gladstone entame avec un superbe concert de musique de chambre mettant en vedette la flûte, la harpe et le violon. Profitez de la diffusion de magnifiques duos et trios dans le confort de votre foyer, le vendredi 27 novembre à 19 heures.
+    instrum:
+      title: "Instrumentalists: "
+      i1: Kristina Slodki, harpe
+      i2: Pierre Foret, flute
+      i3: Serena Reuten, flute
+      i4: Trevor Wilson, violon
+    rep:
+      title: "Musiciens : "
+      r1: Gaubert - <i>Divertissement Grec</i>, trio pour harpe et 2 flutes
+      r2: Berlioz - <i>l'Enfance du Christ</i>, trio pour harpe et 2 flutes
+      r3: Kuhlau- <i>Grand Trio Op. 90 First movement</i>, pour violon et 2 flutes
+      r4: Albert Zabel - <i>Marguerite douloureuse au rouet</i>, harpe
+      r5: Debussy - <i>Beau soir</i>, pour flute et harpe
+      r6: Grandval - <i>Valse Mélancolique</i>, pour flute et harpe
 
   VGS:
     title: Symphonie de jeux vidéo
