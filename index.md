@@ -12,7 +12,7 @@ permalink: /
 <div class="carousel-item active">
 <img id="SWcarousel-img" class="d-block w-100" src="/assets/img/OPO_website_banner.jpg" alt="Banner">
 <!-- <div class="carousel-caption ">
-<a id="SWcarousel" onmouseenter="grey(this.id)" onmouseout="unGrey(this.id)" href="{{ site.baseurl }}/2019-2020/videogamesymphony/" class="btn btn-maroon">{% t home.moreInfo %}</a>
+<a id="SWcarousel" onmouseenter="grey(this.id)" onmouseout="unGrey(this.id)" href="{{ site.baseurl }}/programming/videogamesymphony/" class="btn btn-maroon">{% t home.moreInfo %}</a>
 </div> -->
 </div>
 </div>
@@ -20,7 +20,7 @@ permalink: /
 <div id="carouselExampleControls-mobile" class="carousel slide carousel-mobile" data-ride="carousel">
 <div class="carousel-inner">
 <div class="carousel-item active">
-<!-- <a href="{{ site.baseurl }}/2019-2020/videogamesymphony/"> -->
+<!-- <a href="{{ site.baseurl }}/programming/videogamesymphony/"> -->
 <img id="SWcarousel-img-mobile" class="d-block w-100" src="/assets/img/OPO_website_banner.jpg" alt="Banner">
 <!-- </a> -->
 </div>

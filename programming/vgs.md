@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Video Game Symphony
-permalink: /2019-2020/videogamesymphony/
+permalink: /programming/videogamesymphony/
 ---
 
 <div class="content main container-fluid">
    <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext" target="_blank">
-    <img src="/assets/img/concerts-single/2019-2020/VGSBanner.jpeg" title="{% t concerts.VGS.title %}" alt="{% t concerts.VGS.title %}" width="100%" />
+    <img src="/assets/img/concerts-single/programming/VGSBanner.jpeg" title="{% t concerts.VGS.title %}" alt="{% t concerts.VGS.title %}" width="100%" />
     <!-- </a> -->
     <div class="concert-single">
     <div class="row">

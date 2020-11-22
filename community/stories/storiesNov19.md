@@ -34,7 +34,7 @@ permalink: /stories/gladstone/
                         <a
                             type="button"
                             class="btn btn-outline-purple"
-                            href="{{ site.baseurl }}/2019-2020/"
+                            href="{{ site.baseurl }}/programming/"
                         >
                             {% t stories.story7.body.button %}
                         </a>

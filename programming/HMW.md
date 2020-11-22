@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Harry's Musical World
-permalink: /2019-2020/hmw/
+permalink: /programming/hmw/
 ---
 
 <div class="content main container-fluid">
     <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT1108N&linkID=centrepointe&shopperContext=&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT1108N&linkID=centrepointe&shopperContext=&caller=&appCode=" target="_blank">
-        <img src="/assets/img/concerts-single/2019-2020/HMWBanner.png" title="{% t concerts.HMW.title %}" alt="{% t concerts.HMW.title %}" width="100%" />
+        <img src="/assets/img/concerts-single/programming/HMWBanner.png" title="{% t concerts.HMW.title %}" alt="{% t concerts.HMW.title %}" width="100%" />
       </a>
       <div class="concert-single">
         <div class="row">
@@ -28,7 +28,7 @@ permalink: /2019-2020/hmw/
               <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT1108N%3A&linkID=centrepointe&shopperContext=&pc=&caller=&appCode=&groupCode=CT1108N&cgc=');" class="ticket-link" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT1108N%3A&linkID=centrepointe&shopperContext=&pc=&caller=&appCode=&groupCode=CT1108N&cgc=" target="_blank">
                 <div class="row">
                   <div class="col-md-4">
-                    <i class="far fa-calendar-alt"></i> 
+                    <i class="far fa-calendar-alt"></i>
                     {% t concerts.HMW.concert1.date %}
                   </div>
                   <div class="col-md-4">
@@ -54,13 +54,13 @@ permalink: /2019-2020/hmw/
                   <p>
                     {% t concerts.meridian-loc.address %}<br>
                     {% t concerts.meridian-loc.city %}<br>
-                    {% t concerts.meridian-loc.phone %} 
+                    {% t concerts.meridian-loc.phone %}
                   </p>
                 </div>
               </div>
               <div class="row">
                 <div class="col-md-4 bold">
-                  {% t concerts.tickets.title %} 
+                  {% t concerts.tickets.title %}
                 </div>
                 <div class="col-md">
                   <p>

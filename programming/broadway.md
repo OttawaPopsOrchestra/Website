@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Pops, On Broadway!
-permalink: /2019-2020/popsonbroadway/
+permalink: /programming/popsonbroadway/
 ---
 
 <div class="content main container-fluid">
      <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" target="_blank">
-        <img src="/assets/img/concerts-single/2019-2020/POBBanner.png" title="{% t concerts.broadway.title %}" alt="{% t concerts.broadway.title %}" width="100%" />
+        <img src="/assets/img/concerts-single/programming/POBBanner.png" title="{% t concerts.broadway.title %}" alt="{% t concerts.broadway.title %}" width="100%" />
       </a>
       <div class="concert-single">
         <div class="row">

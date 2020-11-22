@@ -24,9 +24,9 @@ permalink: /stories/story1/
             <div class="story-description" style="padding-top: 1em;">
                 <p>
                     {% t stories.story1.article1 %}
-                    <a href="{{ site.baseurl }}/2019-2020/videogamesymphony" target="_blank">{% t stories.story1.article1_vgs %}</a>
+                    <a href="{{ site.baseurl }}/programming/videogamesymphony" target="_blank">{% t stories.story1.article1_vgs %}</a>
                     {% t stories.story1.article1_and %}
-                    <a href="{{ site.baseurl }}/2019-2020/popsonbroadway/" target="_blank">{% t stories.story1.article1_broadway %}</a>
+                    <a href="{{ site.baseurl }}/programming/popsonbroadway/" target="_blank">{% t stories.story1.article1_broadway %}</a>
                     {% t stories.story1.article1_2 %}
                 </p>
                 <p>{% t stories.story1.article2 %}</p>
