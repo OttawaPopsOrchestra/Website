@@ -385,14 +385,14 @@ stories:
     thumb: "Gladstone_Thumbnail_FR"
     img: "Gladstone_website_FR"
     article1: "Après une interruption de 8 mois, les musiciens d'orchestre et les acteurs de la communauté sont de retour avec Pops au Gladstone! une série de concerts de musique de chambre de 6 semaines."
-    p1: "Afin de maintenir et de continuer à rassembler les gens par la musique, et pour engager ses musiciens, l'Orchestre pop d'Ottawa, en partenariat avec <a href='https://www.thegladstone.ca/' style='color: #6a66a4' target='_blank'>le Gladstone Theatre</a>, est ravi d'offrir une série de 6 vitrines musicales virtuelles hebdomadaires de 30 à 45 minutes. De petits ensembles de musique de chambre composés de membres de notre orchestre et d'invités de la communauté seront présentés en ligne à partir du 27 novembre 2020.  "
+    p1: "Afin de maintenir et de continuer à rassembler les gens par la musique, et pour engager ses musiciens, l'Orchestre pop d'Ottawa, en partenariat avec <a href='https://www.thegladstone.ca/' style='color: #6a66a4' target='_blank'>le Gladstone Theatre</a>, est ravi d'offrir une série de 6 vitrines musicales virtuelles hebdomadaires de 30 à 45 minutes. De petits ensembles de musique de chambre composés de membres de notre orchestre et d'invités de la communauté seront présentés en ligne à partir du 4 décembre 2020.  "
     boxOfficeText: Ceci est un événement gratuit. Les dons sont appréciés.
     body:
       p1: "Des foules se rassemblent au comptoir de concession ; un groupe d'adolescents arrive, habillés pour ce qui sera leur première sortie à l'opéra ; les lumières du hall d'entrée clignotent pour diriger les invités vers leurs décors ; on entend le bavardage indistinct des amis qui se saluent, tandis qu'un couple de vieillards feuillette les notes de programme. Une annonce est faite, et les lumières s'éteignent alors qu'un musicien entre en scène. Il n'y a pas si longtemps, nous pouvions nous rencontrer par centaines, parfois par milliers dans une salle de concert. Le paysage du spectacle vivant est en train de changer et nous devons nous adapter et relever ces défis de front.   "
       p2: "Alors que la situation continue d'évoluer, il est encore incertain de savoir quand il sera possible de revenir à une programmation orchestrale régulière sur la scène principale. Il est devenu assez rapidement évident qu'il faudrait explorer des options alternatives aux représentations en personne. L'utilisation des plateformes numériques comme espace de représentation transitoire, tout en explorant différentes méthodes de partage de la musique qui peuvent favoriser l'engagement, l'accessibilité et assurer une activité continue, est devenue une solution évidente alors que d'autres orientations sont en attente pour les productions en direct."
       p3: "En mars, nous avons lancé une courte série de capsules digitales intitulées <i>Matinées musicales</i> qui proposent des représentations du midi à partir du domicile de nos musiciens. Après réflexion et discussion, nous sommes heureux d'annoncer un nouveau partenariat avec le théâtre indépendant le plus fréquenté d'Ottawa, le Gladstone Theatre. Ce partenariat nous permettra de présenter une série de musique de chambre chaque semaine jusqu'à la nouvelle an! "
       p4: "Les concerts comprendront des sélections d'œuvres de chambre classiques, de jazz, de théâtre musical, de musique de film, de classiques des fêtes ; et mettront en vedette des musiciens de l'OPO ainsi que des invités de la communauté musicale d'Ottawa. Ces concerts de 30 à 45 minutes paraîtront sur la page Facebook de l'Orchestre pop d'Ottawa, en première à 19 heures tous les vendredis soir, à l'exception de notre concert Classiques des fêtes qui sera présenté à 19 heures le 24 décembre. Chaque concert sera tourné au Gladstone Theatre. Nous sommes incroyablement reconnaissants d'utiliser l'espace pour cette série de concerts virtuels!  "
-      p5: "Nous avons hâte de vous accueillir pour le premier concert de cette série, le vendredi 27 novembre à 19h!   "
+      p5: "Nous avons hâte de vous accueillir pour le premier concert de cette série, le vendredi 4 décembre à 19h!   "
       button: "CALENDRIER DES SPECTACLES"
     fastFacts:
       title: "À propos du théâtre"
@@ -602,7 +602,7 @@ concerts:
         p1: nom féminin
         l1: Relâchement de ce qui est tendu.
         l2: La détente d'un ressort.
-      p: Pops au Gladstone entame avec un superbe concert de musique de chambre mettant en vedette la flûte, la harpe et le violon. Profitez de la diffusion de magnifiques duos et trios dans le confort de votre foyer, le vendredi 27 novembre à 19 heures.
+      p: Pops au Gladstone entame avec un superbe concert de musique de chambre mettant en vedette la flûte, la harpe et le violon. Profitez de la diffusion de magnifiques duos et trios dans le confort de votre foyer, le vendredi 4 décembre à 19 heures.
     instrum:
       title: "Instrumentalists: "
       i1: Kristina Slodki, harpe

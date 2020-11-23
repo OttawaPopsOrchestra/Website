@@ -378,14 +378,14 @@ stories:
     thumb: "Gladstone_Thumbnail_EN"
     img: "Gladstone_website_EN"
     article1: "After an 8-month hiatus, orchestra musicians and community players are back with Pops at the Gladstone, a 6 week chamber music concert series. "
-    p1: "To maintain and continue bringing people together through music, and to engage its musicians, the Ottawa Pops Orchestra, in partnership with <a href='https://www.thegladstone.ca/' style='color: #6a66a4' target='_blank'>The Gladstone Theatre</a>, is thrilled to offer a series of 6 weekly 30-45 minute virtual musical showcases. Small chamber ensembles made up of our orchestra members and community guests will be featured online starting November 27th, 2020. "
+    p1: "To maintain and continue bringing people together through music, and to engage its musicians, the Ottawa Pops Orchestra, in partnership with <a href='https://www.thegladstone.ca/' style='color: #6a66a4' target='_blank'>The Gladstone Theatre</a>, is thrilled to offer a series of 6 weekly 30-45 minute virtual musical showcases. Small chamber ensembles made up of our orchestra members and community guests will be featured online starting December 4, 2020. "
     boxOfficeText: This is a free event. Donations are welcome.
     body:
       p1: "Crowds gather in close quarters at the concession counter; a group of teenagers arrives dressed to the nines for what is to be their first outing at the opera; the lights of the lobby blink ushering the guests to their sets; indistinct chattering can be heard as friends greet each other, while an elderly couple riffles through program notes. An announcement is made and the lights dim as a musician walks on the stage. It does not seem so long ago that we could meet by the hundreds, sometimes by the thousands in a concert hall. The live performance landscape is changing and we must adapt and face those challenges head on."
       p2: "As the situation continues to evolve, it is still uncertain when it will be safe to return to regular orchestral programming on the mainstage. It became clear rather quickly that alternative options to in-person performances would require exploring. Leveraging digital platforms as a transitory performance space all the while exploring different methods to share music with our audiences that can foster engagement, further accessibility, and ensure continued activity while further guidance is pending on live productions."
       p3: "In march we launched a short series of <i>Music Matinees</i> which features noontime performances from the homes of our musicians. After further consideration and great discussion, we are happy to announce a new partnership with Ottawa’s busiest Indie Theatre venue, The Gladstone Theatre. This partnership will allow us to present a chamber music series weekly up until the new year!"
       p4: "Concerts will include selections of classical chamber works, jazz, musical theatre, film music, holiday classics; and will feature OPO musicians as well as performing guests from the Ottawa music community. These 30-45 minute concerts will appear on the Ottawa Pops Orchestra’s Facebook page, premiering at 7pm every Friday evening, with the exception of our Holiday Classics concert which will be presented at 7pm on December 24th. Every concert will be filmed at The Gladstone Theatre, our presenting partner, and we are incredibly grateful to use the space for this virtual concert series! "
-      p5: "We look forward to welcoming you for the first concert of this series on Friday November 27th at 7PM!"
+      p5: "We look forward to welcoming you for the first concert of this series on Friday December 4th at 7PM!"
       button: "PERFORMANCE SCHEDULE"
     fastFacts:
       title: "About the venue"
@@ -596,7 +596,7 @@ concerts:
         p1: noun
         l1: the easing of hostility or strained relations, especially between countries.
         l2: "a serious effort at detente with the eastern bloc"
-      p: Pops at The Gladstone kicks off with a wonderful concert of chamber music featuring the flute, harp and violin. Enjoy streaming beautiful duets and trios all from the comfort of your home on Friday, November 27th at 7pm
+      p: Pops at The Gladstone kicks off with a wonderful concert of chamber music featuring the flute, harp and violin. Enjoy streaming beautiful duets and trios all from the comfort of your home on Friday, December 4th at 7pm
     instrum:
       title: "Instrumentalists: "
       i1: Kristina Slodki, Harp
