@@ -41,7 +41,7 @@ upcoming:
   hmwDate: le 8 nov
   videoDate: le 20 mars
   broadDate: le 21 mai
-  gladstone: le 4 déc
+  gladstone: le 11 déc
 
 about-us:
   title: Apprenez davantage sur l’Orchestre Pop d’Ottawa
@@ -609,19 +609,44 @@ concerts:
         l2: La détente d'un ressort.
       p: Pops au Gladstone entame avec un superbe concert de musique de chambre mettant en vedette la flûte, la harpe et le violon. Profitez de la diffusion de magnifiques duos et trios dans le confort de votre foyer, le vendredi 4 décembre à 19 heures.
     instrum:
-      title: "Instrumentalists: "
+      title: "Musiciens: "
       i1: Kristina Slodki, harpe
       i2: Pierre Foret, flute
       i3: Serena Reuten, flute
       i4: Trevor Wilson, violon
     rep:
-      title: "Musiciens : "
+      title: "Repertoire: "
       r1: Gaubert - <i>Divertissement Grec</i>, trio pour harpe et 2 flutes
       r2: Berlioz - <i>l'Enfance du Christ</i>, trio pour harpe et 2 flutes
       r3: Kuhlau- <i>Grand Trio Op. 90 First movement</i>, pour violon et 2 flutes
       r4: Albert Zabel - <i>Marguerite douloureuse au rouet</i>, harpe
       r5: Debussy - <i>Beau soir</i>, pour flute et harpe
       r6: Grandval - <i>Valse Mélancolique</i>, pour flute et harpe
+
+  gladstone-mistral:
+    title: "Pops at the Gladstone: Mistral "
+    concert1:
+      date: le 11 décembre, 2020
+      time: 19 h 00
+    button: VISIONNER
+    donate: Ceci est un événement gratuit. Les dons sont appréciés.
+    description:
+      title: mistral
+      def:
+        p1: nom masculin
+        l1: Vent violent, froid, turbulent et sec, qui souffle du secteur nord, sur la France méditerranéenne
+      p: Nous poursuivons notre série de concerts avec cet ensemble passionnant composé de la flûte, du hautbois, de la clarinette, du cor et du basson. Compagnon d'études et ami de Ludwig van Beethoven, Danzi est souvent considéré comme le père du quintette à vent. Enveloppez-vous dans des couvertures chaudes et préparez-vous à entendre les sons émouvants de ce quintette à vent. La première du concert aura lieu le vendredi 11 décembre à 19h.
+    instrum:
+      title: "Musiciens: "
+      i1: Erica Jomphe, flûte
+      i2: Jade Butlin-Woo, hautbois
+      i3: Laura McElroy, clarinette
+      i4: Chris Going, cor
+      i5: Max Ostic, basson
+    rep:
+      title: "Repertoire: "
+      r1: Danzi - <i>Quintet No.1 en Si♭ majeure</i>
+      r2: Danzi - <i>Quintet No.2 en sol mineur</i>
 
   VGS:
     title: Symphonie de jeux vidéo

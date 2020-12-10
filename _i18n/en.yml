@@ -40,7 +40,7 @@ upcoming:
   hmwDate: Nov 8
   videoDate: march 20
   broadDate: may 21
-  gladstone: dec 4
+  gladstone: dec 11
 
 about-us:
   title: Learn about the Ottawa Pops Orchestra
@@ -617,6 +617,33 @@ concerts:
       r4: Albert Zabel - <i>Marguerite douloureuse au rouet</i>, harp
       r5: Debussy - <i>Beau soir</i>, for flute and harp
       r6: Grandval - <i>Valse Mélancolique</i>, for flute and harp
+
+  gladstone-mistral:
+    title: "Pops at the Gladstone: Mistral"
+    thumb:
+    concert1:
+      date: December 11, 2020
+      time: 7:00PM
+    button: watch
+    donate: This is a free event. Donations are welcome.
+    description:
+      title: mis·tral
+      subtitle: /ˈmistrəl/
+      def:
+        p1: noun
+        l1:  strong, cold northwesterly wind that blows through the Rhône valley and southern France into the Mediterranean, mainly in winter.
+      p: We continue our concert series with this exciting ensemble comprising the flute, oboe, clarinet, horn and bassoon. A fellow student and friend of Ludwig van Beethoven, Danzi is often regarded as the father of the wind quintet. Wrap yourselves in warm blankets and brace yourselves for the moving sounds of this wind quintet. Concert premiering on Friday, December 11th at 7pm.
+    instrum:
+      title: "Instrumentalists: "
+      i1: Erica Jomphe, flute
+      i2: Jade Butlin-Woo, oboe
+      i3: Laura McElroy, clarinet
+      i4: Chris Going, horn
+      i5: Max Ostic, bassoon
+    rep:
+      title: "Repertoire: "
+      r1: Danzi  - <i>Quintet No.1 in B♭ major </i>
+      r2: Danzi  - <i>Quintet No.2 in G minor </i>
 
   VGS:
     title: Video Game Symphony
