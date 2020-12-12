@@ -648,33 +648,33 @@ concerts:
       r1: Danzi - <i>Quintet No.1 en Si♭ majeure</i>
       r2: Danzi - <i>Quintet No.2 en sol mineur</i>
 
-    gladstone-waldeinsamkeit:
-      title: "Pops at the Gladstone: Waldeinsamkeit"
-      thumb:
-      concert1:
-        date: le 18 décembre, 2020
-        time: 19 h 00
-      button: VISIONNER
-      donate: Ceci est un événement gratuit. Les dons sont appréciés.
-      description:
-        title: Waldeinsamkeit
-        subtitle: [ˈvaltʔaɪ̯nzaːmkaɪ̯t]
-        def:
-          p1: nom allemand
-          l1:  le sentiment de solitude ressenti en forêt
-        p: Dans ce programme qui présente la musique de Mozart et de Brahms, nous nous trouvons dans un bosquet de forêt ancienne contemplant l'intemporalité de ces œuvres. Les structures formelles de Mozart sous forme de sonate parfaite ouvrent ce concert, laissant la place à la musique de Brahms qui combine les styles du passé et du présent en fixant des harmonies riches et un drame émotionnel aux structures formelles. Enfin, le Trio de cors de Brahms renforce la fusion de l'abstrait et de l'élémentaire en abandonnant la rhétorique élaborée pour un cheminement plus linéaire et logique des idées, tout en faisant appel à un instinct inexploré, stimulé par la perte et l'amour familial.
-      program:
-        title: Programme
-        p1: "W.A. Mozart: <i>Sonate en do majeur, K.330 </i>"
-        p2: "Johannes Brahms: <i>Rhapsodie en si mineur, Op. 79, No.1 </i> "
-        i1: <b>Annika Fabi</b>, piano
-      program2:
-        p1: "Johannes Brahms: <i>Trio pour cor en mi♭ majeur, Op. 40 </i>"
-        p1_a: III. Adagio mesto
-        p1_b: IV. Allegro con brio
-        i1: <b>Christine Beattie</b>, cor
-        i2: <b>Trevor Wilson</b>, violon
-        i3:  <b>Cheng Hue</b>, piano
+  gladstone-waldeinsamkeit:
+    title: "Pops at the Gladstone: Waldeinsamkeit"
+    thumb:
+    concert1:
+      date: le 18 décembre, 2020
+      time: 19 h 00
+    button: VISIONNER
+    donate: Ceci est un événement gratuit. Les dons sont appréciés.
+    description:
+      title: Waldeinsamkeit
+      subtitle: [ˈvaltʔaɪ̯nzaːmkaɪ̯t]
+      def:
+        p1: nom allemand
+        l1:  le sentiment de solitude ressenti en forêt
+      p: Dans ce programme qui présente la musique de Mozart et de Brahms, nous nous trouvons dans un bosquet de forêt ancienne contemplant l'intemporalité de ces œuvres. Les structures formelles de Mozart sous forme de sonate parfaite ouvrent ce concert, laissant la place à la musique de Brahms qui combine les styles du passé et du présent en fixant des harmonies riches et un drame émotionnel aux structures formelles. Enfin, le Trio de cors de Brahms renforce la fusion de l'abstrait et de l'élémentaire en abandonnant la rhétorique élaborée pour un cheminement plus linéaire et logique des idées, tout en faisant appel à un instinct inexploré, stimulé par la perte et l'amour familial.
+    program:
+      title: Programme
+      p1: "W.A. Mozart: <i>Sonate en do majeur, K.330 </i>"
+      p2: "Johannes Brahms: <i>Rhapsodie en si mineur, Op. 79, No.1 </i> "
+      i1: <b>Annika Fabi</b>, piano
+    program2:
+      p1: "Johannes Brahms: <i>Trio pour cor en mi♭ majeur, Op. 40 </i>"
+      p1_a: III. Adagio mesto
+      p1_b: IV. Allegro con brio
+      i1: <b>Christine Beattie</b>, cor
+      i2: <b>Trevor Wilson</b>, violon
+      i3:  <b>Cheng Hue</b>, piano
 
   VGS:
     title: Symphonie de jeux vidéo
