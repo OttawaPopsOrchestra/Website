@@ -40,7 +40,7 @@ upcoming:
   hmwDate: Nov 8
   videoDate: march 20
   broadDate: may 21
-  gladstone: dec 11
+  gladstone: dec 18
 
 about-us:
   title: Learn about the Ottawa Pops Orchestra
@@ -644,6 +644,34 @@ concerts:
       title: "Repertoire: "
       r1: Danzi  - <i>Quintet No.1 in B♭ major </i>
       r2: Danzi  - <i>Quintet No.2 in G minor </i>
+
+  gladstone-waldeinsamkeit:
+    title: "Pops at the Gladstone: Waldeinsamkeit"
+    thumb:
+    concert1:
+      date: December 18, 2020
+      time: 7:00PM
+    button: watch
+    donate: This is a free event. Donations are welcome.
+    description:
+      title: Waldeinsamkeit
+      subtitle: [ˈvaltʔaɪ̯nzaːmkaɪ̯t]
+      def:
+        p1: German noun
+        l1:  the feeling of solitude in the woods
+      p: In this program featuring the music of Mozart and Brahms, we find ourselves in an ancient forest grove contemplating the timelessness of these works. Mozart’s formal structures in perfect sonata form open this concert, giving way to the music of Brahms combining styles of the past and present by setting rich harmonies and emotionally dramatic music to formal structures. Finally, Brahms’s Horn Trio magnifies the merging of the abstract and the elemental abandoning elaborate rhetoric for a more linear, logical procession of ideas all the while calling out from a place of unexamined instinct, stirred by familial love and loss.
+    program:
+      title: Program
+      p1: "W.A. Mozart: <i>Sonata in C Major, K.330</i>"
+      p2: "Johannes Brahms: <i>Rhapsody in B minor, Op. 79, No.1</i> "
+      i1: <b>Annika Fabi</b>, piano
+    program2:
+      p1: "Johannes Brahms: <i>Horn Trio in E♭ major, Op. 40</i>"
+      p1_a: III. Adagio mesto
+      p1_b: IV. Allegro con brio
+      i1: <b>Christine Beattie</b>, horn
+      i2: <b>Trevor Wilson</b>, violin
+      i3:  <b>Cheng Hue</b>, piano
 
   VGS:
     title: Video Game Symphony
