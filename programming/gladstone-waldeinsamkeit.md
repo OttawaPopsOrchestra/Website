@@ -5,7 +5,7 @@ permalink: /programming/gladstone-waldeinsamkeit/
 ---
 
 <div class="content main container-fluid">
-   <a href="https://www.facebook.com/events/812306975981933" target="_blank">
+   <a href="https://facebook.com/events/301637167832912" target="_blank">
     <img src="/assets/img/stories/story7/{% t stories.story7.img %}.jpg" title="{% t concerts.gladstone-waldeinsamkeit.title %}" alt="{% t concerts.gladstone-waldeinsamkeit.title %}" width="100%" />
     </a>
     <div class="concert-single">
@@ -13,17 +13,17 @@ permalink: /programming/gladstone-waldeinsamkeit/
         <div class="col-md concert-info">
         <div class="row">
             <div class="col-md-8">
-            <a href="https://www.facebook.com/events/812306975981933" target="_blank">
+            <a href="https://facebook.com/events/301637167832912" target="_blank">
                 <h5 class="concert-title">{% t concerts.gladstone-waldeinsamkeit.title %} </h5>
             </a>
             </div>
             <div class="col-md">
-                <a href="https://www.facebook.com/events/812306975981933" class="btn btn-maroon btn-block" target="_blank">{% t concerts.gladstone-waldeinsamkeit.button %}</a>
+                <a href="https://facebook.com/events/301637167832912" class="btn btn-maroon btn-block" target="_blank">{% t concerts.gladstone-waldeinsamkeit.button %}</a>
                 <p style="padding-top:10px">{% t concerts.gladstone-waldeinsamkeit.donate %}</p>
             </div>
         </div>
         <div class="concert-description">
-            <a class="ticket-link" href="https://www.facebook.com/events/812306975981933" target="_blank">
+            <a class="ticket-link" href="https://facebook.com/events/301637167832912" target="_blank">
             <div class="row">
                 <div class="col-md-4">
                 <i class="far fa-calendar-alt"></i> {% t concerts.gladstone-waldeinsamkeit.concert1.date %}
