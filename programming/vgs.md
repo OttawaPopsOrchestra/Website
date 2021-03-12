@@ -14,9 +14,8 @@ permalink: /programming/videogamesymphony/
         <div class="row">
             <div class="col-md-8">
             <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext" target="_blank">
-                <h5 class="concert-title">{% t concerts.VGS.title %} </h5>
+                <h5 class="concert-title">{% t concerts.VGS.title %} - {% t concerts.VGS.concert1.date %} </h5>
             </a>
-                <h6>{% t concerts.VGS.postponed %}</h6>
             </div>
             <div class="col-md">
                 <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AC1920%3ACT0320N%3A&linkID=centrepointe&shopperContext" class="btn btn-maroon btn-block" target="_blank">{% t concerts.buyTickets %}</a>

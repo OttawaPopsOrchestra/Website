@@ -650,7 +650,6 @@ concerts:
 
   gladstone-waldeinsamkeit:
     title: "Pops at the Gladstone: Waldeinsamkeit"
-    thumb:
     concert1:
       date: le 18 décembre, 2020
       time: 19 h 00
@@ -679,7 +678,7 @@ concerts:
   VGS:
     title: Symphonie de jeux vidéo
     concert1:
-      date: Remis au 20 mars 2021
+      date: Remis au 18 mars 2022
       time: 19 h 30
       postponed: Remis au 9 octobre 2020
       original: le 20 mars 2020
@@ -690,7 +689,7 @@ concerts:
   broadway:
     title: Pops sur Broadway!
     concert1:
-      date: Remis au 21 mai 2021
+      date: Remis au 13 mai 2022
       time: 14 h 30
       postponed: Remis au 14 novembre 2020
       original: le 16 mai 2020

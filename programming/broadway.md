@@ -14,7 +14,7 @@ permalink: /programming/popsonbroadway/
             <div class="row">
               <div class="col-md-8">
                 <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" target="_blank">
-                  <h5 class="concert-title">{% t concerts.broadway.title %}  - {% t concerts.broadway.postponed %} </h5>
+                  <h5 class="concert-title">{% t concerts.broadway.title %}  - {% t concerts.broadway.concert1.date %} </h5>
                 </a>
               </div>
                 <div class="col-md">
