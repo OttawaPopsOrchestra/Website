@@ -393,23 +393,12 @@ stories:
       f2: "910 Gladstone has been a venue for professional theatre in Ottawa since 1982. In 2008, the revitalized theatre opened, re-branded as The Gladstone, with the vision to bring accessible, thought-provoking and above all entertaining professional theatre to Ottawa audiences. In 2016, a newly formed volunteer steering committee held a community consultation and distributed an online survey on the subject of the future of The Gladstone. Results were highly encouraging! In November 2016, The Gladstone Theatre Inc. was incorporated as a not-for-profit. "
 
 auditions:
-  cancel:
-    p1: Regular auditions for the 2019-2020 season have closed.
-    p2: "We are still accepting auditions on the following instruments:"
-    violin: Violin
-    viola: Viola
-    cello: Cello
-    doubleBass: Double Bass
-    auxClarinet: Auxiliary clarinet (Bb, Eb, Bass)
-    percussion: Percussion
-    request_1: Please email
-    request_2: to request an audition.
-  regHere: Register Here
   title: Auditions
-  p1: 2019-2020 Season Auditions will be held Saturday September 14 and Sunday September 15 2019 in room 109 of Perez Hall, 610 Cumberland St.
-  p2: Applicants are accepted into the orchestra based on their audition performance. There is no minimum age requirement for participation in the OPO.
-  p3: The audition will consist of a scale, 2 contrasting pieces, sight reading (on snare drum for percussion), and a short informal interview. Applicants should select two contrasting pieces that demonstrate their playing level and technical facility. The total playing time of excerpts should not exceed 12 minutes. Applicants are asked to arrive 10-15 minutes before their scheduled time and to bring 2 extra copies of their sheet music for the audition panel.  It is possible that the examiners will stop you in the middle of a piece. Don’t worry, this just means they have heard enough and would like to move on to the next portion of the audition.
-  p4: Applicants auditioning for doubling instrument positions should prepare 1 additional piece for each doubling instrument. Orchestral excerpts are acceptable.
+  p1: "Auditions for the 2021-22 season are now open"
+  p2: "Due to the current situation with the COVID-19 pandemic, all auditions will be held virtually. We are currently accepting auditions for all orchestral instruments."
+  p3: "Please note that rehearsal and performance dates for the 2021-2022 season may change depending on how the situation evolves. Rehearsals are typically held Sunday evenings 6-9PM at the uOttawa School of Music. Mainstage performances will be at Meridian Theatres at Centrepointe. Dress Rehearsals are usually Fridays 12PM-4PM and performances typically Fridays or Saturdays at 7:30PM. "
+  p4: "Please send your audition material to <a href='mailto: auditions@ottawapopsorchestra.ca'>auditions@ottawapopsorchestra.ca</a> via unlisted YOUTUBE link by September 15th 2021. No other submission formats will be accepted. Late submissions will be considered only if there are vacancies, or a special need for your instrument. "
+  regHere: Register Here
   percussionists:
     title: Percussionists
     p1: Percussionist must prepare a snare drum and a mallet excerpt at minimum. Applicants may prepare additional pieces on one or more instruments if they wish so long as the total playing time does not exceed 12 minutes.

@@ -400,24 +400,12 @@ stories:
       f2: "Le 910 Gladstone est un théâtre professionnel à Ottawa depuis 1982. En 2008, le théâtre revitalisé a ouvert ses portes, rebaptisé The Gladstone, avec la vision d'offrir un théâtre professionnel accessible, stimulant et surtout divertissant au public d'Ottawa. En 2016, un comité directeur bénévole nouvellement formé a organisé une consultation communautaire et a distribué un sondage en ligne sur l'avenir de The Gladstone. Les résultats ont été très encourageants! En novembre 2016, The Gladstone Theatre Inc. a été constitué en société à but non lucratif. "
 
 auditions:
-  cancel:
-    p1: Les auditions générales pour la saison 2019-2020 sont terminées.
-    p2: "Nous acceptons encore des auditions pour les instruments suivants :"
-    violin: Violon
-    viola: Alto
-    cello: Violoncelle
-    doubleBass: Contrebasse
-    auxClarinet: Clarinette (si bémol, mi bémol, basse)
-    percussion: Percussion
-    request_1: Veuillez envoyer un courriel à
-    request_2: pour faire passer une audition.
-  regHere: Inscrivez-vous
   title: Auditions
-  p1: Les auditions pour la saison 2019-2020 auront lieu les 14 et 15 septembre 2019 dans la salle 109 du pavillon Perez, 610, rue Cumberland.
-  p2: Les candidats seront acceptés selon leur prestation durant l’audition. Il n’y a aucun âge minimal pour participer dans l’OPO.
-  p3: L’audition consiste d’une gamme, 2 pièces contrastantes, une lecture à première vue (sur la caisse claire pour percussion) et une entrevue informelle. Les candidats devraient sélectionner deux pièces contrastantes qui démontrent leurs habiletés et leur facilité technique. La durée totale des pièces ne devrait dépasser 12 minutes. Les candidats sont priés d’arriver 10-15 minutes avant l’heure prévue pour l’audition et d’apporter 2 copies supplémentaires de leurs partitions pour les membres du panel. Il est possible que les juges vous interrompent durant vos pièces. Ne vous inquiétez pas, cela indique que l’extrait joué était suffisant et qu’ils souhaiteraient poursuivre à la prochaine étape de l’audition.
-  p4: Les candidats préparant une audition pour la doublure d’instruments devraient préparer 1 pièce supplémentaire pour chacune des doublures. Des extraits orchestraux sont acceptables.
-
+  p1: Les auditions pour la saison 2021-22 sont maintenant ouvertes
+  p2: "En raison de la situation actuelle avec la pandémie COVID-19, toutes les auditions se dérouleront virtuellement. Nous acceptons présentement les auditions pour tous les instruments d'orchestre. "
+  p3: "Veuillez noter que les dates de répétition et de représentation pour la saison 2021-2022 peuvent changer en fonction de l'évolution de la situation. Les répétitions ont généralement lieu le dimanche soir de 18 à 21 heures à l'École de musique de l'Université d'Ottawa. Les représentations principales auront lieu au Meridian Theatres à Centrepointe. Les répétitions générales ont généralement lieu le vendredi de 12 h à 16 h et les représentations se déroulent généralement le vendredi ou le samedi à 19 h 30. "
+  p4: "Veuillez envoyer votre matériel d'audition à <a href='mailto: auditions@ottawapopsorchestra.ca'>auditions@ottawapopsorchestra.ca</a> via le lien YOUTUBE non répertorié avant le 15 septembre 2021. Aucun autre format de soumission ne sera accepté. Les soumissions tardives ne seront prises en compte que s'il y a des postes vacants ou si votre instrument a un besoin particulier. "
+  regHere: Inscrivez-vous
   percussionists:
     title: Percussionists
     p1: Les percussionnistes doivent préparer un extrait à la caisse claire et au maillet au minimum. Les candidats peuvent préparer des pièces supplémentaires pour d’autres instruments s’ils le souhaitent, pourvu que la durée totale de prestation ne dépasse 12 minutes.
@@ -425,7 +413,6 @@ auditions:
     p3: Les candidats peuvent apporter leur propre caisse claire à l’audition
     live: Instruments fournis pour l’audition en personne
     timp: Ensemble de 4 timbales Ludwig (23 po, 26 po, 29 po, 32 po)
-
   master:
     title: AUDITIONS DE PREMIER VIOLON
     p1: Les candidats qui souhaitent devenir le premier violon de l’Orchestre Pop d’Ottawa pour la saison 2019-2020 devront preparer une audition enregistrée par vidéo et envoyer un lien Youtube, les partitions et un CV à auditions@ottawapopsorchestra.ca avant le 10 septembre 2019 à 17 h (heure de l’Est).
