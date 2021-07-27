@@ -398,38 +398,54 @@ auditions:
   p2: "Due to the current situation with the COVID-19 pandemic, all auditions will be held virtually. We are currently accepting auditions for all orchestral instruments."
   p3: "Please note that rehearsal and performance dates for the 2021-2022 season may change depending on how the situation evolves. Rehearsals are typically held Sunday evenings 6-9PM at the uOttawa School of Music. Mainstage performances will be at Meridian Theatres at Centrepointe. Dress Rehearsals are usually Fridays 12PM-4PM and performances typically Fridays or Saturdays at 7:30PM. "
   p4: "Please send your audition material to <a href='mailto: auditions@ottawapopsorchestra.ca'>auditions@ottawapopsorchestra.ca</a> via unlisted YOUTUBE link by September 15th 2021. No other submission formats will be accepted. Late submissions will be considered only if there are vacancies, or a special need for your instrument. "
+  p5: "ALL CANDIDATES must prepare 2 contrasting pieces not exceeding 10 minutes in addition to the following requirements. Applicants auditioning for doubling instrument positions should prepare 1 additional piece for each doubling instrument. Orchestral excerpts are acceptable. "
   regHere: Register Here
+  excerpts: Excerpts
+  scales: Scales
+  strings:
+    title: Strings
+    concertMaster:
+      title: Concert master
+      p1: Applicants wishing to be considered for Concertmaster for the Ottawa Pops Orchestra 2021-2022 season should prepare a video audition and send a Youtube link, sheet music, and CV to auditions@ottawapopsorchestra.ca by no later than September 10th 2019 17:00 EST. The successful candidate will receive a compensation of $150.00 (ONE HUNDRED AND FIFTY) CDN for each eligible service. Eligible services include all dress rehearsals and performances. All other rehearsals are not eligible for compensation.
+    excerpts:
+      val1: Strauss - Don Juan, Op. 20, m. 1-62.
+      val2: "Mendelssohn - Midsummer Night’s Dream: Overture, mm 6-81."
+    scales:
+      val: D-Major 3 octaves
+      p1: "All scales are to be played at BPM=60 (minimum), in 16th notes ascending and descending 8 to a bow. "
+      l1: "Section Violin - D major 3 octaves "
+      l2: Viola - G major 3 octaves
+      l3: Cello - D major 3 octaves
+      l4: Bass - any scale 2 octaves
+  woodwinds:
+    title: Woodwinds
+    p1: Flute/piccolo - D major 3 octaves
+    p2: Oboe/english horn - Eb major 2 octaves
+    p3: Clarinet/bass clarinet - F major 3 octaves
+    p4: Bassoon - any scale 2 octaves
+  brass:
+    title: Brass
+    p1: All brass - any scale 2 octaves
   percussionists:
     title: Percussionists
-    p1: Percussionist must prepare a snare drum and a mallet excerpt at minimum. Applicants may prepare additional pieces on one or more instruments if they wish so long as the total playing time does not exceed 12 minutes.
+    p1: Percussionists must prepare a snare drum and a mallet excerpt at minimum. Applicants may prepare additional pieces on one or more instruments if they wish so long as the total playing time does not exceed 12 minutes.
     p2: The OPO will not provide any sticks or mallets at the audition. Live audition candidates must provide their own sticks and mallets.
     p3: Live audition candidates may bring their own snare drum to the audition
-    live: Instruments Provided for Live Audition
-    timp: Set of 4 Ludwig Timpani (23’’, 26’’, 29’’, 32’’)
-  master:
-    title: CONCERTMASTER AUDITIONS
-    p1: Applicants wishing to be considered for Concertmaster for the Ottawa Pops Orchestra 2018-2019 season should prepare a video audition and send a Youtube link, sheet music, and CV to auditions@ottawapopsorchestra.ca by no later than September 10th 2019 17:00 EST.
-    reqs:
-      title: Audition Requirements
-      p1: All scales are to be played at BPM=60 (minimum), in 16th notes ascending and descending 8 to a bow.
-      scales:
-        title: Scales
-        val: D-Major 3 octaves
-      excerpts:
-        title: Excerpts
-        val1: Strauss - Don Juan, Op. 20, m. 1-62.
-        val2: "Mendelsohn - Midsummer Night’s Dream: Overture, mm 6-81."
-      pieces:
-        title: Pieces
-        val: 2 contrasting pieces not exceeding 10 minutes of combined playing time.
-    comp:
-      title: Compensation
-      val: The successful candidate will receive a compensation of $150.00 (ONE HUNDRED AND FIFTY) CDN for each eligible service. Eligible services include all dress rehearsals and performances. All other rehearsals are not eligible for compensation.
-    details:
-      title: Details
-      val: The successful candidate will be notified by no later than September 12th, 2019 17:00 EST via email or phone. The successful candidate is invited to participate on the audition panel for regular auditions on September 14th and 15th 2019 from 10:00-18:00. The concertmaster is expected to attend all regular prescheduled rehearsals, lead all sectionals and prepare bowings in advance. The Concertmaster will serve as figurehead for the ensemble and will receive priority right of refusal for any functions outside of the regular season.
+    live:
+      title: Instruments Provided for Live Audition
+      l1: Deagan 1558 2.5 Octave Glockenspiel
+      l2: Musser 4.0 Octave Xylophone
+      l3: Yamaha 4.3 Octave Acoustalon Marimba
+      l4: Fibes 14x4 Maple Shell Single Ply with die cast rims
+      l5: Set of 4 Ludwig Timpani (23’’, 26’’, 29’’, 32’’)
 
-  p5: Applicants auditioning for doubling instrument positions should prepare 1 additional piece for each doubling instrument. Orchestral excerpts are acceptable.
+  p6: Applicants auditioning for doubling instrument positions should prepare 1 additional piece for each doubling instrument. Orchestral excerpts are acceptable.
+  harp:
+    title: Harp
+    value: Any scale 3 octaves, hands together, BPM 80+
+  piano:
+    title: Piano
+    value: Ab major parallel motion scale 4 octaves hands together BPM=104. F# minor tonic four note chord broken alternate-note pattern 2 octaves (ending with I-IV-164-V-I chord progression) hand together BPM=80.
   violin:
     title: Violin, Cello, Flute/Piccolo
     value: D major 3 octaves.
@@ -442,24 +458,15 @@ auditions:
   clarinet:
     title: Clarinet/Bass Clarinet
     value: F major 3 octaves.
-  brass:
-    title: Brass, Bassoon, & Bass
-    value: any 2 octave scale.
   percussion:
     title: Percussion (on the Xylophone)
     value: Bb major 2 octaves and a third (Bb to D), alternating sticks starting on the left hand. BPM=80.
-  harp:
-    title: Harp
-    value: Any 3 octaves HT, BPM+80.
-  piano:
-    title: Piano
-    value: Ab major parallel motion scale 4 octaves HT, BPM=104. F# minor tonic four note chord broken alternate-note pattern 2 octaves (ending with I-IV-164-V-I chord progression) HT, BPM=80.
   results:
     title: Audition Results
     p: All applicants will be informed of the outcome of their audition. It is possible that successful musicians be called for all, or some concerts. All applicants will be made aware of which class of musicians they belong to as well as if they have been selected for the Orchestral Development Bursary or any other form of remuneration.
   membership:
     title: Membership Information
-    p1: The OPO is classified as a semi professional orchestra consisting of a mixture of community and professional musicians. The OPO concert season runs from September to mid-May, with weekly rehearsals occurring on Sunday evenings from 6pm to 9pm (with occasional sectionals Fridays 6:30pm to 9:30pm) in room 109 of Perez Hall, 610 Cumberland St. Applicants are asked to ensure they can fully commit to the concert schedule for which they are participating. Accepted musicians may not miss more than one rehearsal per concert period. Dress rehearsals are mandatory, no exceptions. Applicants should be available for all concerts of the season (November 8-9 2019, March 20-21 2020, May 15-16 2020) and should indicate at the audition if they have a scheduling conflict with dress rehearsals or concerts.
+    p1: The OPO is classified as a semi professional orchestra consisting of a mixture of community and professional musicians. The OPO concert season runs from September to mid-May, with weekly rehearsals occurring on Sunday evenings from 6pm to 9pm (with occasional sectionals Fridays 6:30pm to 9:30pm) in room 109 of Perez Hall, 610 Cumberland St. Applicants are asked to ensure they can fully commit to the concert schedule for which they are participating. Accepted musicians may not miss more than one rehearsal per concert period. Dress rehearsals are mandatory, no exceptions. Applicants should be available for all concerts of the season and should indicate at the audition if they have a scheduling conflict with dress rehearsals or concerts.
     p2: All members must re-audition each season for placement.
 
 conductors:
@@ -483,7 +490,6 @@ support:
   p3: "You can also send us an  e-transfer to <a style='color: #920503; font-weight: 900;' href='mailto:sales@ottawapopsorchestra.ca'>sales@ottawapopsorchestra.ca</a>."
   link: https://checkout.square.site/buy/WTZ5KTM3LSSCFFB36VLXCVY2?fbclid=IwAR1jmvZS2x8OxX8hhh6S5Lb7YSaTB24qLgD7APYF4F3-jFr49fjuIn8fvk4
   button: Donate
-
 
 contact:
   artisticDirector: "Artistic Director"
@@ -620,7 +626,7 @@ concerts:
       subtitle: /ˈmistrəl/
       def:
         p1: noun
-        l1:  strong, cold northwesterly wind that blows through the Rhône valley and southern France into the Mediterranean, mainly in winter.
+        l1: strong, cold northwesterly wind that blows through the Rhône valley and southern France into the Mediterranean, mainly in winter.
       p: We continue our concert series with this exciting ensemble comprising the flute, oboe, clarinet, horn and bassoon. A fellow student and friend of Ludwig van Beethoven, Danzi is often regarded as the father of the wind quintet. Wrap yourselves in warm blankets and brace yourselves for the moving sounds of this wind quintet. Concert premiering on Friday, December 11th at 7pm.
     instrum:
       title: "Instrumentalists: "
@@ -646,7 +652,7 @@ concerts:
       subtitle: [ˈvaltʔaɪ̯nzaːmkaɪ̯t]
       def:
         p1: German noun
-        l1:  the feeling of solitude in the woods
+        l1: the feeling of solitude in the woods
       p: In this program featuring the music of Mozart and Brahms, we find ourselves in an ancient forest grove contemplating the timelessness of these works. Mozart’s formal structures in perfect sonata form open this concert, giving way to the music of Brahms combining styles of the past and present by setting rich harmonies and emotionally dramatic music to formal structures. Finally, Brahms’s Horn Trio magnifies the merging of the abstract and the elemental abandoning elaborate rhetoric for a more linear, logical procession of ideas all the while calling out from a place of unexamined instinct, stirred by familial love and loss.
     program:
       title: Program
@@ -659,7 +665,7 @@ concerts:
       p1_b: IV. Allegro con brio
       i1: <b>Christine Beattie</b>, horn
       i2: <b>Trevor Wilson</b>, violin
-      i3:  <b>Cheng Hue</b>, piano
+      i3: <b>Cheng Hue</b>, piano
 
   VGS:
     title: Video Game Symphony

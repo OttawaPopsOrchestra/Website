@@ -17,66 +17,158 @@ permalink: /auditions/
             <p>{% t auditions.p2 %}</p>
             <p>{% t auditions.p3 %}</p>
             <p>{% t auditions.p4 %}</p>
+            <hr/>
+            <p>{% t auditions.p5 %}</p>
             <div style="margin-top: 20px; width: 100%;" class="accordion" id="accordionExample">
               <div class="card">
                 <div class="card-header" id="headingOne">
                   <h6>
                     <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                      {% t auditions.percussionists.title %} <i class="fas fa-caret-down"></i>
+                      {% t auditions.strings.title %} <i class="fas fa-caret-down"></i>
                     </button>
                   </h6>
                 </div>
                 <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                <div style="margin-top: 20px; width: 100%;" class="accordion" id="accordionExample-A">
+                <div class="card" style="margin-left: 1em;">
+                  <div class="card-header" id="headingOne">
+                    <h4 style="background: grey;">
+                      <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne-A" aria-expanded="true" aria-controls="collapseOne">
+                        {% t auditions.strings.concertMaster.title %} <i class="fas fa-caret-down"></i>
+                      </button>
+                    </h4>
+                  </div>
+                  <div id="collapseOne-A" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample-A">
+                    <div class="card-body">
+                      <p>{% t auditions.strings.concertMaster.p1 %}</p>
+                      <h5><strong>{% t auditions.scales %}</strong></h5>
+                      <ul>
+                        <li>{% t auditions.strings.scales.val %}</li>
+                      </ul>
+                      <h5><strong>{% t auditions.excerpts %}</strong></h5>
+                      <ul>
+                        <li>{% t auditions.strings.excerpts.val1 %}</li>
+                        <li>{% t auditions.strings.excerpts.val2 %}</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
                   <div class="card-body">
-                    <p>{% t auditions.percussionists.p1 %}</p>
-                    <p>{% t auditions.percussionists.p2 %}</p>
-                    <p>{% t auditions.percussionists.p3 %}</p>
-                    <h6>{% t auditions.percussionists.live %}</h6>
+                    <h5><strong>{% t auditions.scales %}</strong></h5>
+                    <p>{% t auditions.strings.scales.p1 %}</p>
                     <ul>
-                      <li>Deagan 1558 2.5 Octave Glockenspiel  </li>
-                      <li>Musser 4.0 Octave Xylophone </li>
-                      <li>Yamaha 4.3 Octave Acoustalon Marimba</li>
-                      <li>Fibes 14x4 Maple Shell Single Ply with die cast rims</li>
-                      <li>{% t auditions.percussionists.timp %}</li>
+                      <li>{% t auditions.strings.scales.l1 %}</li>
+                      <li>{% t auditions.strings.scales.l2 %}</li>
+                      <li>{% t auditions.strings.scales.l3 %}</li>
+                      <li>{% t auditions.strings.scales.l4 %}</li>
                     </ul>
                   </div>
                 </div>
               </div>
             </div>
-            <div style="margin-top: 20px; width: 100%;" class="accordion" id="accordionExample2">
-                  <div class="card">
-                    <div class="card-header" id="headingOne-2">
-                      <h6>
-                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne-2" aria-expanded="true" aria-controls="collapseOne">
-                          {% t auditions.master.title %} <i class="fas fa-caret-down"></i>
-                        </button>
-                      </h6>
-                    </div>
-                    <div id="collapseOne-2" class="collapse" aria-labelledby="headingOne-2" data-parent="#accordionExample2">
-                      <div class="card-body">
-                        <p>{% t auditions.master.p1 %}</p>
-                        <h5><strong>{% t auditions.master.reqs.title %}</strong></h5>
-                        <p>{% t auditions.master.reqs.p1 %}</p>
-                        <div style="margin-left: 20px;">
-                            <h5><strong>{% t auditions.master.reqs.scales.title %}</strong></h5>
-                            <p>{% t auditions.master.reqs.scales.val %}</p>
-                            <h5><strong>{% t auditions.master.reqs.excerpts.title %}</strong></h5>
-                            <ul>
-                              <li>{% t auditions.master.reqs.excerpts.val1 %}</li>
-                              <li>{% t auditions.master.reqs.excerpts.val2 %}</li>
-                            </ul>
-                            <h5><strong>{% t auditions.master.reqs.pieces.title %}</strong></h5>
-                            <p>{% t auditions.master.reqs.pieces.val %}</p>
-                        </div>
-                        <h5><strong>{% t auditions.master.comp.title %}</strong></h5>
-                        <p>{% t auditions.master.comp.val %}</p>
-                        <h5><strong>{% t auditions.master.details.title %}</strong></h5>
-                        <p>{% t auditions.master.details.val %}</p>
-                      </div>
-                    </div>
+            <div style="margin-top: 20px; width: 100%;" class="accordion" id="accordionExample-4">
+              <div class="card">
+                <div class="card-header" id="headingOne">
+                  <h6>
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                      {% t auditions.woodwinds.title %} <i class="fas fa-caret-down"></i>
+                    </button>
+                  </h6>
+                </div>
+                <div id="collapseFour" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample-4">
+                  <div class="card-body">
+                    <ul>
+                      <li>{% t auditions.woodwinds.p1 %}</li>
+                      <li>{% t auditions.woodwinds.p2 %}</li>
+                      <li>{% t auditions.woodwinds.p3 %}</li>
+                      <li>{% t auditions.woodwinds.p4 %}</li>
+                    </ul>
                   </div>
                 </div>
-            <br><p>{% t auditions.p5 %}</p>
+              </div>
+            </div>
+            <div style="margin-top: 20px; width: 100%;" class="accordion" id="accordionExample-5">
+              <div class="card">
+                <div class="card-header" id="headingOne">
+                  <h6>
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+                      {% t auditions.brass.title %} <i class="fas fa-caret-down"></i>
+                    </button>
+                  </h6>
+                </div>
+                <div id="collapseFive" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample-5">
+                  <div class="card-body">
+                    <ul>
+                      <li>{% t auditions.brass.p1 %}</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div style="margin-top: 20px; width: 100%;" class="accordion" id="accordionExample-2">
+              <div class="card">
+                <div class="card-header" id="headingOne">
+                  <h6>
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                      {% t auditions.percussionists.title %} <i class="fas fa-caret-down"></i>
+                    </button>
+                  </h6>
+                </div>
+                <div id="collapseTwo" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample-2">
+                  <div class="card-body">
+                    <p>{% t auditions.percussionists.p1 %}</p>
+                    <p>{% t auditions.percussionists.p2 %}</p>
+                    <p>{% t auditions.percussionists.p3 %}</p>
+                    <h6>{% t auditions.percussionists.live.title %}</h6>
+                    <ul>
+                      <li>{% t auditions.percussionists.live.l1 %}</li>
+                      <li>{% t auditions.percussionists.live.l2 %}</li>
+                      <li>{% t auditions.percussionists.live.l3 %}</li>
+                      <li>{% t auditions.percussionists.live.l4 %}</li>
+                      <li>{% t auditions.percussionists.live.l5 %}</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div style="margin-top: 20px; width: 100%;" class="accordion" id="accordionExample-6">
+              <div class="card">
+                <div class="card-header" id="headingOne">
+                  <h6>
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+                      {% t auditions.harp.title %} <i class="fas fa-caret-down"></i>
+                    </button>
+                  </h6>
+                </div>
+                <div id="collapseSix" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample-6">
+                  <div class="card-body">
+                    <ul>
+                      <li>{% t auditions.harp.value %}</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div style="margin-top: 20px; width: 100%;" class="accordion" id="accordionExample-7">
+              <div class="card">
+                <div class="card-header" id="headingOne">
+                  <h6>
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+                      {% t auditions.piano.title %} <i class="fas fa-caret-down"></i>
+                    </button>
+                  </h6>
+                </div>
+                <div id="collapseSeven" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample-7">
+                  <div class="card-body">
+                    <ul>
+                      <li>{% t auditions.piano.value %}</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <br><p>{% t auditions.p6 %}</p>
             <ul>
               <li><strong><em>{% t auditions.violin.title %}:</em></strong> {% t auditions.violin.value %}</li>
               <li><strong><em>{% t auditions.viola.title %}:</em></strong> {% t auditions.viola.value %}</li>
