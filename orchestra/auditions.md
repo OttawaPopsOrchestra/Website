@@ -168,17 +168,6 @@ permalink: /auditions/
                 </div>
               </div>
             </div>
-            <br><p>{% t auditions.p6 %}</p>
-            <ul>
-              <li><strong><em>{% t auditions.violin.title %}:</em></strong> {% t auditions.violin.value %}</li>
-              <li><strong><em>{% t auditions.viola.title %}:</em></strong> {% t auditions.viola.value %}</li>
-              <li><strong><em>{% t auditions.oboe.title %}:</em></strong> {% t auditions.oboe.value %}</li>
-              <li><strong><em>{% t auditions.clarinet.title %}:</em></strong> {% t auditions.clarinet.value %}</li>
-              <li><strong><em>{% t auditions.brass.title %}:</em></strong> {% t auditions.brass.value %}</li>
-              <li><strong><em>{% t auditions.percussion.title %}:</em></strong> {% t auditions.percussion.value %}</li>
-              <li><strong><em>{% t auditions.harp.title %}:</em></strong> {% t auditions.harp.value %}</li>
-              <li><strong><em>{% t auditions.piano.title %}:</em></strong> {% t auditions.piano.value %}</li>
-            </ul>
             <br><h1>{% t auditions.results.title %}</h1>
             <p>{% t auditions.results.p %}</p>
             <br><h1>{% t auditions.membership.title %}</h1>

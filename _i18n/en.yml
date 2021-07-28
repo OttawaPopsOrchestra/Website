@@ -438,29 +438,12 @@ auditions:
       l3: Yamaha 4.3 Octave Acoustalon Marimba
       l4: Fibes 14x4 Maple Shell Single Ply with die cast rims
       l5: Set of 4 Ludwig Timpani (23’’, 26’’, 29’’, 32’’)
-
-  p6: Applicants auditioning for doubling instrument positions should prepare 1 additional piece for each doubling instrument. Orchestral excerpts are acceptable.
   harp:
     title: Harp
     value: Any scale 3 octaves, hands together, BPM 80+
   piano:
     title: Piano
     value: Ab major parallel motion scale 4 octaves hands together BPM=104. F# minor tonic four note chord broken alternate-note pattern 2 octaves (ending with I-IV-164-V-I chord progression) hand together BPM=80.
-  violin:
-    title: Violin, Cello, Flute/Piccolo
-    value: D major 3 octaves.
-  viola:
-    title: Viola
-    value: G major 3 octaves.
-  oboe:
-    title: Oboe/English Horn
-    value: E-flat major 2 octaves.
-  clarinet:
-    title: Clarinet/Bass Clarinet
-    value: F major 3 octaves.
-  percussion:
-    title: Percussion (on the Xylophone)
-    value: Bb major 2 octaves and a third (Bb to D), alternating sticks starting on the left hand. BPM=80.
   results:
     title: Audition Results
     p: All applicants will be informed of the outcome of their audition. It is possible that successful musicians be called for all, or some concerts. All applicants will be made aware of which class of musicians they belong to as well as if they have been selected for the Orchestral Development Bursary or any other form of remuneration.

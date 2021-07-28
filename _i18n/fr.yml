@@ -445,22 +445,12 @@ auditions:
       l4: Caisse claire - Fibes 4’’x14’’ Maple Shell Single Ply with die cast rims
       l5: Jeu de 4 timbales Ludwig (23’’, 26’’, 29’’, 32’’)
 
-  p6: Toutes les gammes doivent être jouées à 60 PPM (minimum) à moins d’indication contraire, en doubles croches ascendantes et descendantes (8 notes par coup d’archet pour les cordes).
   harp:
     title: Harp
     value: 3 octaves de votre choix, mains ensemble, PPM  80+
   piano:
     title: Piano
     value: La bémol majeur à motion parallèle de 4 octaves, mains ensemble, 104 PPM. Accord brisé à 4 notes Fa dièse mineur tonique avec alternation des notes de 2 octaves (finissant avec la progression d’accord I-IV-164-V-I) mains ensemble 80 PPM.
-  oboe:
-    title: Hautbois/cor anglais
-    value: mi bémol majeur de 2 octaves.
-  clarinet:
-    title: Clarinette/clarinette-basse
-    value: mi majeur de 3 octaves.
-  percussion:
-    title: Percussion (au xylophone)
-    value: si bémol majeur de 2 octaves et un troisième (si bémol à ré), alternation de bâtons à partir de la main gauche. 80 PPM.
   results:
     title: RÉSULTATS D’AUDITION
     p: Tous les candidats seront informés des résultats des auditions. Il est possible que les musiciens acceptés seront appelés à jouer pour tout ou quelques-uns des concerts. Tous les candidats seront avisés de quelle classe de musiciens à laquelle ils appartiennent et si la Bourse de développement orchestral leur a été décernée.
