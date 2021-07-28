@@ -423,8 +423,8 @@ auditions:
       l2: Alto - Sol majeur 3 octaves
       l3: Violoncelle – Ré majeur 3 octaves
       l4: Contrebasse – n’importe quelle gamme 2 octaves
-  Bois:
-    title: Woodwinds
+  woodwinds:
+    title: Bois
     p1: Flûte/piccolo – Ré majeur 3 octaves
     p2: Hautbois/cor anglais – Mi bémol majeur 2 octaves
     p3: Clarinette/clarinette basse - Fa majeur 3 octaves
@@ -433,7 +433,7 @@ auditions:
     title: Cuivres
     p1: Tous les cuivres – n’importe quelle gamme 2 octaves
   percussionists:
-    title: Percussionists
+    title: Percussionistes
     p1: Les percussionnistes doivent préparer au minimum un extrait à la caisse claire et un extrait à maillets (marimba/xylophone/etc.). Les postulants peuvent préparer des pièces supplémentaires utilisant d’autres instruments tant que la durée totale de l’audition ne dépasse pas 12 minutes.
     p2: L’OPO ne fournit aucune baguette/maillet à l’audition. Pour les auditions en personne, les candidats doivent apporter les leurs.
     p3: Les candidats peuvent également apporter leur propre caisse claire à l’audition.
@@ -446,14 +446,17 @@ auditions:
       l5: Jeu de 4 timbales Ludwig (23’’, 26’’, 29’’, 32’’)
 
   harp:
-    title: Harp
+    title: Harpe
     value: 3 octaves de votre choix, mains ensemble, PPM  80+
   piano:
     title: Piano
     value: La bémol majeur à motion parallèle de 4 octaves, mains ensemble, 104 PPM. Accord brisé à 4 notes Fa dièse mineur tonique avec alternation des notes de 2 octaves (finissant avec la progression d’accord I-IV-164-V-I) mains ensemble 80 PPM.
+<<<<<<< HEAD
   results:
     title: RÉSULTATS D’AUDITION
     p: Tous les candidats seront informés des résultats des auditions. Il est possible que les musiciens acceptés seront appelés à jouer pour tout ou quelques-uns des concerts. Tous les candidats seront avisés de quelle classe de musiciens à laquelle ils appartiennent et si la Bourse de développement orchestral leur a été décernée.
+=======
+>>>>>>> 0475ccd199c5c22843eae739c3ac11b6ace82557
   membership:
     title: INFORMATION DE MEMBRIÉTÉ
     p1: L’OPO se qualifie d’orchestre semi-professionnel comprenant un mélange de musiciens communautaires et professionnels. La saison de l’OPO se déroule de septembre à mi-mai avec des répétitions hebdomadaires les dimanches soirs de 18 h à 21 h (avec certaines répétitions par section les vendredis de 18 h 30 à 21 h 30) dans la salle 109 du pavillon Perez, 610, rue Cumberland. Les candidats sont demandés d’assister à toutes les répétitions à l’horaire pour la période de répétitions à laquelle ils participent. Les musiciens acceptés ne peuvent rater plus qu’une répétition par période de concert. Les répétitions générales sont obligatoires, sans exception. Les candidats devraient être disponibles pour tous les concerts de la saison et devraient spécifier à l’audition s’il y a un conflit d’horaire avec les répétitions générales ou les concerts.
