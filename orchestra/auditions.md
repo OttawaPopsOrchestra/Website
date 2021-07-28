@@ -168,12 +168,8 @@ permalink: /auditions/
                 </div>
               </div>
             </div>
-<<<<<<< HEAD
             <br><h1>{% t auditions.results.title %}</h1>
             <p>{% t auditions.results.p %}</p>
-=======
-            <br><p>{% t auditions.p6 %}</p>
->>>>>>> 0475ccd199c5c22843eae739c3ac11b6ace82557
             <br><h1>{% t auditions.membership.title %}</h1>
             <p>{% t auditions.membership.p1 %}</p>
             <p>{% t auditions.membership.p2 %}</p>
