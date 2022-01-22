@@ -673,3 +673,19 @@ concerts:
     refund: Message concernant les remboursements et échanges
     description: "Veuillez conserver vos billets puisque tous les détenteurs de billets verront leurs billets transférés aux nouvelles dates de représentations. Les détenteurs de billets qui ne peuvent pas assister aux nouvelles dates de représentations peuvent demander un remboursement en contactant directement la billetterie des Théâtres Meridian. Sachez que les employés municipaux travaillent à domicile et que les lignes téléphoniques sont fermées. Veuillez contacter notre billetterie par e-mail à <a href='billetterietmtcpboxoffice@ottawa.ca' style='color: #920503'>billetterietmtcpboxoffice@ottawa.ca</a>, en joignant vos demandes de remboursement ou d'échange.   "
     description2: Mettez vos chaussures de danse et qu’on monte le son, le meilleur de Broadway vient à Ottawa au printemps 2020! L’Orchestre Pops d’Ottawa vous invite à “Pops sur Broadway!”, qui se tiendra au Théâtres Meridian @ Centrepointe le 16 mai 2020. Nous promettons une soirée pleine de rires, de triomphes et de mélodies dansantes qui plairont à toute la famille! Venez écouter vos chansons favorites des spectacles comme Evita, Les Misérables, Wicked, West Side Story, et encore plus, présentées par un orchestre symphonique et d’excellents chanteurs !
+
+callForScores:
+  header: Call For Scores
+  title: Initiative canadienne de travaux neufs
+  preview: Appel à tous les compositeurs canadiens émergents ! L'Orchestre pop d’Ottawa a le plaisir d'annoncer un appel ouvert pour des partitions originales de compositeurs canadiens qui seront interprétées en direct devant un public et par diffusion en direct.
+  button: LIRE PLUS
+  p1: OPO est de retour ! Bien reposé après une longue pause Covid, OPO est fier de lancer un appel ouvert pour de la nouvelle musique créée par des compositeurs canadiens. Cinq lauréats recevront chacun un prix de 500 $ et présenteront leurs œuvres lors d'un concert en personne en mars à l'église Knox d'Ottawa.
+  p2: Cet événement est gratuit. Les dons sont les bienvenus.
+  p3: En ces temps difficiles et incertains, OPO rend la musique en direct à notre communauté afin que nous puissions tous à nouveau partager cette puissante expérience collective qu'est la musique en direct. À cette fin, et pour soutenir les compositeurs et musiciens canadiens jeunes et émergents, les lauréats de cet appel ouvert se verront offrir une plateforme pour présenter leur œuvre devant un public en direct tout en étant diffusée en direct. L'événement se déroulera à capacité réduite et respectera toutes les directives provinciales en vigueur en matière de santé et de sécurité.
+  app:
+    title: Conditions d'application
+    li1: Le concours est ouvert à tout compositeur canadien âgé de moins de 35 ans.
+    li2: Les œuvres doivent durer entre 5 et 20 minutes et être destinées à un petit ensemble de chambre de 3 à 5 musiciens.
+    li3: La date limite de soumission est le 28 février 2022 à 23 h 59 HNE.
+  p4: Veuillez soumettre les candidatures dûment remplies à **
+  p5: Les soumissions seront examinées par le comité de sélection composé de 3 personnes et sélectionnées avant le 3 mars 2022. Les gagnants seront annoncés le vendredi 4 mars.

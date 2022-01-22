@@ -261,7 +261,6 @@ h6 {
 }
 
 #donate-button {
-  
 }
 
 .about-us-main {
@@ -864,9 +863,6 @@ a:hover {
   height: 180px;
 }
 
-.carousel-computer {
-}
-
 .carousel-mobile {
   display: none;
 }
@@ -947,10 +943,6 @@ h6 {
   text-align: center !important;
 }
 
-#people-paragraph {
-  /*padding-top: 60px;*/
-}
-
 .season-graphic {
   text-align: center;
   padding: 2vh 2vh 0vh;
@@ -994,6 +986,42 @@ h6 {
 #seating-prices {
   width: 45vw;
   height: auto;
+}
+
+.callForScores {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  background-color: white;
+  margin: 20px 50px;
+  font-size: 18px;
+}
+
+.callForScores h3 {
+  text-transform: uppercase;
+  color: #920503;
+  margin: 0 auto;
+  padding-bottom: 1.5em;
+}
+
+.callForScores .card {
+  width: 90%;
+  margin: 0 auto;
+  line-height: normal;
+}
+
+.callForScores .written {
+  font-size: 15px;
+}
+
+.callForScores .written h5 {
+  padding-top: 1em;
+}
+
+.callForScores .card button {
+  margin-top: 1em;
 }
 
 @media (max-width: 1200px) {
@@ -1292,7 +1320,8 @@ h6 {
     margin-top: 60px;
   }
 
-  .matinee-info {
+  .matinee-info,
+  .callForScores {
     padding: 20px;
     margin: 20px 0px;
     font-size: 18px;
@@ -1304,6 +1333,14 @@ h6 {
 
   .matinee-info a:hover {
     font-size: initial !important;
+  }
+
+  .callForScores .card {
+    text-align: center;
+  }
+
+  .callForScores h3 {
+    padding-bottom: 0.5em;
   }
 
   .auditions {
