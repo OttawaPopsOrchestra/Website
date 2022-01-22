@@ -9,7 +9,7 @@ pages:
   concerts: Concerts
   orchestra: Orchestre
   community: Communauté
-  support: Soutenez-nous
+  support: Participez
   contact: Contactez-nous
   programming: Programmes
 
@@ -472,7 +472,8 @@ conductors:
   trevor: Trevor Wilson est un chef d’orchestre, compositeur et violoniste originaire d’Ottawa qui complète actuellement sa maîtrise en direction orchestrale au Peabody Institute sous la tutelle de Marin Alsop. En tant que violoniste, il joua fréquemment comme membre de l’Orchestre symphonique d’Ottawa et fut en tournée avec l’Orchestre national des jeunes du Canada en 2015. En obtenant son baccalauréat, Trevor occupa le rôle de chef d’orchestre de l’Orchestre Pop de l’Université d’Ottawa pendant deux ans et il fut chef d’orchestre invité de l’Orchestre symphonique de Pembroke. À la suite de l’obtention de son baccalauréat en violon à l’Université d’Ottawa sous la tutelle de Yehonatan Berick, il fut nommé directeur musical du nouvel Orchestre Pop d’Ottawa en automne 2017. Récemment, Trevor participa à plusieurs festivals et ateliers internationaux en direction musicale, ayant été instruit par de nombreux pédagogues renommés, dont Mark Shapiro, David Effron et Neil Varon. De plus, il se rendit à Budapest où il joua avec le Dohnányi Orchestra Budafok en tant que participant du 2018 Dohnányi Conducting Academy sous la tutelle du maestro Gábor Hollerung. Cet été, Trevor travaillera avec maestro Boris Brott sous le rôle de chef d’orchestre adjoint de l’Orchestre de l’académie nationale.
   matthew: Il occupa le rôle de directeur musical de l’église St-Matthew et la cathédrale Christ Church. De plus, il fut le directeur musical de la Chorale anglicane, la Société chorale d’Ottawa et la Chorale de chambre Euphonia. Il collabora fréquemment avec des ensembles instrumentaux comme soliste et chef d’orchestre invité. Il fut organiste, entre autres, avec l’ensemble Gabrieli Consort, l’Orchestre du Centre national des Arts, l’Orchestre symphonique d’Ottawa, l’Orchestre symphonique de Victoria, le Theatre of Early Music et l’Orchestre symphonique de Toronto. Membre du Collège royal canadien des organistes, ses concerts se firent entendre à travers le Canada, les États-Unis, le Royaume-Uni, la France, l’Italie et la Chine. Actuellement, il est le directeur musical de l’église St-Thomas à Toronto et il est le directeur artistique fondateur du Caelis Academy Ensemble à Ottawa. Matthew est représenté par Domoney Artists Management.
 
-support:
+donate:
+  header: Donner
   preview: Nous sommes motivés d’enrichir et d'inspirer la communauté par le biais de la performance et de redéfinir l'expérience orchestrale, mais nous avons besoin de vos contributions pour y parvenir. Vos dons nous aident à continuer à jouer.
   fullText: "L'Orchestre Pop d'Ottawa (OPO) s'engage à continuer à vous offrir des spectacles et de la musique en ces temps difficiles et sans précédent. Les organismes des arts du spectacle traversent une période d'incertitude et ici, à l'OPO, nous réfléchissons à ce que notre avenir peut nous réserver. Si vous le pouvez, pensez à nous soutenir à travers notre <a style='color: #920503; font-weight: 900;' href='https://ca.gofundme.com/f/c4wms-support-the-ottawa-pops-orchestra'>GoFundMe</a> ou par transfert électronique à <a style='color: #920503; font-weight: 900;' href='mailto:sales@ottawapopsorchestra.ca'>sales@ottawapopsorchestra.ca</a>. Toutes les contributions sont grandement appréciées, quel que soit le moyen le plus approprié pour vous permettre de soutenir nos diverses initiatives et opérations."
   p1: Merci de soutenir les arts du spectacle en ces temps difficiles et sans précédent!
@@ -673,3 +674,18 @@ concerts:
     refund: Message concernant les remboursements et échanges
     description: "Veuillez conserver vos billets puisque tous les détenteurs de billets verront leurs billets transférés aux nouvelles dates de représentations. Les détenteurs de billets qui ne peuvent pas assister aux nouvelles dates de représentations peuvent demander un remboursement en contactant directement la billetterie des Théâtres Meridian. Sachez que les employés municipaux travaillent à domicile et que les lignes téléphoniques sont fermées. Veuillez contacter notre billetterie par e-mail à <a href='billetterietmtcpboxoffice@ottawa.ca' style='color: #920503'>billetterietmtcpboxoffice@ottawa.ca</a>, en joignant vos demandes de remboursement ou d'échange.   "
     description2: Mettez vos chaussures de danse et qu’on monte le son, le meilleur de Broadway vient à Ottawa au printemps 2020! L’Orchestre Pops d’Ottawa vous invite à “Pops sur Broadway!”, qui se tiendra au Théâtres Meridian @ Centrepointe le 16 mai 2020. Nous promettons une soirée pleine de rires, de triomphes et de mélodies dansantes qui plairont à toute la famille! Venez écouter vos chansons favorites des spectacles comme Evita, Les Misérables, Wicked, West Side Story, et encore plus, présentées par un orchestre symphonique et d’excellents chanteurs !
+
+joinBoard:
+  header: Rejoignez notre conseil
+  p1: Nous sommes à la recherche de candidats enthousiastes intéressés à faire partie du conseil d’administration de l’Orchestre Pop d’Ottawa (OPO) pour contribuer à façonner la mission et le futur de l’OPO. Fondé en 2017, l’OPO est un organisme à but non lucratif centré sur un orchestre communautaire qui met en scène un répertoire musical accessible afin d’enrichir et d’inspirer la communauté locale avec des performances pertinentes et passionnées.
+  p2: Le conseil d’administration dirige la vision de notre organisme, supervisant stratégies et finances et contribuant savoir-faire et expertise pour soutenir l’avancement des mission et mandat de l’OPO.
+  p3: "Si vous vous intéressez aux arts de la scène, vous aimeriez contribuer au développement d’un orchestre et organisme émergents, et vous réfléchissez de façon stratégique, contactez-nous! Nous encourageons les candidatures de tous les groupes de diversité et d’équité, ce qui inclut mais ne se limite pas aux personnes handicapées, les minorités visibles, les membres de la communauté LGBTQ2+ et les femmes."
+  asset:
+    title: "Des connaissances et/ou de l’expérience dans un ou plusieurs des domaines suivants sont un atout:"
+    li1: "Expertise en collecte de fonds: soutenir notre équipe avec des stratégies pour élargir notre réseau de commanditaires et de donateurs "
+    li2: "Expertise financière: conseiller en matière de stratégie et de planification financières "
+    li3: "Expertise juridique: conseiller sur les questions juridiques, surtout par rapport au nofinancière "
+    li4: "Expertise sur la gouvernance des organismes à but non lucratif ou de charité au Canada "
+    li5: Expertise dans le domaine des arts de la scène
+  p4-a: Veuillez envoyer une manifestation d’intérêt (max. 250 mots qui esquisse votre compréhension de la vision de l’OPO et explique comment votre expérience peut appuyer notre développement) et un CV à Melissa Poon (
+  p4-b: ). Les candidatures sont acceptées en continu. Nous avons hâte de faire votre connaissance!

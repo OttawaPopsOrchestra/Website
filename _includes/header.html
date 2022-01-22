@@ -47,8 +47,14 @@
                         <a class="dropdown-item" href="{{ site.baseurl }}/stories/">{% t stories.header %}</a>
                     </div>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/support/">{% t pages.support %}</a>
+                <li class="nav-item dropdown">
+                    <div class="btn-group">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{% t pages.support %}</a>
+                    </div>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="{{ site.baseurl }}/donate/">{% t donate.header %}</a>
+                        <a class="dropdown-item" href="{{ site.baseurl }}/join-our-board/">{% t joinBoard.header %}</a>
+                    </div>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="{{ site.baseurl }}/contact/">{% t pages.contact %}</a>

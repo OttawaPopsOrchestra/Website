@@ -20,14 +20,13 @@ permalink: /support-us/
         </div>
         <div class="col-md donate-info">
           <div class="donate-description">
-              <strong><p>{% t support.p1 %}</p></strong>
-              <p>{% t support.p2 %}</p>
-              <p>{% t support.p3 %}</p>
+              <strong><p>{% t donate.p1 %}</p></strong>
+              <p>{% t donate.p2 %}</p>
+              <p>{% t donate.p3 %}</p>
               <div style="overflow: auto;">
-                <a target="_blank" href="{% t support.link %}" class="btn btn-outline-maroon">{% t support.button %}</a>
+                <a target="_blank" href="{% t donate.link %}" class="btn btn-outline-maroon">{% t donate.button %}</a>
               </div>
           </div>
         </div>
-          <hr>{% include upcoming.html %}
     </div>
 </div>
