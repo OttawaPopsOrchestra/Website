@@ -143,6 +143,17 @@ h6 {
   background-color: white !important;
 }
 
+.callForScores-story {
+  background-color: white !important;
+}
+
+.callForScores-story-title {
+  padding: 0 0 1em;
+  font-size: 2em;
+  text-align: center;
+  color: #920503";
+}
+
 .story-single-content {
   margin: 0em auto;
   width: 100%;
@@ -258,9 +269,6 @@ h6 {
 
 .main {
   margin-top: 140px;
-}
-
-#donate-button {
 }
 
 .about-us-main {
@@ -1007,9 +1015,32 @@ h6 {
 }
 
 .callForScores .card {
-  width: 90%;
+  width: 95%;
   margin: 0 auto;
   line-height: normal;
+}
+
+.callForScores .card-title {
+  font-size: 22px !important;
+  font-weight: bold !important;
+}
+
+.callForScores .card-body {
+  padding-left: 2em !important;
+}
+
+.callForScores .bold {
+  font-weight: bold !important;
+  font-size: 18px !important;
+}
+
+.callForScores .card-text {
+  color: black !important;
+
+}
+
+.callForScores a {
+  margin-left: 2em;
 }
 
 .callForScores .written {
@@ -1325,6 +1356,28 @@ h6 {
     padding: 20px;
     margin: 20px 0px;
     font-size: 18px;
+  }
+
+  .callForScores-story-title {
+    padding-bottom: 10px !important;
+  }
+
+  .callForScores img {
+    height: 20vh !important;
+  }
+
+  .callForScores .card-body {
+    padding-left: 20px !important;
+  }
+
+  .callForScores .card-list {
+    text-align: left !important;
+    padding-left: 20px !important;
+  }
+
+
+  .callForScores a {
+    margin-left: 0em;
   }
 
   .matinee-info a {

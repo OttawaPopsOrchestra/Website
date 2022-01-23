@@ -677,15 +677,12 @@ concerts:
 callForScores:
   header: Call For Scores
   title: Initiative canadienne de travaux neufs
-  preview: Appel à tous les compositeurs canadiens émergents ! L'Orchestre pop d’Ottawa a le plaisir d'annoncer un appel ouvert pour des partitions originales de compositeurs canadiens qui seront interprétées en direct devant un public et par diffusion en direct.
-  button: LIRE PLUS
-  p1: OPO est de retour ! Bien reposé après une longue pause Covid, OPO est fier de lancer un appel ouvert pour de la nouvelle musique créée par des compositeurs canadiens. Cinq lauréats recevront chacun un prix de 500 $ et présenteront leurs œuvres lors d'un concert en personne en mars à l'église Knox d'Ottawa.
-  p2: Cet événement est gratuit. Les dons sont les bienvenus.
-  p3: En ces temps difficiles et incertains, OPO rend la musique en direct à notre communauté afin que nous puissions tous à nouveau partager cette puissante expérience collective qu'est la musique en direct. À cette fin, et pour soutenir les compositeurs et musiciens canadiens jeunes et émergents, les lauréats de cet appel ouvert se verront offrir une plateforme pour présenter leur œuvre devant un public en direct tout en étant diffusée en direct. L'événement se déroulera à capacité réduite et respectera toutes les directives provinciales en vigueur en matière de santé et de sécurité.
+  p1: OPO est de retour ! Bien reposé après une longue pause Covid, OPO est fier de lancer un appel ouvert pour de la nouvelle musique créée par des compositeurs canadiens. En ces temps difficiles et incertains, OPO rend la musique en direct à notre communauté afin que nous puissions tous à nouveau partager cette puissante expérience collective qu'est la musique en direct. À cette fin, et pour soutenir les compositeurs et musiciens canadiens jeunes et émergents, les lauréats de cet appel ouvert se verront offrir une plateforme pour présenter leur œuvre devant un public en direct tout en étant diffusée en direct. L'événement se déroulera à capacité réduite et respectera toutes les directives provinciales en vigueur en matière de santé et de sécurité. Cinq lauréats recevront chacun un prix de 500 $ et présenteront leurs œuvres lors d'un concert en personne en mars à l'église Knox d'Ottawa.
   app:
     title: Conditions d'application
     li1: Le concours est ouvert à tout compositeur canadien âgé de moins de 35 ans.
     li2: Les œuvres doivent durer entre 5 et 20 minutes et être destinées à un petit ensemble de chambre de 3 à 5 musiciens.
     li3: La date limite de soumission est le 28 février 2022 à 23 h 59 HNE.
-  p4: Veuillez soumettre les candidatures dûment remplies à **
-  p5: Les soumissions seront examinées par le comité de sélection composé de 3 personnes et sélectionnées avant le 3 mars 2022. Les gagnants seront annoncés le vendredi 4 mars.
+  p2: Pour participer, veuillez soumettre les candidatures dûment en cliquant sur le bouton “Inscrivez-vous ici.”
+  p3: Les soumissions seront examinées par le comité de sélection composé de 3 personnes en utilisant un processus de sélection en aveugle. Les gagnats seront sélectionnées avant le 3 mars 2022 et annoncés le vendredi 4 mars.
+

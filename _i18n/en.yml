@@ -676,17 +676,13 @@ concerts:
 callForScores:
   header: Call For Scores
   title: Canadian New Works Initiative
-  preview: Calling all emerging Canadian composers! Ottawa Pops Orchestra (OPO) is pleased to announce an open call for original scores by Canadian composers to be performed live in front of an audience and via live stream.
-  button: "READ MORE"
   p1: OPO is back! Well rested from a long Covid hiatus, OPO is proud to be launching an open call for new music created by Canadian composers. Five winners will each receive $500 prizes and perform their works at an in- person concert in March at Ottawa’s Knox Church.
-  p2: This is a free event. Donations are welcome.
-  p3: In these difficult and uncertain times, OPO is returning live music to our community so we all can once again share in the powerful collective experience that is live music. To that end, and to support young and emerging Canadian composers and musicians, winners of this Open Call will be given a platform to perform their work in front of a live audience while also being broadcasted via live stream. The event will be at reduced capacity and will respect all current provincial health and safety guidelines.
   app:
     title: Application Requirements
     li1: Contest is open to any Canadian composer under the age of 35.
     li2: Works must be between 5 and 20 minutes in length and for small chamber ensemble of 3-5 musicians.
     li3: Deadline to submit is February 28th, 2022 at 11:59PM EST.
-  p4: Please submit completed applications to **
-  p5: Submissions will be reviewed by the selection committee comprising of 3 individuals and selected by February 3rd, 2022. Winners will be announced Friday, March 4th.
+  p2: To participate, please submit scores by clicking the “Register Here” button.
+  p3: Submissions will be reviewed by the selection committee comprising of 3 individuals using a blind selection process. Winners will be selected by February 3rd, 2022 and announced Friday, March 4th.
 
 
