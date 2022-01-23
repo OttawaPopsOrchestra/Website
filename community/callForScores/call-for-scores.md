@@ -18,7 +18,7 @@ permalink: /call-for-scores/
                 <div class="card">
                     <div class="row no-gutters">
                         <div class="col-sm-2">
-                            <img class="card-img" style="object-fit: cover; height: 465px" src="/assets/img/callForScores/thumbnail.jpg">
+                            <img class="card-img" style="object-fit: cover; height: 100%" src="/assets/img/callForScores/thumbnail.jpg">
                         </div>
                         <div class="col-sm-10">
                             <div class="card-body">
