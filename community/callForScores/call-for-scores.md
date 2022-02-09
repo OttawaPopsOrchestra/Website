@@ -42,9 +42,7 @@ permalink: /call-for-scores/
                                 <p class="card-text">{% t callForScores.p2 %}</p>
                                 <p class="card-text">{% t callForScores.p3 %}</p>
                             </div>
-                            <a id="audition-reg-web" href="#audition-reg" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a>
-                            <a id="audition-reg-mobile" href="https://docs.google.com/forms/d/e/1FAIpQLSecGvNIiQiXRxwq-qPYKx4-bCCHXNDZQYyxpMq1XmhVfCia3A/viewform?usp=sf_link" target="_blank" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a>
-                    </div>
+                            <a id="audition-reg-web" href="https://forms.gle/J3Vt1hJQ8cMe6D1P9" target="_blank" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a>
                     </div>
                 </div>
             </div>
