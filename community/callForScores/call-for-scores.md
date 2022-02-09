@@ -26,7 +26,7 @@ permalink: /call-for-scores/
                                 <div class="callForScores-story">
                                     <div class="story-single-content">
                                         <p class="story-author-publish">
-                                            INSERT DATE
+                                            {% t callForScores.date%}
                                             <i class="far fa-user story-icon"></i>
                                             <i>Sebastian Lacey</i>
                                         </p>
@@ -42,7 +42,7 @@ permalink: /call-for-scores/
                                 <p class="card-text">{% t callForScores.p2 %}</p>
                                 <p class="card-text">{% t callForScores.p3 %}</p>
                             </div>
-                            <a id="audition-reg-web" href="https://forms.gle/J3Vt1hJQ8cMe6D1P9" target="_blank" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a>
+                            <a href="https://forms.gle/J3Vt1hJQ8cMe6D1P9" target="_blank" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a>
                     </div>
                 </div>
             </div>
