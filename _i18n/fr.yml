@@ -689,3 +689,16 @@ joinBoard:
     li5: Expertise dans le domaine des arts de la scène
   p4-a: Veuillez envoyer une manifestation d’intérêt (max. 250 mots qui esquisse votre compréhension de la vision de l’OPO et explique comment votre expérience peut appuyer notre développement) et un CV à Melissa Poon (
   p4-b: ). Les candidatures sont acceptées en continu. Nous avons hâte de faire votre connaissance!
+
+callForScores:
+  header: Call For Scores
+  title: Initiative canadienne de travaux neufs
+  p1: OPO est de retour ! Bien reposé après une longue pause Covid, OPO est fier de lancer un appel ouvert pour de la nouvelle musique créée par des compositeurs canadiens. En ces temps difficiles et incertains, OPO rend la musique en direct à notre communauté afin que nous puissions tous à nouveau partager cette puissante expérience collective qu'est la musique en direct. À cette fin, et pour soutenir les compositeurs et musiciens canadiens jeunes et émergents, les lauréats de cet appel ouvert se verront offrir une plateforme pour présenter leur œuvre devant un public en direct tout en étant diffusée en direct. L'événement se déroulera à capacité réduite et respectera toutes les directives provinciales en vigueur en matière de santé et de sécurité. Cinq lauréats recevront chacun un prix de 500 $ et présenteront leurs œuvres lors d'un concert en personne en mars à l'église Knox d'Ottawa.
+  app:
+    title: Conditions d'application
+    li1: Le concours est ouvert à tout compositeur canadien âgé de moins de 35 ans.
+    li2: Les œuvres doivent durer entre 5 et 20 minutes et être destinées à un petit ensemble de chambre de 3 à 5 musiciens.
+    li3: La date limite de soumission est le 28 février 2022 à 23 h 59 HNE.
+  p2: Pour participer, veuillez soumettre les candidatures dûment en cliquant sur le bouton “Inscrivez-vous ici.”
+  p3: Les soumissions seront examinées par le comité de sélection composé de 3 personnes en utilisant un processus de sélection en aveugle. Les gagnats seront sélectionnées avant le 3 mars 2022 et annoncés le vendredi 4 mars.
+
