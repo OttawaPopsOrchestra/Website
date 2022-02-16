@@ -38,6 +38,7 @@ permalink: /call-for-scores/
                                     <li>{% t callForScores.app.li1 %}</li>
                                     <li>{% t callForScores.app.li2 %}</li>
                                     <li>{% t callForScores.app.li3 %}</li>
+                                    <li>{% t callForScores.app.li4 %}</li>
                                 </ul>
                                 <p class="card-text">{% t callForScores.p2 %}</p>
                                 <p class="card-text">{% t callForScores.p3 %}</p>
