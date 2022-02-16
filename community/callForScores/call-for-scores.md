@@ -42,7 +42,8 @@ permalink: /call-for-scores/
                                 <p class="card-text">{% t callForScores.p2 %}</p>
                                 <p class="card-text">{% t callForScores.p3 %}</p>
                             </div>
-                            <a href="https://forms.gle/J3Vt1hJQ8cMe6D1P9" target="_blank" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a>
+                            <div style="padding: 10px"><a style="color: #920503" href="/assets/pdf/Call for Scores - New Works Project.pdf" target="_blank">{% t callForScores.title %} PDF</a></div>
+                            <div><a href="https://forms.gle/J3Vt1hJQ8cMe6D1P9" target="_blank" class="btn-outline-maroon btn center">{% t auditions.regHere %}</a></div>
                     </div>
                 </div>
             </div>
