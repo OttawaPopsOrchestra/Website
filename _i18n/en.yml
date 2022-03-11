@@ -38,8 +38,8 @@ upcoming:
   title: Upcoming events
   showAll: show all concerts
   hmwDate: Nov 8
-  videoDate: march 18
-  broadDate: may 13
+  videoDate: may 13
+  broadDate: nov 6
   gladstone: dec 18
 
 about-us:
@@ -506,8 +506,8 @@ concerts:
   tickets:
     title: Tickets
     value: Tickets can be purchased online or in person at the Meridian @ Centrepointe Box Office!
-    price: Prices range from $27.00 - $62.00, student and child pricing available
-    priceVGS: Prices range from $25.75 - $50.75, student and child pricing available
+    price: Prices range from $25.75 - $50.75, student and child pricing available
+    priceVGS: Prices range from $34.00 - $50.75, student and child pricing available
 
   programNotes: Program Notes
   programOrder: Program Order
@@ -654,21 +654,23 @@ concerts:
   VGS:
     title: Video Game Symphony
     concert1:
-      date: Postponed to March 18, 2022
+      date: May 13, 2022
       time: 7:30PM
-      postponed: Postponed to October 9, 2020
-      original: March 20th 2020
-    refund: Message Regarding Refunds and Exchanges
-    description: "At this time, please hold on to your tickets as all ticket holders will have their tickets transferred to the new performance dates. Ticket holders who are not able attend the new performance dates may request a refund by contacting the Meridian Theatres Box Office directly. Please be aware that city employees are working from home and that the phone lines are closed. Please contact our box office at <a href='billetterietmtcpboxoffice@ottawa.ca' style='color: #920503'>billetterietmtcpboxoffice@ottawa.ca</a> with your refund or exchange requests.  "
+    concert2:
+      date: May 14, 2022
+      time: 7:30PM
+    refund: Safety measures in place
+    description: "In order to create the safest and most comfortable environment possible for our audiences, artists and employees, the Ottawa Pops Orchestra will continue to require proof of vaccination until further notice. Patrons will also be required to wear a mask in the venue, and while seated in the performance halls. Additionally, as of March 1st 2022, capacity limits have been lifted, and physical distancing is no longer required. "
     description2: "Calling all mages and warriors: the chance to step into your favourite realm has arrived, with the Video Game Symphony! Adventure calls at 7:30 PM on March 21st 2020. Relive the thrill of some of the best video games with the conductor of the Montreal Video Game Orchestra and OPO favourite, Jonathan Dagenais! Experience the magnificence of a full LIVE orchestra accompanied by a cinematic video projection."
 
   broadway:
     title: Pops, On Broadway!
     concert1:
-      date: Postponed to May 13, 2022
-      time: 7:30PM
-      postponed: Postponed to October 9, 2020
-      original: May 16 2020
+      date: November 6, 2022
+      time: 7:00PM
+    concert2:
+      date: November 7, 2022
+      time: 7:00PM
     postponed: Postponed to November 14, 2020
     refund: Message Regarding Refunds and Exchanges
     description: "At this time, please hold on to your tickets as all ticket holders will have their tickets transferred to the new performance dates. Ticket holders who are not able attend the new performance dates may request a refund by contacting the Meridian Theatres Box Office directly. Please be aware that city employees are working from home and that the phone lines are closed. Please contact our box office <a href='billetterietmtcpboxoffice@ottawa.ca' style='color: #920503'>billetterietmtcpboxoffice@ottawa.ca</a> with your refund or exchange requests.  "

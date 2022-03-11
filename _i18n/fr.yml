@@ -38,8 +38,8 @@ upcoming:
   title: Événements à venir
   showAll: Tous les concerts
   hmwDate: le 8 nov
-  videoDate: le 18 mars
-  broadDate: le 13 mai
+  videoDate: le 13 mai
+  broadDate: le 6 nov
   gladstone: le 18 déc
 
 about-us:
@@ -656,10 +656,11 @@ concerts:
   VGS:
     title: Symphonie de jeux vidéo
     concert1:
-      date: Remis au 18 mars 2022
+      date: le 13 mai 2022
       time: 19 h 30
-      postponed: Remis au 9 octobre 2020
-      original: le 20 mars 2020
+    concert2:
+      date: le 14 mai 2022
+      time: 19 h 30
     refund: Message concernant les remboursements et échanges
     description: "Veuillez conserver vos billets puisque tous les détenteurs de billets verront leurs billets transférés aux nouvelles dates de représentations. Les détenteurs de billets qui ne peuvent pas assister aux nouvelles dates de représentations peuvent demander un remboursement en contactant directement la billetterie des Théâtres Meridian. Sachez que les employés municipaux travaillent à domicile et que les lignes téléphoniques sont fermées. Veuillez contacter notre billetterie par e-mail à <a href='billetterietmtcpboxoffice@ottawa.ca' style='color: #920503'>billetterietmtcpboxoffice@ottawa.ca</a>, en joignant vos demandes de remboursement ou d'échange.   "
     description2: "Nous lançons l’appel à tous les mages et guerriers : la chance d’embarquer dans votre domaine préféré est arrivée avec La Symphonie de jeux vidéo ! L’aventure débute à 18 h 30 le 21 mars 2020. Revivez la musique des meilleurs jeux, de grands classiques au nouveaux arrivés. Tous seront dirigés par le chef d’orchestre de l’Orchestre de Jeux Vidéo de Montréal et de l’Orchestre Pop d’Ottawa, Jonathan Dagenais ! Témoignez de la splendeur d’un orchestre complet EN DIRECT, accompagné d’une projection cinématique."
@@ -667,10 +668,11 @@ concerts:
   broadway:
     title: Pops sur Broadway!
     concert1:
-      date: Remis au 13 mai 2022
-      time: 14 h 30
-      postponed: Remis au 14 novembre 2020
-      original: le 16 mai 2020
+      date: le 6 novembre 2022
+      time: 19 h
+    concert2:
+      date: le 7 novembre
+      time: 19 h
     refund: Message concernant les remboursements et échanges
     description: "Veuillez conserver vos billets puisque tous les détenteurs de billets verront leurs billets transférés aux nouvelles dates de représentations. Les détenteurs de billets qui ne peuvent pas assister aux nouvelles dates de représentations peuvent demander un remboursement en contactant directement la billetterie des Théâtres Meridian. Sachez que les employés municipaux travaillent à domicile et que les lignes téléphoniques sont fermées. Veuillez contacter notre billetterie par e-mail à <a href='billetterietmtcpboxoffice@ottawa.ca' style='color: #920503'>billetterietmtcpboxoffice@ottawa.ca</a>, en joignant vos demandes de remboursement ou d'échange.   "
     description2: Mettez vos chaussures de danse et qu’on monte le son, le meilleur de Broadway vient à Ottawa au printemps 2020! L’Orchestre Pops d’Ottawa vous invite à “Pops sur Broadway!”, qui se tiendra au Théâtres Meridian @ Centrepointe le 16 mai 2020. Nous promettons une soirée pleine de rires, de triomphes et de mélodies dansantes qui plairont à toute la famille! Venez écouter vos chansons favorites des spectacles comme Evita, Les Misérables, Wicked, West Side Story, et encore plus, présentées par un orchestre symphonique et d’excellents chanteurs !

@@ -5,7 +5,7 @@ permalink: /programming/popsonbroadway/
 ---
 
 <div class="content main container-fluid">
-     <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" target="_blank">
+     <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=&caller=&appCode=" target="_blank">
         <img src="/assets/img/concerts-single/programming/POBBanner.png" title="{% t concerts.broadway.title %}" alt="{% t concerts.broadway.title %}" width="100%" />
       </a>
       <div class="concert-single">
@@ -13,17 +13,17 @@ permalink: /programming/popsonbroadway/
           <div class="col-md concert-info">
             <div class="row">
               <div class="col-md-8">
-                <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" target="_blank">
-                  <h5 class="concert-title">{% t concerts.broadway.title %}  - {% t concerts.broadway.concert1.date %} </h5>
+                <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=&caller=&appCode=" target="_blank">
+                  <h5 class="concert-title">{% t concerts.broadway.title %} </h5>
                 </a>
               </div>
                 <div class="col-md">
-                    <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" class="btn btn-maroon btn-block" target="_blank">{% t concerts.buyTickets %}</a>
+                    <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=&caller=&appCode=');" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=&caller=&appCode=" class="btn btn-maroon btn-block" target="_blank">{% t concerts.buyTickets %}</a>
                     <p style="padding-top:10px">{% t concerts.meridian %}</p>
                 </div>
             </div>
             <div class="concert-description">
-              <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=');" class="ticket-link" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=undefined&caller=&appCode=" target="_blank">
+              <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=&caller=&appCode=');" class="ticket-link" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=&caller=&appCode=" target="_blank">
                 <div class="row" style="height: 30px;">
                   <div class="col-md-4">
                     <i class="far fa-calendar-alt"></i> {% t concerts.broadway.concert1.date %}
@@ -33,16 +33,16 @@ permalink: /programming/popsonbroadway/
                   </div>
                 </div>
               </a>
-              <div class="row" style="height: 30px; font-size: 18px;text-decoration: line-through;">
-                  <div class="col-md">
-                      <p>{% t concerts.broadway.concert1.postponed %}</p>
+              <a onclick="return gtag_report_conversion('https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=&caller=&appCode=');" class="ticket-link" href="https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=CT0516N&linkID=centrepointe&shopperContext=&caller=&appCode=" target="_blank">
+                <div class="row" style="height: 30px;">
+                  <div class="col-md-4">
+                    <i class="far fa-calendar-alt"></i> {% t concerts.broadway.concert2.date %}
                   </div>
-              </div>
-              <div class="row" style="height: 30px; font-size: 16px;text-decoration: line-through;">
-                  <div class="col-md">
-                      <p>{% t concerts.broadway.concert1.original %}</p>
+                  <div class="col-md-4">
+                    <i class="far fa-clock"></i> {% t concerts.broadway.concert2.time %}<br><br>
                   </div>
-              </div>
+                </div>
+              </a>
               <div class="row">
                 <div class="col-md-4">
                   <i class="fas fa-map-marker-alt"></i> {% t concerts.meridian-loc.title %}
@@ -62,7 +62,7 @@ permalink: /programming/popsonbroadway/
                 <div class="col-md">
                   <p>
                     {% t concerts.tickets.value %} <br>
-                    {% t concerts.tickets.priceVGS %} <br>
+                    {% t concerts.tickets.price %} <br>
                 </p>
                 </div>
               </div>
@@ -83,7 +83,7 @@ permalink: /programming/popsonbroadway/
                 </div>
                 <p>{% t concerts.broadway.description2 %}</p>
                 <h4>{% t concerts.VGS.refund %}</h4>
-                <p>{% t concerts.broadway.description %}</p>
+                <p>{% t concerts.VGS.description %}</p>
               </div>
                 <iframe src="https://open.spotify.com/embed/playlist/4EBL0jzb36rCwR1EFXT7kq" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="autoplay; encrypted-media"></iframe>
             </div>
