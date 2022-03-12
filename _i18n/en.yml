@@ -661,7 +661,7 @@ concerts:
       time: 7:30PM
     refund: Safety measures in place
     description: "In order to create the safest and most comfortable environment possible for our audiences, artists and employees, the Ottawa Pops Orchestra will continue to require proof of vaccination until further notice. Patrons will also be required to wear a mask in the venue, and while seated in the performance halls. Additionally, as of March 1st 2022, capacity limits have been lifted, and physical distancing is no longer required. "
-    description2: "Calling all mages and warriors: the chance to step into your favourite realm has arrived, with the Video Game Symphony! Adventure calls at 7:30 PM on March 21st 2020. Relive the thrill of some of the best video games with the conductor of the Montreal Video Game Orchestra and OPO favourite, Jonathan Dagenais! Experience the magnificence of a full LIVE orchestra accompanied by a cinematic video projection."
+    description2: "Calling all mages and warriors: the chance to step into your favourite realm has arrived, with the Video Game Symphony!Relive the thrill of some of the best video games of all time! Experience the magnificence of a full LIVE orchestra accompanied by a cinematic video projection."
 
   broadway:
     title: Pops, On Broadway!
@@ -706,3 +706,31 @@ callForScores:
   p3: Submissions will be reviewed by the selection committee comprising of 3 individuals using a blind selection process. Winners will be selected by March 3rd, 2022 and announced Friday, March 4th.
 
 
+covid:
+  updated: "Updated on: March 11 2022"
+  title: How the OPO is responding to COVID-19
+  p1: To Our Valued Patrons,
+  p2: The health and safety of our audience, musicians, and staff is deeply important to us at the Ottawa Pops Orchestra. As a result, we continue to require <b>proof of vaccination</b> until further notice. Patrons will also be required to wear a mask in the venue, and while seated in the performance halls. Additionally, as of March 1st 2022, capacity limits have been lifted, and physical distancing is no longer required.
+  p3: Please be prepared to present your vaccine certificate with unique QR code, either in printed format or digitally via your mobile device. We will also accept a paper proof of vaccination with photo ID.
+  p4: The only <b>exemptions</b> permitted are for unvaccinated people with medical exemptions and people under 12 years old. Individuals who cannot receive the vaccine due to a medical condition will need to register their exemption with the Verify Ontario mobile app. Please be prepared to present your unique QR code, either in printed format or digitally via your mobile device.
+  dates:
+    title: New Dates for Previously Postponed Shows
+    li1: The Video Game Symphony concert originally scheduled for March 21st 2020 will now occur on <u>Friday and Saturday, May 13 & 14 2022 at 7:30PM.</u>
+    li2: Pops on Broadway concert originally scheduled for May 16th 2020 will now occur on <u>Sunday and Monday, November 6 & 7 2022 at 7:00PM.</u>
+    p: Both shows will take place at the Meridian Theatres @ Centrepointe, 101 Centrepointe Drive.
+  refund:
+    title: Message Regarding Refunds and Exchanges
+    p: At this time, please hold on to your tickets as all ticket holders will have their tickets transferred to the new performance dates. Ticket holders who are not able to attend the new performance dates may request a refund by contacting the Meridian Theatres Box Office directly by e-mailing <a href="mailto:meridiancentrepointe@ottawa.ca">meridiancentrepointe@ottawa.ca</a>.
+  additional:
+    title: Additional COVID-19 Information
+    p: "The OPO cares deeply about keeping our communities healthy. In accordance to the Public Health Agency of Canada, it is recommended that: "
+    li1: If you are experiencing sneezing, coughing, or fever, please stay home.
+    li2: Cover your nose and mouth with a tissue when coughing or sneezing (or an elbow or shoulder if no tissue is available).
+    li3: Consider elbow bumps – or perhaps jazz hands – instead of handshakes!
+  meridian:
+    title:  Meridian Theatres @ Centrepointe Box office
+    p1: "Telephone: 613-580-2700 (Phone lines are closed at this time)"
+    p2: "Toll-free: 1-866-752-5231"
+  p5: For more detailed information about and general precautions regarding COVID-19, please visit the <a href="https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html" target="_blank">Public Health Agency of Canada website</a>. We want to extend our best wishes for your health, both physical and mental, during this difficult time. While we will miss making music with you, we have hope for a healthy and music-filled future
+  p6: Sincerely,
+  p7: The Ottawa Pops Orchestra Team

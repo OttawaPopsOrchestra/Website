@@ -271,12 +271,6 @@ h6 {
   margin-top: 140px;
 }
 
-<<<<<<< HEAD
-#donate-button {
-}
-
-=======
->>>>>>> callForScores
 .about-us-main {
   color: white;
   font-size: 20px;
@@ -1062,6 +1056,41 @@ h6 {
   margin-top: 1em;
 }
 
+.covid {
+  width: 60%;
+  background-color: white;
+}
+
+.covid .row {
+  margin: 0 auto;
+  padding: 4em;
+
+}
+
+.covid .title {
+  color: #920503;
+}
+
+.covid .body {
+  font-size: 18px;
+}
+
+.covid .dates {
+  color: #920503;
+  background-color: #efefef;
+  margin: 0 auto;
+
+  padding: 2em;
+  border-radius: 25px;
+  width: 90%;
+  margin: 2em auto;
+  box-shadow: 15px 15px rgba(191, 191, 191, 0.8);
+}
+
+.covid a {
+  color: #920503;
+}
+
 @media (max-width: 1200px) {
   .support-us-item {
     background-image: none;
@@ -1570,5 +1599,21 @@ h6 {
 
   #playlist {
     text-align: center;
+  }
+
+  .covid {
+    width: 95%;
+  }
+
+  .covid .row {
+    padding: 1em;
+
+  }
+
+  .covid .dates {
+    padding: 1.5em;
+    width: 100%;
+    margin: 1em auto;
+    box-shadow: 5px 5px rgba(191, 191, 191, 0.8);
   }
 }

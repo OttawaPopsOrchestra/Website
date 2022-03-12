@@ -663,7 +663,7 @@ concerts:
       time: 19 h 30
     refund: Message concernant les remboursements et échanges
     description: "Veuillez conserver vos billets puisque tous les détenteurs de billets verront leurs billets transférés aux nouvelles dates de représentations. Les détenteurs de billets qui ne peuvent pas assister aux nouvelles dates de représentations peuvent demander un remboursement en contactant directement la billetterie des Théâtres Meridian. Sachez que les employés municipaux travaillent à domicile et que les lignes téléphoniques sont fermées. Veuillez contacter notre billetterie par e-mail à <a href='billetterietmtcpboxoffice@ottawa.ca' style='color: #920503'>billetterietmtcpboxoffice@ottawa.ca</a>, en joignant vos demandes de remboursement ou d'échange.   "
-    description2: "Nous lançons l’appel à tous les mages et guerriers : la chance d’embarquer dans votre domaine préféré est arrivée avec La Symphonie de jeux vidéo ! L’aventure débute à 18 h 30 le 21 mars 2020. Revivez la musique des meilleurs jeux, de grands classiques au nouveaux arrivés. Tous seront dirigés par le chef d’orchestre de l’Orchestre de Jeux Vidéo de Montréal et de l’Orchestre Pop d’Ottawa, Jonathan Dagenais ! Témoignez de la splendeur d’un orchestre complet EN DIRECT, accompagné d’une projection cinématique."
+    description2: "Nous lançons l’appel à tous les mages et guerriers : la chance d’embarquer dans votre domaine préféré est arrivée avec La Symphonie de jeux vidéo! Revivez la musique des meilleurs jeux, de grands classiques au nouveaux arrivés. Témoignez de la splendeur d’un orchestre complet EN DIRECT, accompagné d’une projection cinématique."
 
   broadway:
     title: Pops sur Broadway!
@@ -706,3 +706,31 @@ callForScores:
   p2: Pour participer, veuillez soumettre les candidatures dûment en cliquant sur le bouton “Inscrivez-vous ici.”
   p3: Les soumissions seront examinées par le comité de sélection composé de 3 personnes en utilisant un processus de sélection en aveugle. Les gagnats seront sélectionnées avant le 3 mars 2022 et annoncés le vendredi 4 mars.
 
+covid:
+  updated: "Mis à jour le: le 11 mars 2022"
+  title: Comment l’OPO réagit à la COVID-19
+  p1: Chers spectateurs,
+  p2: La santé et sécurité de nos publics, musiciens et membres du personnel nous est prioritaire. Par conséquent, nous continuons d'exiger <b>une preuve de vaccination</b> jusqu'à nouvel ordre. Les spectateurs devront également porter un masque lorsqu'ils ou elles sont assis(es) dans les salles de spectacle. De plus, à compter du 1er mars 2022, les limites de capacité ont été levées et la distanciation physique n'est plus requise.
+  p3: Les personnes souhaitant assister à des spectacles, des réunions et des événements doivent présenter leur preuve de vaccination contre la COVID-19 muni d’un code QR ou la version disponible sur l’application créée à cet effet. On peut également fournir une preuve de vaccination en version papier et une pièce d’identité avec photo.
+  p4: Les <b>seules exemptions</b> autorisées pour pouvoir accéder à l’édifice concernent les personnes non vaccinées bénéficiant d’exemptions médicales et les personnes de moins de 12 ans. Les personnes qui ne peuvent pas recevoir le vaccin en raison d’exemptions médicales devront enregistrer leur note du médecin avec l’application mobile VérifOntario.
+  dates:
+    title: Nouvelles dates pour les spectacles précédemment reportés
+    li1: La Symphonie de jeux vidéo prévue pour le 21 mars 2021 aura maintenant lieu <u>le vendredi et samedi 13 and 14 mai 2022 à 19h30.</u>
+    li2: Pops, sur Broadway! aura lieu <u>le dimanche and lundi 6 & 7 novembre à 19h00.</u>
+    p: Les deux spectacles auront lieu aux Théâtres Meridian à Centrepointe, 101, promenade Centrepointe.
+  refund:
+    title: Message concernant les remboursements et échanges
+    p: Veuillez conserver vos billets puisque tous les détenteurs de billets verront leurs billets transférés aux nouvelles dates de représentations. Les détenteurs de billets qui ne peuvent pas assister aux nouvelles dates de représentations peuvent demander un remboursement en contactant directement la billetterie des Théâtres Meridian par courriel à <a href="mailto:meridiancentrepointe@ottawa.ca">meridiancentrepointe@ottawa.ca</a>.
+  additional:
+    title: Autres renseignements sur la COVID-19
+    p: "L’OPO se préoccupe profondément de la santé de notre communauté. Selon l’Agence de la santé publique du Canada, il est fortement recommandé de : "
+    li1: Rester à la maison si vous souffrez d’éternuements, de toux, ou de fièvre ;
+    li2: Couvrir votre nez et votre bouche avec un mouchoir en toussant ou en éternuant (avec votre coude si un mouchoir n’est pas à votre disposition);
+    li3: Considérer des légers coups de coude – ou même des mains de jazz – au lieu de se serrer la main!
+  meridian:
+    title:  Billetterie des Théâtres Meridian à Centrepointe
+    p1: "Téléphone : 613-580-2700 (lignes téléphoniques fermées)"
+    p2: "Sans-frais : 1-866-752-5231 "
+  p5: Pour de plus amples renseignements sur la COVID-19, veuillez consulter <a href="https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus.html" target="_blank">la page web de l’Agence de la santé publique du Canada</a>. Nous vous présentons nos meilleurs vœux pour votre santé physique et mentale au cours de cette période de temps difficile. Nous espérons partager notre amour pour la musique avec vous bientôt, tout en vous souhaitant un avenir rempli de musique et de bonne santé.
+  p6: Sincèrement,
+  p7: L’équipe de l’Orchestre Pop d’Ottawa
