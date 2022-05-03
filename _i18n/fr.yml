@@ -661,8 +661,8 @@ concerts:
     concert2:
       date: le 14 mai 2022
       time: 19 h 30
-    refund: Message concernant les remboursements et échanges
-    description: "Veuillez conserver vos billets puisque tous les détenteurs de billets verront leurs billets transférés aux nouvelles dates de représentations. Les détenteurs de billets qui ne peuvent pas assister aux nouvelles dates de représentations peuvent demander un remboursement en contactant directement la billetterie des Théâtres Meridian. Sachez que les employés municipaux travaillent à domicile et que les lignes téléphoniques sont fermées. Veuillez contacter notre billetterie par e-mail à <a href='billetterietmtcpboxoffice@ottawa.ca' style='color: #920503'>billetterietmtcpboxoffice@ottawa.ca</a>, en joignant vos demandes de remboursement ou d'échange.   "
+    refund: Mesures de sécurité en place
+    description: "Afin de créer l'environnement le plus sûr et le plus confortable possible pour nos auditoires, nos artistes et nos employés, l'Orchestre Pop d'Ottawa continuera d'exiger que les spectateurs portent un masque dans ses salles et lorsqu'ils sont assis dans les salles de spectacle. Une preuve de vaccination n'est plus requise pour les spectateurs. De plus, à compter du 1er mars 2022, les limites de capacité ont été levées et la distance physique n'est plus requise."
     description2: "Nous lançons l’appel à tous les mages et guerriers : la chance d’embarquer dans votre domaine préféré est arrivée avec La Symphonie de jeux vidéo! Revivez la musique des meilleurs jeux, de grands classiques au nouveaux arrivés. Témoignez de la splendeur d’un orchestre complet EN DIRECT, accompagné d’une projection cinématique."
 
   broadway:
@@ -707,12 +707,10 @@ callForScores:
   p3: Les soumissions seront examinées par le comité de sélection composé de 3 personnes en utilisant un processus de sélection en aveugle. Les gagnats seront sélectionnées avant le 3 mars 2022 et annoncés le vendredi 4 mars.
 
 covid:
-  updated: "Mis à jour le: le 11 mars 2022"
+  updated: "Mis à jour le: le 2 mai 2022"
   title: Comment l’OPO réagit à la COVID-19
   p1: Chers spectateurs,
-  p2: La santé et sécurité de nos publics, musiciens et membres du personnel nous est prioritaire. Par conséquent, nous continuons d'exiger <b>une preuve de vaccination</b> jusqu'à nouvel ordre. Les spectateurs devront également porter un masque lorsqu'ils ou elles sont assis(es) dans les salles de spectacle. De plus, à compter du 1er mars 2022, les limites de capacité ont été levées et la distanciation physique n'est plus requise.
-  p3: Les personnes souhaitant assister à des spectacles, des réunions et des événements doivent présenter leur preuve de vaccination contre la COVID-19 muni d’un code QR ou la version disponible sur l’application créée à cet effet. On peut également fournir une preuve de vaccination en version papier et une pièce d’identité avec photo.
-  p4: Les <b>seules exemptions</b> autorisées pour pouvoir accéder à l’édifice concernent les personnes non vaccinées bénéficiant d’exemptions médicales et les personnes de moins de 12 ans. Les personnes qui ne peuvent pas recevoir le vaccin en raison d’exemptions médicales devront enregistrer leur note du médecin avec l’application mobile VérifOntario.
+  p2: La santé et sécurité de nos publics, musiciens et membres du personnel nous est prioritaire. Par conséquent, nous continuons d'exiger que les spectateurs portent un masque lorsqu'ils ou elles sont assis(es) dans les salles de spectacle. Une preuve de vaccination n'est plus requise. De plus, à compter du 1er mars 2022, les limites de capacité ont été levées et la distanciation physique n'est plus requise.
   dates:
     title: Nouvelles dates pour les spectacles précédemment reportés
     li1: La Symphonie de jeux vidéo prévue pour le 21 mars 2021 aura maintenant lieu <u>le vendredi et samedi 13 and 14 mai 2022 à 19h30.</u>

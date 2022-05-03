@@ -660,7 +660,7 @@ concerts:
       date: May 14, 2022
       time: 7:30PM
     refund: Safety measures in place
-    description: "In order to create the safest and most comfortable environment possible for our audiences, artists and employees, the Ottawa Pops Orchestra will continue to require proof of vaccination until further notice. Patrons will also be required to wear a mask in the venue, and while seated in the performance halls. Additionally, as of March 1st 2022, capacity limits have been lifted, and physical distancing is no longer required. "
+    description: "In order to create the safest and most comfortable environment possible for our audiences, artists and employees, the Ottawa Pops Orchestra will continue to require patrons to wear a mask in its the venues, and while seated in the performance halls. Proof of vaccination is no longer required. Additionally, as of March 1st 2022, capacity limits have been lifted, and physical distancing is no longer required. "
     description2: "Calling all mages and warriors: the chance to step into your favourite realm has arrived, with the Video Game Symphony! Relive the thrill of some of the best video games of all time! Experience the magnificence of a full LIVE orchestra accompanied by a cinematic video projection."
 
   broadway:
@@ -707,12 +707,10 @@ callForScores:
 
 
 covid:
-  updated: "Updated on: March 11 2022"
+  updated: "Updated on: May 2 2022"
   title: How the OPO is responding to COVID-19
   p1: To Our Valued Patrons,
-  p2: The health and safety of our audience, musicians, and staff is deeply important to us at the Ottawa Pops Orchestra. As a result, we continue to require <b>proof of vaccination</b> until further notice. Patrons will also be required to wear a mask in the venue, and while seated in the performance halls. Additionally, as of March 1st 2022, capacity limits have been lifted, and physical distancing is no longer required.
-  p3: Please be prepared to present your vaccine certificate with unique QR code, either in printed format or digitally via your mobile device. We will also accept a paper proof of vaccination with photo ID.
-  p4: The only <b>exemptions</b> permitted are for unvaccinated people with medical exemptions and people under 12 years old. Individuals who cannot receive the vaccine due to a medical condition will need to register their exemption with the Verify Ontario mobile app. Please be prepared to present your unique QR code, either in printed format or digitally via your mobile device.
+  p2: The health and safety of our audience, musicians, and staff is deeply important to us at the Ottawa Pops Orchestra. As a result, we continue to require patrons to wear a mask in the venue, and while seated in the performance halls. Additionally, as of March 1st 2022, capacity limits have been lifted, and physical distancing is no longer required. Proof of vaccination for audience members is no longer required.
   dates:
     title: New Dates for Previously Postponed Shows
     li1: The Video Game Symphony concert originally scheduled for March 21st 2020 will now occur on <u>Friday and Saturday, May 13 & 14 2022 at 7:30PM.</u>

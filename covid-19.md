@@ -12,8 +12,6 @@ permalink: /covid-19/
         <div class="body">
           <p>{% t covid.p1 %}</p>
           <p>{% t covid.p2 %}</p>
-          <p>{% t covid.p3 %}</p>
-          <p>{% t covid.p4 %}</p>
           <div class="dates">
               <h6>{% t covid.dates.title %}</h6>
               <ul>
