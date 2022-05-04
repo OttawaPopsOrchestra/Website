@@ -39,6 +39,7 @@ upcoming:
   showAll: Tous les concerts
   hmwDate: le 8 nov
   videoDate: le 13 mai
+  newworks: le 21 mai
   broadDate: le 6 nov
   gladstone: le 18 déc
 
@@ -676,6 +677,48 @@ concerts:
     refund: Message concernant les remboursements et échanges
     description: "Veuillez conserver vos billets puisque tous les détenteurs de billets verront leurs billets transférés aux nouvelles dates de représentations. Les détenteurs de billets qui ne peuvent pas assister aux nouvelles dates de représentations peuvent demander un remboursement en contactant directement la billetterie des Théâtres Meridian. Sachez que les employés municipaux travaillent à domicile et que les lignes téléphoniques sont fermées. Veuillez contacter notre billetterie par e-mail à <a href='billetterietmtcpboxoffice@ottawa.ca' style='color: #920503'>billetterietmtcpboxoffice@ottawa.ca</a>, en joignant vos demandes de remboursement ou d'échange.   "
     description2: Mettez vos chaussures de danse et qu’on monte le son, le meilleur de Broadway vient à Ottawa au printemps 2020! L’Orchestre Pops d’Ottawa vous invite à “Pops sur Broadway!”, qui se tiendra au Théâtres Meridian @ Centrepointe le 16 mai 2020. Nous promettons une soirée pleine de rires, de triomphes et de mélodies dansantes qui plairont à toute la famille! Venez écouter vos chansons favorites des spectacles comme Evita, Les Misérables, Wicked, West Side Story, et encore plus, présentées par un orchestre symphonique et d’excellents chanteurs !
+
+  newWorks:
+    title: Projet Nouvelles Oeuvres
+    detail: New works project FR
+    banner: NWP banner FR
+    tickets: Billets vendus par Eventbrite
+    concert1:
+      date: le 21 mai 2022
+      time: 19h00
+    location:
+      loc1: MacKay United Church
+      loc2: 39 Dufferin Rd,
+      loc3: Ottawa, ON K1M 2H3
+    description: Nous sommes ravis de vous présenter les compositeurs sélectionnés dans le cadre de notre Projet Nouvelles œuvres, une initiative créée pour offrir aux jeunes compositeurs canadiens émergents une plateforme pour leur musique. Ces nouvelles œuvres de chambre vous guideront dans un voyage à travers différents mondes, tout en étant témoin d'un scandale grossier et de la danse des Madjnoon.
+    description2: Les compositions sélectionnées dans le cadre de notre Projet Nouvelles Œuvres seront interprétées en live le 21 mai 2022 à l'église unie MacKay d'Ottawa et diffusées en direct sur YouTube. Les dons sont appréciés.
+    program:
+      title: Programme
+      prog1:
+        performer: Yanik Fillion-Murphy
+        for: pour quintet à vents
+        song: Horizons réfractés
+      prog2:
+        performer: Matthew-John Knights
+        for: pour violon, violoncelle et piano
+        song: The Scandal
+      prog3:
+        performer: Roydon Tse
+        for: pour quatuor de clarinettes
+        song: Preludes
+      intermission: Intermission
+      prog4:
+        performer: Saman Shahi
+        for: trio pour clarinette, violon et piano
+        song: Dance of the Majnoon
+      prog5:
+        performer: Hsiu-Ping (Patrick) Wu
+        for: pour quatuor à cordes
+        song: The End of the Beginning
+      prog6:
+        performer: Sami Seif
+        for: pour quatuor à cordes
+        song: Orientalism
 
 joinBoard:
   header: Rejoignez notre conseil
