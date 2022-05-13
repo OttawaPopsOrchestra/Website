@@ -85,6 +85,8 @@ permalink: /programming/videogamesymphony/
             <div class="row concert-description">
                 <div class="col">
                     <p>{% t concerts.VGS.description2 %}</p>
+                    <h4>{% t concerts.VGS.update.title %}</h4>
+                    <p>{% t concerts.VGS.update.p %}</p>
                     <h4>{% t concerts.VGS.refund %}</h4>
                     <p>{% t concerts.VGS.description %}</p>
                 </div>
