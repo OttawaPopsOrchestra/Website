@@ -656,6 +656,7 @@ concerts:
 
   VGS:
     title: Symphonie de jeux vidéo
+    pdf: Video Games Program 2022 FRENCH
     concert1:
       date: le 3 juin 2022
       time: 19 h 30
@@ -722,6 +723,7 @@ concerts:
         performer: Sami Seif
         for: pour quatuor à cordes
         song: Orientalism
+    pdf: FINAL New Works Program 2022 FRANCAIS
 
 joinBoard:
   header: Rejoignez notre conseil

@@ -654,6 +654,7 @@ concerts:
 
   VGS:
     title: Video Game Symphony
+    pdf: Video Games Program 2022 ENGLISH
     concert1:
       date: June 3, 2022
       time: 7:30PM
@@ -721,6 +722,7 @@ concerts:
         performer: Sami Seif
         for: for String Quartet
         song: Orientalism
+    pdf: FINAL New Works Program 2022 ENGLISH
 
 
 joinBoard:
